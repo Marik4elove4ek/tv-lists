@@ -24,5 +24,12 @@
   "group": "Израиль",
   "logo": "https://i.imgur.com/eFM3bTq.png",
   "id": "Channel13.il@SD"
+ },
+ {
+  "name": "Kan Educational",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8",
+  "group": "Израиль",
+  "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
+  "id": "KanEducational.il@SD"
  }
 ]
