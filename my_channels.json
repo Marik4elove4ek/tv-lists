@@ -285,49 +285,49 @@
  },
  {
   "name": "Kan Bet",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Gimel",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan 88",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Reka",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 110
  },
  {
   "name": "Kan Moreshet",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_moreshet/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 910
  },
  {
   "name": "Kan Kol HaMusica",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Tarbut",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_tarbut/live.livx/playlist.m3u8",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
   "group": "📻 Радио",
   "logo": "",
   "order": 300

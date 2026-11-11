@@ -362,7 +362,7 @@ https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Reka
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Музыка 106.4 FM
 https://cdna.streamgates.net/TheBest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
@@ -384,15 +384,15 @@ https://glzwizzlv.bynetcdn.com/glglz_mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",HaTahana 101.5FM
 https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan 88
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Bet
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Gimel
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Kol HaMusica
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Tarbut
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_tarbut/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kol Rega 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" group-title="📻 Радио",Noshmim Mizrahit
@@ -424,6 +424,6 @@ https://icecast.live/up2dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png" group-title="📻 Радио",Kol Barama
 https://live.kol-barama.co.il/hls/mystreambini.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Moreshet
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_moreshet/live.livx/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Kol Chai 93FM
 https://media2.93fm.co.il/live-new
