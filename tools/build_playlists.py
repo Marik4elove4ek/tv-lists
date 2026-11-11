@@ -252,7 +252,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         if c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
-                               group=c.get('group') or 'Мои каналы', keep=True, pin=False, logo=c.get('logo', '')))
+                               group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), logo=c.get('logo', '')))  # pin: первым в своей папке
 write('all.m3u', merged, ['Израиль', 'Русские каналы', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия'])
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
