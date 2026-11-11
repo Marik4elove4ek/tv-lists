@@ -20,7 +20,8 @@
   "group": "Израиль",
   "logo": "https://i.imgur.com/QXB1jv8.png",
   "id": "KnessetChannel.il@SD",
-  "order": 18
+  "order": 18,
+  "epg": "Knesset.il"
  },
  {
   "name": "רשת 13",
@@ -1251,7 +1252,8 @@
  {
   "id": "Hidabroot.il@SD",
   "title": "הידברות",
-  "order": 103
+  "order": 103,
+  "epg": "Hidabroot.il"
  },
  {
   "id": "RealityChannel.il@SD",
