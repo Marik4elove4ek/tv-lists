@@ -27,7 +27,7 @@ https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/in
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-logo="https://i.imgur.com/VxAHOgr.png" group-title="Израиль",קבלה לעם
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Израиль",מוסיוף
+#EXTINF:-1 tvg-id="" tvg-logo="https://musayof.org/top1.jpg" group-title="Израиль",מוסיוף
 https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8
 #EXTINF:-1 tvg-id="ShelanuTV.il@SD" tvg-logo="https://i.imgur.com/UVz2Ojq.png" group-title="Израиль",שלנו TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
