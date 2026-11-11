@@ -373,5 +373,26 @@
   "group": "📻 Радио",
   "logo": "https://radio.coolsite.co.il/images/small/73.jpg",
   "order": 110
+ },
+ {
+  "name": "Israeli Radio 107.1 FM (Miami, USA)",
+  "url": "https://a6.asurahosting.com:6650/radio.mp3",
+  "group": "📻 רדיו ישראלי",
+  "logo": "https://israeliradiomiami.com/logo.png",
+  "order": 300
+ },
+ {
+  "name": "Radio Qualita",
+  "url": "https://listen.radioking.com/radio/345145/stream/393862",
+  "group": "📻 רדיו ישראלי",
+  "logo": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
+  "order": 300
+ },
+ {
+  "name": "Kol HaLev Radio",
+  "url": "https://us1.streamingpulse.com/ssl/KolHalev",
+  "group": "📻 רדיו ישראלי",
+  "logo": "",
+  "order": 300
  }
 ]

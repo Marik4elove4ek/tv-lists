@@ -361,6 +361,8 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png" group-title="📻 רדיו ישראלי",Radius 100FM
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://israeliradiomiami.com/logo.png" group-title="📻 רדיו ישראלי",Israeli Radio 107.1 FM (Miami, USA)
+https://a6.asurahosting.com:6650/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://103fm.maariv.co.il/images/ic_launcher.png" group-title="📻 רדיו ישראלי",103FM
 https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/7.jpg" group-title="📻 רדיו ישראלי",eco99fm
@@ -383,6 +385,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/28.jpg" group-title="📻 רדיו ישראלי",Kan Tarbut
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
+#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kol HaLev Radio
+https://us1.streamingpulse.com/ssl/KolHalev
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/23.jpg" group-title="📻 רדיו ישראלי",Kol Rega 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" group-title="📻 רדיו ישראלי",Noshmim Mizrahit
@@ -405,6 +409,8 @@ https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8
 https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/25.jpg" group-title="📻 רדיו ישראלי",Radio Jerusalem 101FM
 https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/118602.v1.png" group-title="📻 רדיו ישראלי",Radio Qualita
+https://listen.radioking.com/radio/345145/stream/393862
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/4.jpg" group-title="📻 רדיו ישראלי",Radio Tel Aviv 102FM
 https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/62.jpg" group-title="📻 רדיו ישראלי",Radio Tzafon 104.5FM
