@@ -5,7 +5,7 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="11-kanal-il" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/kan11.png" group-title="ישראל",כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="kan23-il" tvg-logo="https://www.kankids.org.il/favicon-kids/apple-touch-icon.png" group-title="ישראל",כאן חינוכית
+#EXTINF:-1 tvg-id="kan23-il" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/kanhinuchit.png" group-title="ישראל",כאן חינוכית
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="ישראל",רשת 13
 https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8
