@@ -206,5 +206,131 @@
   "url": "https://rs.mizrahit.fm:7777/;",
   "group": "📻 Радио",
   "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png"
+ },
+ {
+  "name": "Radio Tel Aviv 102FM",
+  "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "eco99fm",
+  "url": "https://99.mediacast.co.il/99fm_aac",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kol Chai 93FM",
+  "url": "https://media2.93fm.co.il/live-new",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio Eilat 102FM",
+  "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio Darom 101.5FM",
+  "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "HaTahana 101.5FM",
+  "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio Haifa 107.5FM",
+  "url": "https://1075.livecdn.biz/radiohaifa",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio 99.5 Ham Esh",
+  "url": "https://995.livecdn.biz/995fm",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio 1",
+  "url": "https://radio.streamgates.net/stream/radio1",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Bet",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Gimel",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan 88",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Reka",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Moreshet",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_moreshet/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Kol HaMusica",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kan Tarbut",
+  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_tarbut/live.livx/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Galatz",
+  "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Galgalatz",
+  "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio 90FM",
+  "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Kol Rega 96FM",
+  "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio Tzafon 104.5FM",
+  "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
  }
 ]

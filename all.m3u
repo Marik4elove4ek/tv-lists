@@ -369,16 +369,58 @@ https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQa
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://103fm.maariv.co.il/images/ic_launcher.png" group-title="📻 Радио",103FM
 https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",eco99fm
+https://99.mediacast.co.il/99fm_aac
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Galatz
+https://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gly.co.il/static/images/webclip.png" group-title="📻 Радио",Galei Israel
 https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Galgalatz
+https://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",HaTahana 101.5FM
+https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan 88
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Bet
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Gimel
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Kol HaMusica
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Moreshet
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_moreshet/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Reka
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Tarbut
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_tarbut/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kol Chai 93FM
+https://media2.93fm.co.il/live-new
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kol Rega 96FM
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" group-title="📻 Радио",Noshmim Mizrahit
 https://rs.mizrahit.fm:7777/;
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio 1
+https://radio.streamgates.net/stream/radio1
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio 90FM
+https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio 99.5 Ham Esh
+https://995.livecdn.biz/995fm
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Beat
 https://live.radio-beat.com/stream1
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Darom 101.5FM
+https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Darom 97FM
 https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Eilat 102FM
+https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Haifa 107.5FM
+https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Jerusalem 101FM
 https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Tel Aviv 102FM
+https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Radio Tzafon 104.5FM
+https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 Радио",Up2Dance Radio
 https://icecast.live/up2dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
