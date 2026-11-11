@@ -1153,5 +1153,13 @@
   "logo": "",
   "pin": true,
   "order": 100
+ },
+ {
+  "name": "Новое Радио (Минск, Беларусь)",
+  "url": "https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
  }
 ]
