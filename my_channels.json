@@ -1218,7 +1218,8 @@
   "id": "Channel16.il@SD",
   "order": 17,
   "title": "ערוץ 16",
-  "epg": "16-kanal-il-hd"
+  "epg": "16-kanal-il-hd",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ch16.png"
  },
  {
   "id": "KabbalahforthePeopleIsrael.il@SD",

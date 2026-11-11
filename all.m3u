@@ -13,7 +13,7 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/in
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="i24-il" tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="ישראל",i24NEWS
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="16-kanal-il-hd" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="ישראל",ערוץ 16
+#EXTINF:-1 tvg-id="16-kanal-il-hd" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ch16.png" group-title="ישראל",ערוץ 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="knesset.il" tvg-logo="https://i.imgur.com/QXB1jv8.png" group-title="ישראל",ערוץ הכנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
