@@ -1145,5 +1145,13 @@
   "group": "Россия: регионы",
   "logo": "https://i.imgur.com/AihoVc0.png",
   "id": "Lugansk24.ua@SD"
+ },
+ {
+  "name": "Радио Хит 103.7 FM (Орск, Россия)",
+  "url": "https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
  }
 ]
