@@ -145,7 +145,7 @@
   "name": "Радио Наария",
   "url": "https://cast.radionahariya.com:8443/main.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_nahariya.png",
   "order": 300
  },
  {
@@ -168,14 +168,14 @@
   "name": "103FM",
   "url": "https://cdn.cybercdn.live/103FM/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://103fm.maariv.co.il/images/ic_launcher.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_103fm.png",
   "order": 300
  },
  {
   "name": "גלי ישראל",
   "url": "https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://www.gly.co.il/static/images/webclip.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galei_israel.png",
   "order": 300
  },
  {
@@ -240,7 +240,7 @@
   "name": "eco99fm",
   "url": "https://99.mediacast.co.il/99fm_aac",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/7.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eco99.png",
   "order": 300
  },
  {
@@ -261,14 +261,14 @@
   "name": "רדיו דרום 101.5FM",
   "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/47.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_darom1015.png",
   "order": 300
  },
  {
   "name": "התחנה 101.5FM",
   "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/15.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hatahana.png",
   "order": 300
  },
  {
@@ -303,14 +303,14 @@
   "name": "כאן גימל",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/16.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_gimel.png",
   "order": 300
  },
  {
   "name": "כאן 88",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/1.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan88.png",
   "order": 300
  },
  {
@@ -331,7 +331,7 @@
   "name": "כאן קול המוסיקה",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/26.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_musica.png",
   "order": 300
  },
  {
@@ -345,14 +345,14 @@
   "name": "גלי צה״ל",
   "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/6.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galatz.png",
   "order": 300
  },
  {
   "name": "גלגלצ",
   "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/8.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galgalatz.png",
   "order": 300
  },
  {
@@ -387,7 +387,7 @@
   "name": "הרדיו הישראלי 107.1FM (מיאמי, ארה״ב)",
   "url": "https://a6.asurahosting.com:6650/radio.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://israeliradiomiami.com/logo.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_israeli_miami.png",
   "order": 300
  },
  {
