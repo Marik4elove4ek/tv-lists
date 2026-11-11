@@ -160,7 +160,7 @@
   "name": "רדיו קול ברמה",
   "url": "https://live.kol-barama.co.il/hls/mystreambini.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_barama.png",
   "pin": true,
   "order": 900
  },
@@ -197,7 +197,7 @@
   "name": "רדיו ביט",
   "url": "https://live.radio-beat.com/stream1",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/49.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_beat.png",
   "order": 300
  },
  {
@@ -212,28 +212,28 @@
   "name": "רדיו דרום 97FM",
   "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/14.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_darom97.png",
   "order": 300
  },
  {
   "name": "רדיו ירושלים 101FM",
   "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/25.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_jerusalem.png",
   "order": 300
  },
  {
   "name": "נושמים מזרחית",
   "url": "https://rs.mizrahit.fm:7777/;",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrahit.png",
   "order": 300
  },
  {
   "name": "רדיו תל אביב 102FM",
   "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/4.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_telaviv.png",
   "order": 300
  },
  {
@@ -247,14 +247,14 @@
   "name": "רדיו קול חי 93FM",
   "url": "https://media2.93fm.co.il/live-new",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/21.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_chai.png",
   "order": 910
  },
  {
   "name": "רדיו אילת 102FM",
   "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/27.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eilat.png",
   "order": 300
  },
  {
@@ -275,7 +275,7 @@
   "name": "רדיו חיפה 107.5FM",
   "url": "https://1075.livecdn.biz/radiohaifa",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/11.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_haifa.png",
   "order": 300
  },
  {
@@ -289,7 +289,7 @@
   "name": "רדיו 1",
   "url": "https://radio.streamgates.net/stream/radio1",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/88.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio1.png",
   "order": 300
  },
  {
@@ -317,14 +317,14 @@
   "name": "כאן רק״ע",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/74.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_reka.png",
   "order": 300
  },
  {
   "name": "כאן מורשת",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/20.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_moreshet.png",
   "order": 910
  },
  {
@@ -338,7 +338,7 @@
   "name": "כאן תרבות",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/28.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_tarbut.png",
   "order": 300
  },
  {
@@ -359,21 +359,21 @@
   "name": "רדיו 90FM",
   "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/2.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_r90.png",
   "order": 300
  },
  {
   "name": "רדיו קול רגע 96FM",
   "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/23.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_rega.png",
   "order": 300
  },
  {
   "name": "רדיו צפון 104.5FM",
   "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/62.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_tzafon.png",
   "order": 300
  },
  {
@@ -394,14 +394,14 @@
   "name": "רדיו קוואליטה",
   "url": "https://listen.radioking.com/radio/345145/stream/393862",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_qualita.png",
   "order": 300
  },
  {
   "name": "רדיו קול הלב (ארה״ב)",
   "url": "https://us1.streamingpulse.com/ssl/KolHalev",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://www.kolhalev.com/images/kolhalevlogo.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kolhalev.png",
   "order": 300
  },
  {
@@ -422,14 +422,14 @@
   "name": "קול השפלה 103.6FM",
   "url": "https://radio.streamgates.net/stream/1036kh",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_shfela.png",
   "order": 300
  },
  {
   "name": "רדיו אשל הנשיא",
   "url": "http://stream.eshelnet.com/xstream",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eshel.png",
   "order": 300
  },
  {
