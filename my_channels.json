@@ -3,34 +3,39 @@
   "name": "TV10",
   "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
   "group": "Израиль",
-  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg"
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
+  "order": 11
  },
  {
   "name": "Angel TV Hebrew",
   "url": "https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
   "group": "Израиль",
-  "logo": "https://www.angeltv.org/favicon/apple.png"
+  "logo": "https://www.angeltv.org/favicon/apple.png",
+  "order": 900
  },
  {
   "name": "Knesset Channel",
   "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://i.imgur.com/QXB1jv8.png",
-  "id": "KnessetChannel.il@SD"
+  "id": "KnessetChannel.il@SD",
+  "order": 18
  },
  {
   "name": "Reshet 13",
   "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8",
   "group": "Израиль",
   "logo": "https://i.imgur.com/eFM3bTq.png",
-  "id": "Channel13.il@SD"
+  "id": "Channel13.il@SD",
+  "order": 14
  },
  {
   "name": "Kan Educational",
   "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
-  "id": "KanEducational.il@SD"
+  "id": "KanEducational.il@SD",
+  "order": 13
  },
  {
   "name": "ABC News Live",
@@ -1185,5 +1190,25 @@
   "logo": "",
   "pin": true,
   "order": 100
+ },
+ {
+  "id": "Channel9.il@SD",
+  "order": 10
+ },
+ {
+  "id": "Kan11.il@SD",
+  "order": 12
+ },
+ {
+  "id": "Now14.il@SD",
+  "order": 15
+ },
+ {
+  "id": "i24NEWSHebrew.il@SD",
+  "order": 16
+ },
+ {
+  "id": "Channel16.il@SD",
+  "order": 17
  }
 ]
