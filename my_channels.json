@@ -389,10 +389,10 @@
   "order": 300
  },
  {
-  "name": "Kol HaLev Radio",
+  "name": "Kol HaLev Radio (USA)",
   "url": "https://us1.streamingpulse.com/ssl/KolHalev",
   "group": "📻 רדיו ישראלי",
-  "logo": "",
+  "logo": "https://www.kolhalev.com/images/kolhalevlogo.png",
   "order": 300
  }
 ]
