@@ -1,20 +1,20 @@
 [
  {
-  "name": "TV10",
+  "name": "ערוץ 10",
   "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
   "order": 11
  },
  {
-  "name": "Angel TV Hebrew",
+  "name": "Angel TV",
   "url": "https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://www.angeltv.org/favicon/apple.png",
   "order": 900
  },
  {
-  "name": "Knesset Channel",
+  "name": "ערוץ הכנסת",
   "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://i.imgur.com/QXB1jv8.png",
@@ -22,7 +22,7 @@
   "order": 18
  },
  {
-  "name": "Reshet 13",
+  "name": "רשת 13",
   "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8",
   "group": "Израиль",
   "logo": "https://i.imgur.com/eFM3bTq.png",
@@ -30,7 +30,7 @@
   "order": 14
  },
  {
-  "name": "Kan Educational",
+  "name": "כאן חינוכית",
   "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
@@ -1193,45 +1193,65 @@
  },
  {
   "id": "Channel9.il@SD",
-  "order": 10
+  "order": 10,
+  "title": "ערוץ 9"
  },
  {
   "id": "Kan11.il@SD",
-  "order": 12
+  "order": 12,
+  "title": "כאן 11"
  },
  {
   "id": "Now14.il@SD",
-  "order": 15
+  "order": 15,
+  "title": "עכשיו 14"
  },
  {
   "id": "i24NEWSHebrew.il@SD",
-  "order": 16
+  "order": 16,
+  "title": "i24NEWS"
  },
  {
   "id": "Channel16.il@SD",
-  "order": 17
+  "order": 17,
+  "title": "ערוץ 16"
  },
  {
   "id": "KabbalahforthePeopleIsrael.il@SD",
-  "order": 880
+  "order": 880,
+  "title": "קבלה לעם"
  },
  {
   "id": "ShelanuTV.il@SD",
-  "order": 895
+  "order": 895,
+  "title": "שלנו TV"
  },
  {
-  "name": "Musayof (Israel)",
+  "name": "מוסיוף",
   "url": "https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8",
   "group": "Израиль",
   "logo": "",
-  "order": 890
+  "order": 890,
+  "replaces": "Musayof (Israel)"
  },
  {
   "id": "ComedyChannel.il@SD",
-  "order": 100
+  "order": 100,
+  "title": "ערוץ הקומדיה"
  },
  {
   "id": "VacationChannel.il@SD",
-  "order": 101
+  "order": 101,
+  "title": "ערוץ החופשה"
+ },
+ {
+  "id": "Hidabroot.il@SD",
+  "title": "הידברות",
+  "order": 103
+ },
+ {
+  "id": "RealityChannel.il@SD",
+  "title": "ערוץ הריאליטי",
+  "order": 102
  }
 ]
