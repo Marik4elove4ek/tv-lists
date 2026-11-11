@@ -1010,5 +1010,11 @@
   "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
   "group": "Русские каналы",
   "logo": ""
+ },
+ {
+  "name": "МТРК (Петропавловск, Казахстан)",
+  "url": "https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
  }
 ]
