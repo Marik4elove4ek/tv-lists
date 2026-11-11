@@ -905,5 +905,58 @@
   "group": "📻 Радио",
   "logo": "",
   "order": 110
+ },
+ {
+  "name": "НТВ (международный эфир)",
+  "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
+  "group": "Русские каналы",
+  "logo": "",
+  "pin": true
+ },
+ {
+  "name": "НТВ Стиль",
+  "url": "https://cdn.ntv.ru/th_style/index.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "НТВ Сериал",
+  "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "НТВ Право",
+  "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "DFM",
+  "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Радио Ваня",
+  "url": "https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Маруся FM",
+  "url": "https://cdn.radio-holding.ru/marusya_default",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Love Radio",
+  "url": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
  }
 ]
