@@ -81,6 +81,120 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Русские каналы",Первый городской (Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Теледом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТС Севастополь
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ямал-Регион
+https://bl.webcaster.pro/media/start/free_eb0182bd41004b93570aa08119ad9151/4_97090908/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",12 канал Омск
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Аист ТВ Иркутск
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ника ТВ Калуга
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Катунь 24
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Енисей Красноярск
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",С1 Сургут
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",С86 Сургут
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТКР Рязань
+https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Волга 24 Нижний Новгород
+https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ННТВ Нижний Новгород
+https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Сочи 24
+https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Мир Белогорья
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Краснодар
+https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ники ТВ
+https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ветта 24 Пермь
+https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Канал-16 Саров
+https://serv25.vintera.tv/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Колыма Плюс Магадан
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Телплюс Астрахань
+https://streaming.astrakhan.ru/telplushd/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Архыз 24 Карачаево-Черкесия
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",БСТ Башкортостан
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Арис 24
+https://serv25.vintera.tv/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТНВ-Планета
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТНВ Татарстан
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТМ Мордовия
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ингушетия Магас
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Брянская Губерния
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТВК Красноярск
+https://air.tvk6.ru/tvk24/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Экспресс Пенза
+https://fhtrc6b9861.a.trbcdn.net/livemaster/ktu5e_live-5splv5p6i4s.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ЧГТРК Грозный
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Осетия-Ирыстон
+https://catchup.videoline.ru/iriston/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТРК Евразия Орск
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",МТВ Волгоград
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Миллет
+https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТС Иркутск
+https://air.nts-tv.ru/nts/nts.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",НВК Саха Якутск
+https://live-saha.cdnvideo.ru/saha2/saha_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Алмазный край Якутия
+https://stream.almaz-media.tv:8080/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Раменское Телевидение
+https://e10-ll.facecast.net/rtv/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Север Нарьян-Мар
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Салям Уфа
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Обком ТВ Омск
+https://omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Запад 24 Калининград
+https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Своё ТВ Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Якутия 24
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Самара-ГИС
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ВТК 41 АРГУС
+https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",Татарстан-24
+https://tatarstan24.tv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Россия: регионы",TV Губерния Воронеж
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎬 Кино",Bollywood HD Russia
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@HD" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="🎬 Кино",Kino TV HD
@@ -301,6 +415,16 @@ https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="📚 Познавательные",Телекафе
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="" group-title="📚 Познавательные",Каббала ТВ (на русском)
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📚 Познавательные",ТВ БРИКС
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📚 Познавательные",Про Бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📚 Познавательные",Универ ТВ
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📚 Познавательные",LADA TV
+https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/6bcd04e6-1319-4e70-b534-a05305f979cb/master.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="🌿 Релакс и природа",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="🌿 Релакс и природа",DroneTV
@@ -437,6 +561,8 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Новое Радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио 1 (Подмосковье)
@@ -449,6 +575,8 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="📻 Радио",Kan Reka
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Like FM
+https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Авторадио
 https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Дорожное радио
