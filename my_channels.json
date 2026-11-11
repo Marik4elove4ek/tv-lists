@@ -1028,5 +1028,122 @@
   "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
   "group": "Русские каналы",
   "logo": ""
+ },
+ {
+  "name": "FREEDOM",
+  "url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+  "group": "Украина",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+  "id": "FREEDOM.ua@SD"
+ },
+ {
+  "name": "Общественное Независимое Телевидение",
+  "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
+  "group": "Украина",
+  "logo": "https://i.imgur.com/jFP50g2.png",
+  "id": "ObshchestvennoeNezavisimoeTelevidenie.ua@SD"
+ },
+ {
+  "name": "Первый городской (Одесса)",
+  "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+  "group": "Украина",
+  "logo": "https://i.imgur.com/8qdc6aO.png",
+  "id": "PervyygorodskoyOdessa.ua@SD"
+ },
+ {
+  "name": "24 канал",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Рада",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "7 канал (Одесса)",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Музвар",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "NASHE Music",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Ровно 1",
+  "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "ITV (Ровно)",
+  "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Измаил ТВ",
+  "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "ТВА (Черновцы)",
+  "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Черновицкий Проминь",
+  "url": "https://langate.tv/promin/live_720/index.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Аверс (Луцк)",
+  "url": "https://avers.pp.ua/hls/efir.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "НТК (Коломыя)",
+  "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Симон (Харьков)",
+  "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "РАИ",
+  "url": "https://stream.rai.ua/rai/stream.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "PTV",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
+ },
+ {
+  "name": "Исландия",
+  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
+  "group": "Украина",
+  "logo": ""
  }
 ]
