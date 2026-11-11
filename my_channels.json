@@ -181,5 +181,24 @@
   "url": "https://live.radio-beat.com/stream1",
   "group": "📻 Радио",
   "logo": ""
+ },
+ {
+  "name": "Lev HaMedina 91FM",
+  "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true
+ },
+ {
+  "name": "Radio Darom 97FM",
+  "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Radio Jerusalem 101FM",
+  "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
  }
 ]
