@@ -4,7 +4,8 @@
   "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
-  "order": 11
+  "order": 11,
+  "epg": "channel10-il-hd"
  },
  {
   "name": "Angel TV",
@@ -27,7 +28,8 @@
   "group": "Израиль",
   "logo": "https://i.imgur.com/eFM3bTq.png",
   "id": "Channel13.il@SD",
-  "order": 14
+  "order": 14,
+  "epg": "13-kanal-il"
  },
  {
   "name": "כאן חינוכית",
@@ -35,7 +37,8 @@
   "group": "Израиль",
   "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
   "id": "KanEducational.il@SD",
-  "order": 13
+  "order": 13,
+  "epg": "kan23-il"
  },
  {
   "name": "ABC News Live",
@@ -902,25 +905,29 @@
   "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
   "group": "Русские каналы",
   "logo": "",
-  "pin": true
+  "pin": true,
+  "epg": "ntv-mir"
  },
  {
   "name": "НТВ Стиль",
   "url": "https://cdn.ntv.ru/th_style/index.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "ntv-style"
  },
  {
   "name": "НТВ Сериал",
   "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "ntv-serial"
  },
  {
   "name": "НТВ Право",
   "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "ntv-pravo"
  },
  {
   "name": "DFM",
@@ -959,25 +966,29 @@
   "name": "Звезда",
   "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "zvezda"
  },
  {
   "name": "Известия",
   "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "izvestija"
  },
  {
   "name": "Мир (международный эфир)",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "mir"
  },
  {
   "name": "Мир 24",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
   "group": "Русские каналы",
-  "logo": ""
+  "logo": "",
+  "epg": "mir-24"
  },
  {
   "name": "Радио Мир (Беларусь)",
@@ -1037,7 +1048,8 @@
   "name": "24 канал",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "",
+  "epg": "24ch-ua"
  },
  {
   "name": "Рада",
@@ -1179,27 +1191,32 @@
  {
   "id": "Channel9.il@SD",
   "order": 10,
-  "title": "ערוץ 9"
+  "title": "ערוץ 9",
+  "epg": "9-kanal-hd-il"
  },
  {
   "id": "Kan11.il@SD",
   "order": 12,
-  "title": "כאן 11"
+  "title": "כאן 11",
+  "epg": "11-kanal-il"
  },
  {
   "id": "Now14.il@SD",
   "order": 15,
-  "title": "עכשיו 14"
+  "title": "עכשיו 14",
+  "epg": "14-kanal-il"
  },
  {
   "id": "i24NEWSHebrew.il@SD",
   "order": 16,
-  "title": "i24NEWS"
+  "title": "i24NEWS",
+  "epg": "i24-il"
  },
  {
   "id": "Channel16.il@SD",
   "order": 17,
-  "title": "ערוץ 16"
+  "title": "ערוץ 16",
+  "epg": "16-kanal-il-hd"
  },
  {
   "id": "KabbalahforthePeopleIsrael.il@SD",
@@ -1222,12 +1239,14 @@
  {
   "id": "ComedyChannel.il@SD",
   "order": 100,
-  "title": "ערוץ הקומדיה"
+  "title": "ערוץ הקומדיה",
+  "epg": "hot-comedy-central-il-hd"
  },
  {
   "id": "VacationChannel.il@SD",
   "order": 101,
-  "title": "ערוץ החופשה"
+  "title": "ערוץ החופשה",
+  "epg": "vacation-channel-il-hd"
  },
  {
   "id": "Hidabroot.il@SD",
@@ -1237,6 +1256,187 @@
  {
   "id": "RealityChannel.il@SD",
   "title": "ערוץ הריאליטי",
-  "order": 102
+  "order": 102,
+  "epg": "yes-reality-channel-il-hd"
+ },
+ {
+  "id": "Belarus1.by@SD",
+  "epg": "belarus1-by"
+ },
+ {
+  "id": "Belarus2.by@HD",
+  "epg": "belarus2-by"
+ },
+ {
+  "id": "Belarus3.by@HD",
+  "epg": "belarus3-by"
+ },
+ {
+  "id": "Belarus5.by@SD",
+  "epg": "belarus5-by"
+ },
+ {
+  "id": "Belarus24.by@HD",
+  "epg": "belarus-24"
+ },
+ {
+  "id": "PerviyInformationniy.by@HD",
+  "epg": "pervyj-informacionnyj-by-hd"
+ },
+ {
+  "id": "STV.by@HD",
+  "epg": "stv-by-hd"
+ },
+ {
+  "id": "Domashniy.ru@SD",
+  "epg": "domashnij"
+ },
+ {
+  "id": "EuronewsRussian.fr@SD",
+  "epg": "evronews"
+ },
+ {
+  "id": "Eurosport1.fr@Russia",
+  "epg": "eurosport"
+ },
+ {
+  "id": "Eurosport2.fr@Russia",
+  "epg": "eurosport2"
+ },
+ {
+  "id": "FREEDOM.ua@SD",
+  "epg": "freedom-ua-hd"
+ },
+ {
+  "id": "RTViUS.us@SD",
+  "epg": "rtvi"
+ },
+ {
+  "id": "CurrentTimeTV.cz@SD",
+  "epg": "nastoyaschee-vremya-hd"
+ },
+ {
+  "id": "KinoTV.ru@HD",
+  "epg": "kino-tv-hd"
+ },
+ {
+  "id": "Kinomix.ru@SD",
+  "epg": "kinomix"
+ },
+ {
+  "id": "NTVHit.ru@SD",
+  "epg": "ntv-hit"
+ },
+ {
+  "id": "Smotrim100Klassika.ru@SD",
+  "epg": "smotrym-100-classica-hd-orig"
+ },
+ {
+  "id": "Smotrim100Lyubov.ru@SD",
+  "epg": "smotrym-100-lybov-hd-orig"
+ },
+ {
+  "id": "Smotrim100Muzhskoe.ru@SD",
+  "epg": "smotrym-100-muzhskoe-hd-orig"
+ },
+ {
+  "id": "TV21International.ru@SD",
+  "epg": "tv-xxi"
+ },
+ {
+  "id": "vijuTV1000.ru@SD",
+  "epg": "tv1000"
+ },
+ {
+  "id": "vijuTV1000action.ru@SD",
+  "epg": "tv1000-action"
+ },
+ {
+  "id": "vijuTV1000russkoe.ru@SD",
+  "epg": "tv1000-russkoje"
+ },
+ {
+  "id": "vijuTV1000novella.ru@HD",
+  "epg": "viju-tv1000-nowella-hd"
+ },
+ {
+  "id": "vijuTV1000romantica.ru@HD",
+  "epg": "viju-tv1000-romantica-hd"
+ },
+ {
+  "id": "vijuPlusMegahit.ru@HD",
+  "epg": "vip-megahit-hd"
+ },
+ {
+  "id": "vijuPlusPremiere.ru@HD",
+  "epg": "vip-premiere-hd"
+ },
+ {
+  "id": "vijuPlusSerial.ru@HD",
+  "epg": "vip-serial-hd"
+ },
+ {
+  "id": "Arsenal.ru@SD",
+  "epg": "arsenal-hd"
+ },
+ {
+  "id": "Drive.ru@SD",
+  "epg": "drive-hd"
+ },
+ {
+  "id": "GlazamiTurista.ru@SD",
+  "epg": "glazami-turista-hd"
+ },
+ {
+  "id": "Kuhnya.ru@SD",
+  "epg": "kuxnya-tv"
+ },
+ {
+  "id": "LoveNature.ca@HD",
+  "epg": "love-nature-hd"
+ },
+ {
+  "id": "Nano.ru@HD",
+  "epg": "nano-hd"
+ },
+ {
+  "id": "NashaTema.ru@SD",
+  "epg": "nasha-tema"
+ },
+ {
+  "id": "Okhotairybalka.ru@SD",
+  "epg": "oxota-rybalka"
+ },
+ {
+  "id": "RTDocumentary.ru@Russian",
+  "epg": "russia-today-doc"
+ },
+ {
+  "id": "RTGTV.ru@HD",
+  "epg": "rtg-hd"
+ },
+ {
+  "id": "RussiaK.ru@HD",
+  "epg": "rossija-k-hd"
+ },
+ {
+  "id": "TheExplorers.ru@SD",
+  "epg": "the-explorers-hd"
+ },
+ {
+  "id": "vijuExplore.ru@SD",
+  "epg": "viasat-explore"
+ },
+ {
+  "id": "vijuHistory.ru@SD",
+  "epg": "viasat-history"
+ },
+ {
+  "id": "vijuNature.ru@SD",
+  "epg": "viasat-nature"
+ },
+ {
+  "id": "Telecafe.ru@SD",
+  "epg": "telekafe"
  }
 ]

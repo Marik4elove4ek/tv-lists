@@ -168,7 +168,7 @@ if sum(ok.values()) < len(urls) // 5:
     print('слишком мало рабочих каналов — плейлисты не меняю')
     sys.exit(0)
 
-def write(name, items, order, keep_always=False):
+def write(name, items, order, keep_always=False, rename=None):
     lines = ['#EXTM3U']; n = 0
     groups = collections.defaultdict(list)
     for s in items: groups[s['group']].append(s)
@@ -179,7 +179,8 @@ def write(name, items, order, keep_always=False):
             nm = re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', s['name'])).strip()
             if s['cid'] == 'CityTV.bg': nm = 'City TV (Болгария)'
             logo = s.get('logo') or logos.get(s['cid'])
-            lines.append(f'#EXTINF:-1 tvg-id="{s["tid"]}"' + (f' tvg-logo="{logo}"' if logo else '') + f' group-title="{g}",{nm}')
+            # epg: имя-код канала в телепрограмме (my_channels.json); rename: своё название папки в готовом файле
+            lines.append(f'#EXTINF:-1 tvg-id="{s.get("epg") or s["tid"]}"' + (f' tvg-logo="{logo}"' if logo else '') + f' group-title="{(rename or {}).get(g, g)}",{nm}')
             lines.append(s['url']); n += 1
     open(f'{OUT}/{name}', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
     print(name, n)
@@ -258,6 +259,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
                     if 'order' in c: s['order'] = c['order']
                     if c.get('title'): s['name'] = c['title']  # своё название (например, на иврите)
                     if c.get('group'): s['group'] = c['group']
+                    if c.get('epg'): s['epg'] = c['epg']  # имя-код для телепрограммы
             continue
         if c.get('id'):
             merged = [s for s in merged if s['tid'] != c['id']]
@@ -269,8 +271,8 @@ if os.path.exists(f'{OUT}/my_channels.json'):
             have = {s['url'] for s in merged}  # убранный канал может вернуться со своим же адресом, но в другой папке
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
-                               group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', '')))  # pin: первым в своей папке
-write('all.m3u', merged, ['Израиль', 'Русские каналы', 'Россия: регионы', 'Украина', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира', '📻 רדיו ישראלי', '📻 Радио'])
+                               group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
+write('all.m3u', merged, ['Израиль', 'Русские каналы', 'Россия: регионы', 'Украина', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира', '📻 רדיו ישראלי', '📻 Радио'], rename={'Израиль': 'ישראל'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
 import json
