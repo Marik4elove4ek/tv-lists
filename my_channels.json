@@ -200,5 +200,11 @@
   "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
   "group": "📻 Радио",
   "logo": ""
+ },
+ {
+  "name": "Noshmim Mizrahit",
+  "url": "https://rs.mizrahit.fm:7777/;",
+  "group": "📻 Радио",
+  "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png"
  }
 ]
