@@ -643,7 +643,7 @@ https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
 https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Дорожное радио
 https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://europaplus.ru/tg.png" group-title="📻 Радио",Европа Плюс
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png" group-title="📻 Радио",Европа Плюс
 https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://marus.fm/icons/android-chrome-192x192.png" group-title="📻 Радио",Маруся FM
 https://cdn.radio-holding.ru/marusya_default

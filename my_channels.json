@@ -1,1242 +1,1242 @@
 [
- {
-  "name": "ערוץ 10",
-  "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
-  "group": "Израиль",
-  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
-  "order": 11
- },
- {
-  "name": "Angel TV",
-  "url": "https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
-  "group": "Израиль",
-  "logo": "https://www.angeltv.org/favicon/apple.png",
-  "order": 900
- },
- {
-  "name": "ערוץ הכנסת",
-  "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
-  "group": "Израиль",
-  "logo": "https://i.imgur.com/QXB1jv8.png",
-  "id": "KnessetChannel.il@SD",
-  "order": 18
- },
- {
-  "name": "רשת 13",
-  "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8",
-  "group": "Израиль",
-  "logo": "https://i.imgur.com/eFM3bTq.png",
-  "id": "Channel13.il@SD",
-  "order": 14
- },
- {
-  "name": "כאן חינוכית",
-  "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8",
-  "group": "Израиль",
-  "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
-  "id": "KanEducational.il@SD",
-  "order": 13
- },
- {
-  "name": "ABC News Live",
-  "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "ABCNewsLive.us@SD"
- },
- {
-  "name": "Al Jazeera English",
-  "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "AlJazeera.qa@English"
- },
- {
-  "name": "Bloomberg TV Europe",
-  "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "BloombergTV.us@Europe"
- },
- {
-  "name": "Bloomberg TV US",
-  "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "BloombergTV.us@US"
- },
- {
-  "name": "CBS News 24/7",
-  "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "CBSNews247.us@SD"
- },
- {
-  "name": "DW English",
-  "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "DW.de@English"
- },
- {
-  "name": "Euronews English",
-  "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "EuronewsEnglish.fr@SD"
- },
- {
-  "name": "France 24 English",
-  "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "France24.fr@English"
- },
- {
-  "name": "France 24 French",
-  "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "France24.fr@French"
- },
- {
-  "name": "i24NEWS English",
-  "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "i24NEWSEnglishWorld.il@SD"
- },
- {
-  "name": "i24NEWS French",
-  "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "i24NEWSFrench.il@SD"
- },
- {
-  "name": "Newsmax 2",
-  "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "Newsmax2.us@SD"
- },
- {
-  "name": "NHK World-Japan",
-  "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-  "group": "📰 Новости мира",
-  "logo": "",
-  "id": "NHKWorldJapan.jp@SD"
- },
- {
-  "name": "Лучшее радио",
-  "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
-  "pin": true,
-  "audio_backup": "https://servidor35-5.brlogic.com:7080/live",
-  "order": 200
- },
- {
-  "name": "Радио Нагария",
-  "url": "https://cast.radionahariya.com:8443/main.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png",
-  "order": 300
- },
- {
-  "name": "Первое радио 89.1 FM",
-  "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://www.oles.tv/stations/891fm/favicon.png",
-  "pin": true,
-  "order": 200
- },
- {
-  "name": "Kol Barama",
-  "url": "https://live.kol-barama.co.il/hls/mystreambini.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png",
-  "pin": true,
-  "order": 900
- },
- {
-  "name": "103FM",
-  "url": "https://cdn.cybercdn.live/103FM/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://103fm.maariv.co.il/images/ic_launcher.png",
-  "order": 300
- },
- {
-  "name": "Galei Israel",
-  "url": "https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://www.gly.co.il/static/images/webclip.png",
-  "order": 300
- },
- {
-  "name": "Radius 100FM",
-  "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
-  "pin": true,
-  "order": 200
- },
- {
-  "name": "Up2Dance Radio",
-  "url": "https://icecast.live/up2dance",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png",
-  "order": 300
- },
- {
-  "name": "Radio Beat",
-  "url": "https://live.radio-beat.com/stream1",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/49.jpg",
-  "order": 300
- },
- {
-  "name": "Lev HaMedina 91FM",
-  "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/3.jpg",
-  "pin": true,
-  "order": 200
- },
- {
-  "name": "Radio Darom 97FM",
-  "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/14.jpg",
-  "order": 300
- },
- {
-  "name": "Radio Jerusalem 101FM",
-  "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/25.jpg",
-  "order": 300
- },
- {
-  "name": "Noshmim Mizrahit",
-  "url": "https://rs.mizrahit.fm:7777/;",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png",
-  "order": 300
- },
- {
-  "name": "Radio Tel Aviv 102FM",
-  "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/4.jpg",
-  "order": 300
- },
- {
-  "name": "eco99fm",
-  "url": "https://99.mediacast.co.il/99fm_aac",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/7.jpg",
-  "order": 300
- },
- {
-  "name": "Kol Chai 93FM",
-  "url": "https://media2.93fm.co.il/live-new",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/21.jpg",
-  "order": 910
- },
- {
-  "name": "Radio Eilat 102FM",
-  "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/27.jpg",
-  "order": 300
- },
- {
-  "name": "Radio Darom 101.5FM",
-  "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/47.jpg",
-  "order": 300
- },
- {
-  "name": "HaTahana 101.5FM",
-  "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/15.jpg",
-  "order": 300
- },
- {
-  "name": "Radio Haifa 107.5FM",
-  "url": "https://1075.livecdn.biz/radiohaifa",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/11.jpg",
-  "order": 300
- },
- {
-  "name": "Radio 99.5 Ham Esh",
-  "url": "https://995.livecdn.biz/995fm",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/50.jpg",
-  "order": 300
- },
- {
-  "name": "Radio 1",
-  "url": "https://radio.streamgates.net/stream/radio1",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/88.jpg",
-  "order": 300
- },
- {
-  "name": "Kan Bet",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/10.jpg",
-  "order": 300
- },
- {
-  "name": "Kan Gimel",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/16.jpg",
-  "order": 300
- },
- {
-  "name": "Kan 88",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/1.jpg",
-  "order": 300
- },
- {
-  "name": "Kan Reka",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/74.jpg",
-  "order": 300
- },
- {
-  "name": "Kan Moreshet",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/20.jpg",
-  "order": 910
- },
- {
-  "name": "Kan Kol HaMusica",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/26.jpg",
-  "order": 300
- },
- {
-  "name": "Kan Tarbut",
-  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/28.jpg",
-  "order": 300
- },
- {
-  "name": "Galatz",
-  "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/6.jpg",
-  "order": 300
- },
- {
-  "name": "Galgalatz",
-  "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/8.jpg",
-  "order": 300
- },
- {
-  "name": "Radio 90FM",
-  "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/2.jpg",
-  "order": 300
- },
- {
-  "name": "Kol Rega 96FM",
-  "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/23.jpg",
-  "order": 300
- },
- {
-  "name": "Radio Tzafon 104.5FM",
-  "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/62.jpg",
-  "order": 300
- },
- {
-  "name": "Музыка 106.4 FM",
-  "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/73.jpg",
-  "order": 300
- },
- {
-  "name": "Israeli Radio 107.1 FM (Miami, USA)",
-  "url": "https://a6.asurahosting.com:6650/radio.mp3",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://israeliradiomiami.com/logo.png",
-  "order": 300
- },
- {
-  "name": "Radio Qualita",
-  "url": "https://listen.radioking.com/radio/345145/stream/393862",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
-  "order": 300
- },
- {
-  "name": "Kol HaLev Radio (USA)",
-  "url": "https://us1.streamingpulse.com/ssl/KolHalev",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://www.kolhalev.com/images/kolhalevlogo.png",
-  "order": 300
- },
- {
-  "name": "J-AIR 88 FM (Melbourne, Australia)",
-  "url": "https://s19.myradiostream.com/4918/;",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png",
-  "order": 300
- },
- {
-  "name": "Radio Azori",
-  "url": "https://live.ecast.co.il/stream/69fm/azori",
-  "group": "📻 רדיו ישראלי",
-  "logo": "",
-  "order": 300
- },
- {
-  "name": "Kol HaShfela 103.6FM",
-  "url": "https://radio.streamgates.net/stream/1036kh",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
-  "order": 300
- },
- {
-  "name": "Radio Eshel HaNasi",
-  "url": "http://stream.eshelnet.com/xstream",
-  "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
-  "order": 300
- },
- {
-  "name": "Радио России",
-  "url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
-  "group": "📻 Радио",
-  "logo": "",
-  "pin": true,
-  "order": 400
- },
- {
-  "name": "Вести FM",
-  "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
-  "group": "📻 Радио",
-  "logo": "",
-  "pin": true,
-  "order": 400
- },
- {
-  "name": "Говорит Москва",
-  "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
-  "pin": true,
-  "order": 400
- },
- {
-  "name": "Радио 1 (Подмосковье)",
-  "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "pin": true,
-  "order": 400
- },
- {
-  "name": "Европа Плюс",
-  "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://europaplus.ru/tg.png",
-  "order": 110
- },
- {
-  "name": "Русское Радио",
-  "url": "https://rusradio.ru/t/radio/master.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://rusradio.ru/static/rusradio.ogimage.jpg",
-  "order": 110
- },
- {
-  "name": "Авторадио",
-  "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg",
-  "order": 110
- },
- {
-  "name": "Ретро FM",
-  "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/retrofm.png",
-  "order": 110
- },
- {
-  "name": "Дорожное радио",
-  "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "order": 110
- },
- {
-  "name": "Юмор FM",
-  "url": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://humorfm.by/apple-touch-icon.png",
-  "order": 110
- },
- {
-  "name": "Energy",
-  "url": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png",
-  "order": 110
- },
- {
-  "name": "Радио Рекорд",
-  "url": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://www.radiorecord.ru/icons/logo300-300.jpg",
-  "order": 110
- },
- {
-  "name": "Крым 24",
-  "url": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "НТС Севастополь",
-  "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Ямал-Регион",
-  "url": "https://bl.webcaster.pro/media/start/free_eb0182bd41004b93570aa08119ad9151/4_97090908/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Тюменское время",
-  "url": "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "12 канал Омск",
-  "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Аист ТВ Иркутск",
-  "url": "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Ника ТВ Калуга",
-  "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Катунь 24",
-  "url": "https://live.katun24.ru:8082/katun/katun/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Енисей Красноярск",
-  "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "С1 Сургут",
-  "url": "https://sitv.ru/hls/stv1024.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "С86 Сургут",
-  "url": "https://sitv.ru/hls/s861024.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ТКР Рязань",
-  "url": "https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Волга 24 Нижний Новгород",
-  "url": "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ННТВ Нижний Новгород",
-  "url": "https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Нижний Новгород 24",
-  "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Сочи 24",
-  "url": "https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Белгород 24",
-  "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Мир Белогорья",
-  "url": "https://tvbelgorod.ru:90/mirbelogorya/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Краснодар",
-  "url": "https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Ники ТВ",
-  "url": "https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Ветта 24 Пермь",
-  "url": "https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Канал-16 Саров",
-  "url": "https://serv25.vintera.tv/test/k16/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Первый Ярославский",
-  "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Колыма Плюс Магадан",
-  "url": "https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Телплюс Астрахань",
-  "url": "https://streaming.astrakhan.ru/telplushd/video.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Архыз 24 Карачаево-Черкесия",
-  "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "БСТ Башкортостан",
-  "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Арис 24",
-  "url": "https://serv25.vintera.tv/test/aris/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ТНВ-Планета",
-  "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ТНВ Татарстан",
-  "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "НТМ Мордовия",
-  "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Ингушетия Магас",
-  "url": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Брянская Губерния",
-  "url": "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ТВК Красноярск",
-  "url": "https://air.tvk6.ru/tvk24/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Экспресс Пенза",
-  "url": "https://fhtrc6b9861.a.trbcdn.net/livemaster/ktu5e_live-5splv5p6i4s.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "РГВК Дагестан",
-  "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Осетия-Ирыстон",
-  "url": "https://catchup.videoline.ru/iriston/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ТРК Евразия Орск",
-  "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "МТВ Волгоград",
-  "url": "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Миллет",
-  "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "НТС Иркутск",
-  "url": "https://air.nts-tv.ru/nts/nts.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "НВК Саха Якутск",
-  "url": "https://live-saha.cdnvideo.ru/saha2/saha_live.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Алмазный край Якутия",
-  "url": "https://stream.almaz-media.tv:8080/hls/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Раменское Телевидение",
-  "url": "https://e10-ll.facecast.net/rtv/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Север Нарьян-Мар",
-  "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Салям Уфа",
-  "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Обком ТВ Омск",
-  "url": "https://omsk-kprf.ru/hls/stream.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Запад 24 Калининград",
-  "url": "https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Своё ТВ Ставрополь",
-  "url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Якутия 24",
-  "url": "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Самара-ГИС",
-  "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "ВТК 41 АРГУС",
-  "url": "https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Югра",
-  "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Татарстан-24",
-  "url": "https://tatarstan24.tv/stream/playlist.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "TV Губерния Воронеж",
-  "url": "https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
-  "name": "Теледом",
-  "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Каббала ТВ (на русском)",
-  "url": "https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "ТВ БРИКС",
-  "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "Про Бизнес",
-  "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "Универ ТВ",
-  "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "LADA TV",
-  "url": "https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/6bcd04e6-1319-4e70-b534-a05305f979cb/master.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "Новое Радио",
-  "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "pin": true,
-  "order": 100
- },
- {
-  "name": "Like FM",
-  "url": "https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://likefm.ru/design/images/design-images/img_for_sharing.png",
-  "order": 110
- },
- {
-  "name": "НТВ (международный эфир)",
-  "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
-  "group": "Русские каналы",
-  "logo": "",
-  "pin": true
- },
- {
-  "name": "НТВ Стиль",
-  "url": "https://cdn.ntv.ru/th_style/index.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "НТВ Сериал",
-  "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "НТВ Право",
-  "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "DFM",
-  "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://dfm.ru/apple-icon.png",
-  "order": 110
- },
- {
-  "name": "Радио Ваня",
-  "url": "https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "order": 110
- },
- {
-  "name": "Маруся FM",
-  "url": "https://cdn.radio-holding.ru/marusya_default",
-  "group": "📻 Радио",
-  "logo": "https://marus.fm/icons/android-chrome-192x192.png",
-  "order": 110
- },
- {
-  "name": "Беларусь 4 Гомель",
-  "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Витебск",
-  "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Звезда",
-  "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Известия",
-  "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Мир (международный эфир)",
-  "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Мир 24",
-  "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Радио Мир (Беларусь)",
-  "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "id": "RadioMir.by@SD",
-  "pin": true,
-  "order": 100
- },
- {
-  "name": "Радио Мир",
-  "url": "https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir",
-  "group": "📻 Радио",
-  "logo": "https://radiomir.fm/favicon/web-app-manifest-512x512.png",
-  "order": 110
- },
- {
-  "name": "Jibek Joly (Казахстан)",
-  "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "ТНТ Exclusiv (Молдова)",
-  "url": "http://89.28.25.122/hls/tnt_md.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "RU TV (Молдова)",
-  "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
-  "group": "🎵 Музыка",
-  "logo": ""
- },
- {
-  "name": "КТК (Казахстан)",
-  "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Общественное Независимое Телевидение",
-  "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-  "group": "Украина",
-  "logo": "https://i.imgur.com/jFP50g2.png",
-  "id": "ObshchestvennoeNezavisimoeTelevidenie.ua@SD"
- },
- {
-  "name": "Первый городской (Одесса)",
-  "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-  "group": "Украина",
-  "logo": "https://i.imgur.com/8qdc6aO.png",
-  "id": "PervyygorodskoyOdessa.ua@SD"
- },
- {
-  "name": "24 канал",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Рада",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "7 канал (Одесса)",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Музвар",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "NASHE Music",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Ровно 1",
-  "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "ITV (Ровно)",
-  "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Измаил ТВ",
-  "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "ТВА (Черновцы)",
-  "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Черновицкий Проминь",
-  "url": "https://langate.tv/promin/live_720/index.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Аверс (Луцк)",
-  "url": "https://avers.pp.ua/hls/efir.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "НТК (Коломыя)",
-  "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Симон (Харьков)",
-  "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "РАИ",
-  "url": "https://stream.rai.ua/rai/stream.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "PTV",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Исландия",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "Луганск 24",
-  "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-  "group": "Россия: регионы",
-  "logo": "https://i.imgur.com/AihoVc0.png",
-  "id": "Lugansk24.ua@SD"
- },
- {
-  "name": "Радио Хит 103.7 FM (Орск, Россия)",
-  "url": "https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "pin": true,
-  "order": 100
- },
- {
-  "name": "Новое Радио (Минск, Беларусь)",
-  "url": "https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.novoeradio.by%2Flogo_novoe.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
-  "pin": true,
-  "order": 100
- },
- {
-  "name": "Радио Маяк (Москва, Россия)",
-  "url": "https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png",
-  "pin": true,
-  "order": 400
- },
- {
-  "name": "Юмор FM (Минск, Беларусь)",
-  "url": "https://player.humorfm.by/mylive/humStudio-low/index.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://humorfm.by/apple-touch-icon.png",
-  "pin": true,
-  "order": 100
- },
- {
-  "name": "Центр FM (Минск, Беларусь)",
-  "url": "https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://centerfm.by/assets/img/logo.jpg",
-  "pin": true,
-  "order": 100
- },
- {
-  "id": "Channel9.il@SD",
-  "order": 10,
-  "title": "ערוץ 9"
- },
- {
-  "id": "Kan11.il@SD",
-  "order": 12,
-  "title": "כאן 11"
- },
- {
-  "id": "Now14.il@SD",
-  "order": 15,
-  "title": "עכשיו 14"
- },
- {
-  "id": "i24NEWSHebrew.il@SD",
-  "order": 16,
-  "title": "i24NEWS"
- },
- {
-  "id": "Channel16.il@SD",
-  "order": 17,
-  "title": "ערוץ 16"
- },
- {
-  "id": "KabbalahforthePeopleIsrael.il@SD",
-  "order": 880,
-  "title": "קבלה לעם"
- },
- {
-  "id": "ShelanuTV.il@SD",
-  "order": 895,
-  "title": "שלנו TV"
- },
- {
-  "name": "מוסיוף",
-  "url": "https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8",
-  "group": "Израиль",
-  "logo": "https://musayof.org/top1.jpg",
-  "order": 890,
-  "replaces": "Musayof (Israel)"
- },
- {
-  "id": "ComedyChannel.il@SD",
-  "order": 100,
-  "title": "ערוץ הקומדיה"
- },
- {
-  "id": "VacationChannel.il@SD",
-  "order": 101,
-  "title": "ערוץ החופשה"
- },
- {
-  "id": "Hidabroot.il@SD",
-  "title": "הידברות",
-  "order": 103
- },
- {
-  "id": "RealityChannel.il@SD",
-  "title": "ערוץ הריאליטי",
-  "order": 102
- }
+  {
+    "name": "ערוץ 10",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
+    "group": "Израиль",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
+    "order": 11
+  },
+  {
+    "name": "Angel TV",
+    "url": "https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+    "group": "Израиль",
+    "logo": "https://www.angeltv.org/favicon/apple.png",
+    "order": 900
+  },
+  {
+    "name": "ערוץ הכנסת",
+    "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
+    "group": "Израиль",
+    "logo": "https://i.imgur.com/QXB1jv8.png",
+    "id": "KnessetChannel.il@SD",
+    "order": 18
+  },
+  {
+    "name": "רשת 13",
+    "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8",
+    "group": "Израиль",
+    "logo": "https://i.imgur.com/eFM3bTq.png",
+    "id": "Channel13.il@SD",
+    "order": 14
+  },
+  {
+    "name": "כאן חינוכית",
+    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8",
+    "group": "Израиль",
+    "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
+    "id": "KanEducational.il@SD",
+    "order": 13
+  },
+  {
+    "name": "ABC News Live",
+    "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "ABCNewsLive.us@SD"
+  },
+  {
+    "name": "Al Jazeera English",
+    "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "AlJazeera.qa@English"
+  },
+  {
+    "name": "Bloomberg TV Europe",
+    "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "BloombergTV.us@Europe"
+  },
+  {
+    "name": "Bloomberg TV US",
+    "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "BloombergTV.us@US"
+  },
+  {
+    "name": "CBS News 24/7",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "CBSNews247.us@SD"
+  },
+  {
+    "name": "DW English",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "DW.de@English"
+  },
+  {
+    "name": "Euronews English",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "EuronewsEnglish.fr@SD"
+  },
+  {
+    "name": "France 24 English",
+    "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "France24.fr@English"
+  },
+  {
+    "name": "France 24 French",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "France24.fr@French"
+  },
+  {
+    "name": "i24NEWS English",
+    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "i24NEWSEnglishWorld.il@SD"
+  },
+  {
+    "name": "i24NEWS French",
+    "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "i24NEWSFrench.il@SD"
+  },
+  {
+    "name": "Newsmax 2",
+    "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "Newsmax2.us@SD"
+  },
+  {
+    "name": "NHK World-Japan",
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "",
+    "id": "NHKWorldJapan.jp@SD"
+  },
+  {
+    "name": "Лучшее радио",
+    "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
+    "pin": true,
+    "audio_backup": "https://servidor35-5.brlogic.com:7080/live",
+    "order": 200
+  },
+  {
+    "name": "Радио Нагария",
+    "url": "https://cast.radionahariya.com:8443/main.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png",
+    "order": 300
+  },
+  {
+    "name": "Первое радио 89.1 FM",
+    "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://www.oles.tv/stations/891fm/favicon.png",
+    "pin": true,
+    "order": 200
+  },
+  {
+    "name": "Kol Barama",
+    "url": "https://live.kol-barama.co.il/hls/mystreambini.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png",
+    "pin": true,
+    "order": 900
+  },
+  {
+    "name": "103FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://103fm.maariv.co.il/images/ic_launcher.png",
+    "order": 300
+  },
+  {
+    "name": "Galei Israel",
+    "url": "https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://www.gly.co.il/static/images/webclip.png",
+    "order": 300
+  },
+  {
+    "name": "Radius 100FM",
+    "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
+    "pin": true,
+    "order": 200
+  },
+  {
+    "name": "Up2Dance Radio",
+    "url": "https://icecast.live/up2dance",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png",
+    "order": 300
+  },
+  {
+    "name": "Radio Beat",
+    "url": "https://live.radio-beat.com/stream1",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/49.jpg",
+    "order": 300
+  },
+  {
+    "name": "Lev HaMedina 91FM",
+    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/3.jpg",
+    "pin": true,
+    "order": 200
+  },
+  {
+    "name": "Radio Darom 97FM",
+    "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/14.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio Jerusalem 101FM",
+    "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/25.jpg",
+    "order": 300
+  },
+  {
+    "name": "Noshmim Mizrahit",
+    "url": "https://rs.mizrahit.fm:7777/;",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png",
+    "order": 300
+  },
+  {
+    "name": "Radio Tel Aviv 102FM",
+    "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/4.jpg",
+    "order": 300
+  },
+  {
+    "name": "eco99fm",
+    "url": "https://99.mediacast.co.il/99fm_aac",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/7.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kol Chai 93FM",
+    "url": "https://media2.93fm.co.il/live-new",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/21.jpg",
+    "order": 910
+  },
+  {
+    "name": "Radio Eilat 102FM",
+    "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/27.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio Darom 101.5FM",
+    "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/47.jpg",
+    "order": 300
+  },
+  {
+    "name": "HaTahana 101.5FM",
+    "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/15.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio Haifa 107.5FM",
+    "url": "https://1075.livecdn.biz/radiohaifa",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/11.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio 99.5 Ham Esh",
+    "url": "https://995.livecdn.biz/995fm",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/50.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio 1",
+    "url": "https://radio.streamgates.net/stream/radio1",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/88.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan Bet",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/10.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan Gimel",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/16.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan 88",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/1.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan Reka",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/74.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan Moreshet",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/20.jpg",
+    "order": 910
+  },
+  {
+    "name": "Kan Kol HaMusica",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/26.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kan Tarbut",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/28.jpg",
+    "order": 300
+  },
+  {
+    "name": "Galatz",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/6.jpg",
+    "order": 300
+  },
+  {
+    "name": "Galgalatz",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/8.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio 90FM",
+    "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/2.jpg",
+    "order": 300
+  },
+  {
+    "name": "Kol Rega 96FM",
+    "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/23.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio Tzafon 104.5FM",
+    "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/62.jpg",
+    "order": 300
+  },
+  {
+    "name": "Музыка 106.4 FM",
+    "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/73.jpg",
+    "order": 300
+  },
+  {
+    "name": "Israeli Radio 107.1 FM (Miami, USA)",
+    "url": "https://a6.asurahosting.com:6650/radio.mp3",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://israeliradiomiami.com/logo.png",
+    "order": 300
+  },
+  {
+    "name": "Radio Qualita",
+    "url": "https://listen.radioking.com/radio/345145/stream/393862",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
+    "order": 300
+  },
+  {
+    "name": "Kol HaLev Radio (USA)",
+    "url": "https://us1.streamingpulse.com/ssl/KolHalev",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://www.kolhalev.com/images/kolhalevlogo.png",
+    "order": 300
+  },
+  {
+    "name": "J-AIR 88 FM (Melbourne, Australia)",
+    "url": "https://s19.myradiostream.com/4918/;",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png",
+    "order": 300
+  },
+  {
+    "name": "Radio Azori",
+    "url": "https://live.ecast.co.il/stream/69fm/azori",
+    "group": "📻 רדיו ישראלי",
+    "logo": "",
+    "order": 300
+  },
+  {
+    "name": "Kol HaShfela 103.6FM",
+    "url": "https://radio.streamgates.net/stream/1036kh",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
+    "order": 300
+  },
+  {
+    "name": "Radio Eshel HaNasi",
+    "url": "http://stream.eshelnet.com/xstream",
+    "group": "📻 רדיו ישראלי",
+    "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
+    "order": 300
+  },
+  {
+    "name": "Радио России",
+    "url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
+    "group": "📻 Радио",
+    "logo": "",
+    "pin": true,
+    "order": 400
+  },
+  {
+    "name": "Вести FM",
+    "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+    "group": "📻 Радио",
+    "logo": "",
+    "pin": true,
+    "order": 400
+  },
+  {
+    "name": "Говорит Москва",
+    "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
+    "pin": true,
+    "order": 400
+  },
+  {
+    "name": "Радио 1 (Подмосковье)",
+    "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "pin": true,
+    "order": 400
+  },
+  {
+    "name": "Европа Плюс",
+    "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png",
+    "order": 110
+  },
+  {
+    "name": "Русское Радио",
+    "url": "https://rusradio.ru/t/radio/master.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://rusradio.ru/static/rusradio.ogimage.jpg",
+    "order": 110
+  },
+  {
+    "name": "Авторадио",
+    "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg",
+    "order": 110
+  },
+  {
+    "name": "Ретро FM",
+    "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/retrofm.png",
+    "order": 110
+  },
+  {
+    "name": "Дорожное радио",
+    "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 110
+  },
+  {
+    "name": "Юмор FM",
+    "url": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://humorfm.by/apple-touch-icon.png",
+    "order": 110
+  },
+  {
+    "name": "Energy",
+    "url": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png",
+    "order": 110
+  },
+  {
+    "name": "Радио Рекорд",
+    "url": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://www.radiorecord.ru/icons/logo300-300.jpg",
+    "order": 110
+  },
+  {
+    "name": "Крым 24",
+    "url": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "НТС Севастополь",
+    "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ямал-Регион",
+    "url": "https://bl.webcaster.pro/media/start/free_eb0182bd41004b93570aa08119ad9151/4_97090908/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Тюменское время",
+    "url": "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "12 канал Омск",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Аист ТВ Иркутск",
+    "url": "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ника ТВ Калуга",
+    "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Катунь 24",
+    "url": "https://live.katun24.ru:8082/katun/katun/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Енисей Красноярск",
+    "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "С1 Сургут",
+    "url": "https://sitv.ru/hls/stv1024.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "С86 Сургут",
+    "url": "https://sitv.ru/hls/s861024.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ТКР Рязань",
+    "url": "https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Волга 24 Нижний Новгород",
+    "url": "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ННТВ Нижний Новгород",
+    "url": "https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Нижний Новгород 24",
+    "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Сочи 24",
+    "url": "https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Белгород 24",
+    "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Мир Белогорья",
+    "url": "https://tvbelgorod.ru:90/mirbelogorya/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Краснодар",
+    "url": "https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ники ТВ",
+    "url": "https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ветта 24 Пермь",
+    "url": "https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Канал-16 Саров",
+    "url": "https://serv25.vintera.tv/test/k16/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Первый Ярославский",
+    "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Колыма Плюс Магадан",
+    "url": "https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Телплюс Астрахань",
+    "url": "https://streaming.astrakhan.ru/telplushd/video.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Архыз 24 Карачаево-Черкесия",
+    "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "БСТ Башкортостан",
+    "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Арис 24",
+    "url": "https://serv25.vintera.tv/test/aris/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ТНВ-Планета",
+    "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ТНВ Татарстан",
+    "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "НТМ Мордовия",
+    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ингушетия Магас",
+    "url": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Брянская Губерния",
+    "url": "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ТВК Красноярск",
+    "url": "https://air.tvk6.ru/tvk24/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Экспресс Пенза",
+    "url": "https://fhtrc6b9861.a.trbcdn.net/livemaster/ktu5e_live-5splv5p6i4s.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "РГВК Дагестан",
+    "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Осетия-Ирыстон",
+    "url": "https://catchup.videoline.ru/iriston/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ТРК Евразия Орск",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "МТВ Волгоград",
+    "url": "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Миллет",
+    "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "НТС Иркутск",
+    "url": "https://air.nts-tv.ru/nts/nts.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "НВК Саха Якутск",
+    "url": "https://live-saha.cdnvideo.ru/saha2/saha_live.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Алмазный край Якутия",
+    "url": "https://stream.almaz-media.tv:8080/hls/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Раменское Телевидение",
+    "url": "https://e10-ll.facecast.net/rtv/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Север Нарьян-Мар",
+    "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Салям Уфа",
+    "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Обком ТВ Омск",
+    "url": "https://omsk-kprf.ru/hls/stream.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Запад 24 Калининград",
+    "url": "https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Своё ТВ Ставрополь",
+    "url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Якутия 24",
+    "url": "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Самара-ГИС",
+    "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ВТК 41 АРГУС",
+    "url": "https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Югра",
+    "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Татарстан-24",
+    "url": "https://tatarstan24.tv/stream/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "TV Губерния Воронеж",
+    "url": "https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Теледом",
+    "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Каббала ТВ (на русском)",
+    "url": "https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "ТВ БРИКС",
+    "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Про Бизнес",
+    "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Универ ТВ",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "LADA TV",
+    "url": "https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/6bcd04e6-1319-4e70-b534-a05305f979cb/master.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Новое Радио",
+    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "name": "Like FM",
+    "url": "https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://likefm.ru/design/images/design-images/img_for_sharing.png",
+    "order": 110
+  },
+  {
+    "name": "НТВ (международный эфир)",
+    "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
+    "group": "Русские каналы",
+    "logo": "",
+    "pin": true
+  },
+  {
+    "name": "НТВ Стиль",
+    "url": "https://cdn.ntv.ru/th_style/index.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "НТВ Сериал",
+    "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "НТВ Право",
+    "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "DFM",
+    "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://dfm.ru/apple-icon.png",
+    "order": 110
+  },
+  {
+    "name": "Радио Ваня",
+    "url": "https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 110
+  },
+  {
+    "name": "Маруся FM",
+    "url": "https://cdn.radio-holding.ru/marusya_default",
+    "group": "📻 Радио",
+    "logo": "https://marus.fm/icons/android-chrome-192x192.png",
+    "order": 110
+  },
+  {
+    "name": "Беларусь 4 Гомель",
+    "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Витебск",
+    "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Звезда",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Известия",
+    "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Мир (международный эфир)",
+    "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Мир 24",
+    "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Радио Мир (Беларусь)",
+    "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "id": "RadioMir.by@SD",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "name": "Радио Мир",
+    "url": "https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir",
+    "group": "📻 Радио",
+    "logo": "https://radiomir.fm/favicon/web-app-manifest-512x512.png",
+    "order": 110
+  },
+  {
+    "name": "Jibek Joly (Казахстан)",
+    "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "ТНТ Exclusiv (Молдова)",
+    "url": "http://89.28.25.122/hls/tnt_md.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "RU TV (Молдова)",
+    "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
+    "group": "🎵 Музыка",
+    "logo": ""
+  },
+  {
+    "name": "КТК (Казахстан)",
+    "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+    "group": "Русские каналы",
+    "logo": ""
+  },
+  {
+    "name": "Общественное Независимое Телевидение",
+    "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
+    "group": "Украина",
+    "logo": "https://i.imgur.com/jFP50g2.png",
+    "id": "ObshchestvennoeNezavisimoeTelevidenie.ua@SD"
+  },
+  {
+    "name": "Первый городской (Одесса)",
+    "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+    "group": "Украина",
+    "logo": "https://i.imgur.com/8qdc6aO.png",
+    "id": "PervyygorodskoyOdessa.ua@SD"
+  },
+  {
+    "name": "24 канал",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Рада",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "7 канал (Одесса)",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Музвар",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "NASHE Music",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Ровно 1",
+    "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "ITV (Ровно)",
+    "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Измаил ТВ",
+    "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "ТВА (Черновцы)",
+    "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Черновицкий Проминь",
+    "url": "https://langate.tv/promin/live_720/index.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Аверс (Луцк)",
+    "url": "https://avers.pp.ua/hls/efir.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "НТК (Коломыя)",
+    "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Симон (Харьков)",
+    "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "РАИ",
+    "url": "https://stream.rai.ua/rai/stream.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "PTV",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Исландия",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": ""
+  },
+  {
+    "name": "Луганск 24",
+    "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+    "group": "Россия: регионы",
+    "logo": "https://i.imgur.com/AihoVc0.png",
+    "id": "Lugansk24.ua@SD"
+  },
+  {
+    "name": "Радио Хит 103.7 FM (Орск, Россия)",
+    "url": "https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "name": "Новое Радио (Минск, Беларусь)",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.novoeradio.by%2Flogo_novoe.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "name": "Радио Маяк (Москва, Россия)",
+    "url": "https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png",
+    "pin": true,
+    "order": 400
+  },
+  {
+    "name": "Юмор FM (Минск, Беларусь)",
+    "url": "https://player.humorfm.by/mylive/humStudio-low/index.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://humorfm.by/apple-touch-icon.png",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "name": "Центр FM (Минск, Беларусь)",
+    "url": "https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8",
+    "group": "📻 Радио",
+    "logo": "https://centerfm.by/assets/img/logo.jpg",
+    "pin": true,
+    "order": 100
+  },
+  {
+    "id": "Channel9.il@SD",
+    "order": 10,
+    "title": "ערוץ 9"
+  },
+  {
+    "id": "Kan11.il@SD",
+    "order": 12,
+    "title": "כאן 11"
+  },
+  {
+    "id": "Now14.il@SD",
+    "order": 15,
+    "title": "עכשיו 14"
+  },
+  {
+    "id": "i24NEWSHebrew.il@SD",
+    "order": 16,
+    "title": "i24NEWS"
+  },
+  {
+    "id": "Channel16.il@SD",
+    "order": 17,
+    "title": "ערוץ 16"
+  },
+  {
+    "id": "KabbalahforthePeopleIsrael.il@SD",
+    "order": 880,
+    "title": "קבלה לעם"
+  },
+  {
+    "id": "ShelanuTV.il@SD",
+    "order": 895,
+    "title": "שלנו TV"
+  },
+  {
+    "name": "מוסיוף",
+    "url": "https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8",
+    "group": "Израиль",
+    "logo": "https://musayof.org/top1.jpg",
+    "order": 890,
+    "replaces": "Musayof (Israel)"
+  },
+  {
+    "id": "ComedyChannel.il@SD",
+    "order": 100,
+    "title": "ערוץ הקומדיה"
+  },
+  {
+    "id": "VacationChannel.il@SD",
+    "order": 101,
+    "title": "ערוץ החופשה"
+  },
+  {
+    "id": "Hidabroot.il@SD",
+    "title": "הידברות",
+    "order": 103
+  },
+  {
+    "id": "RealityChannel.il@SD",
+    "title": "ערוץ הריאליטי",
+    "order": 102
+  }
 ]
