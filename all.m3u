@@ -631,7 +631,7 @@ https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 https://cdn.radio-holding.ru/marusya_default
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Ваня
 https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://likefm.ru/design/images/design-images/img_for_sharing.png" group-title="📻 Радио",Like FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/likefm.png" group-title="📻 Радио",Like FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 Радио",Energy
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
