@@ -1016,5 +1016,23 @@
   "url": "https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8",
   "group": "Русские каналы",
   "logo": ""
+ },
+ {
+  "name": "Exclusiv TV (Молдова)",
+  "url": "http://93.115.137.166/hls/ntvm.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "ТНТ Exclusiv (Молдова)",
+  "url": "http://89.28.25.122/hls/tnt_md.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "RU TV (Молдова)",
+  "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
+  "group": "🎵 Музыка",
+  "logo": ""
  }
 ]

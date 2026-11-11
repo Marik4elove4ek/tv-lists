@@ -105,6 +105,10 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",МТРК (Петропавловск, Казахстан)
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Exclusiv TV (Молдова)
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",ТНТ Exclusiv (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТС Севастополь
@@ -385,6 +389,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="🎵 Музыка",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎵 Музыка",RU TV (Молдова)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru@SD" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="📚 Познавательные",Arsenal
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="📚 Познавательные",ART
