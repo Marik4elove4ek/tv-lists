@@ -31,5 +31,96 @@
   "group": "Израиль",
   "logo": "https://www.kankids.org.il/favicon-kids/apple-touch-icon.png",
   "id": "KanEducational.il@SD"
+ },
+ {
+  "name": "ABC News Live",
+  "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "ABCNewsLive.us@SD"
+ },
+ {
+  "name": "Al Jazeera English",
+  "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "AlJazeera.qa@English"
+ },
+ {
+  "name": "Bloomberg TV Europe",
+  "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "BloombergTV.us@Europe"
+ },
+ {
+  "name": "Bloomberg TV US",
+  "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "BloombergTV.us@US"
+ },
+ {
+  "name": "CBS News 24/7",
+  "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "CBSNews247.us@SD"
+ },
+ {
+  "name": "DW English",
+  "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "DW.de@English"
+ },
+ {
+  "name": "Euronews English",
+  "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "EuronewsEnglish.fr@SD"
+ },
+ {
+  "name": "France 24 English",
+  "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "France24.fr@English"
+ },
+ {
+  "name": "France 24 French",
+  "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "France24.fr@French"
+ },
+ {
+  "name": "i24NEWS English",
+  "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "i24NEWSEnglishWorld.il@SD"
+ },
+ {
+  "name": "i24NEWS French",
+  "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "i24NEWSFrench.il@SD"
+ },
+ {
+  "name": "Newsmax 2",
+  "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "Newsmax2.us@SD"
+ },
+ {
+  "name": "NHK World-Japan",
+  "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+  "group": "📰 Новости мира",
+  "logo": "",
+  "id": "NHKWorldJapan.jp@SD"
  }
 ]

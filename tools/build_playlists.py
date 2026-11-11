@@ -251,7 +251,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         # Канал из открытого списка с тем же именем-кодом заменяем своим адресом (без повторов)
         if c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
         if c.get('url') and c['url'] not in have:
-            merged.append(dict(tid=c.get('id', ''), cid='', feed='', name=c['name'], url=c['url'], opts=[], file='',
+            merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=False, logo=c.get('logo', '')))
 write('all.m3u', merged, ['Израиль', 'Русские каналы', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия'])
 
