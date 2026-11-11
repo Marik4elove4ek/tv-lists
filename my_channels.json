@@ -448,7 +448,7 @@
   "name": "Говорит Москва",
   "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
   "pin": true,
   "order": 400
  },
@@ -456,7 +456,7 @@
   "name": "Радио 1 (Подмосковье)",
   "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "pin": true,
   "order": 400
  },
@@ -464,7 +464,7 @@
   "name": "Радио Шансон",
   "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://radioshanson.ru/apple-touch-icon.png",
   "pin": true,
   "order": 100
  },
@@ -472,56 +472,56 @@
   "name": "Европа Плюс",
   "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://europaplus.ru/tg.png",
   "order": 110
  },
  {
   "name": "Русское Радио",
   "url": "https://rusradio.ru/t/radio/master.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://rusradio.ru/static/rusradio.ogimage.jpg",
   "order": 110
  },
  {
   "name": "Авторадио",
   "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg",
   "order": 110
  },
  {
   "name": "Ретро FM",
   "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fretrofm.ru%2Ftg.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "order": 110
  },
  {
   "name": "Дорожное радио",
   "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "order": 110
  },
  {
   "name": "Юмор FM",
   "url": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://humorfm.by/apple-touch-icon.png",
   "order": 110
  },
  {
   "name": "Energy",
   "url": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://cdnec5.energyfm.ru/design/images/site-design/logo/Logo_180x180px.png",
   "order": 110
  },
  {
   "name": "Радио Рекорд",
   "url": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://www.radiorecord.ru/icons/logo300-300.jpg",
   "order": 110
  },
  {
@@ -894,7 +894,7 @@
   "name": "Новое Радио",
   "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "pin": true,
   "order": 100
  },
@@ -902,7 +902,7 @@
   "name": "Like FM",
   "url": "https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://likefm.ru/design/images/design-images/img_for_sharing.png",
   "order": 110
  },
  {
@@ -934,28 +934,28 @@
   "name": "DFM",
   "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://dfm.ru/apple-icon.png",
   "order": 110
  },
  {
   "name": "Радио Ваня",
   "url": "https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "order": 110
  },
  {
   "name": "Маруся FM",
   "url": "https://cdn.radio-holding.ru/marusya_default",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://marus.fm/icons/android-chrome-192x192.png",
   "order": 110
  },
  {
   "name": "Love Radio",
   "url": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://www.loveradio.ru/logo-white2.jpeg",
   "order": 110
  },
  {
@@ -998,7 +998,7 @@
   "name": "Радио Мир (Беларусь)",
   "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "id": "RadioMir.by@SD",
   "pin": true,
   "order": 100
@@ -1007,7 +1007,7 @@
   "name": "Радио Мир",
   "url": "https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://radiomir.fm/favicon/web-app-manifest-512x512.png",
   "order": 110
  },
  {
@@ -1155,7 +1155,7 @@
   "name": "Радио Хит 103.7 FM (Орск, Россия)",
   "url": "https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "pin": true,
   "order": 100
  },
@@ -1163,7 +1163,7 @@
   "name": "Новое Радио (Минск, Беларусь)",
   "url": "https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.novoeradio.by%2Flogo_novoe.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
   "pin": true,
   "order": 100
  },
@@ -1171,7 +1171,7 @@
   "name": "Радио Маяк (Москва, Россия)",
   "url": "https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png",
   "pin": true,
   "order": 400
  },
@@ -1179,7 +1179,7 @@
   "name": "Юмор FM (Минск, Беларусь)",
   "url": "https://player.humorfm.by/mylive/humStudio-low/index.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://humorfm.by/apple-touch-icon.png",
   "pin": true,
   "order": 100
  },
@@ -1187,7 +1187,7 @@
   "name": "Центр FM (Минск, Беларусь)",
   "url": "https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "",
+  "logo": "https://centerfm.by/assets/img/logo.jpg",
   "pin": true,
   "order": 100
  },
