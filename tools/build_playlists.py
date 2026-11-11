@@ -249,7 +249,9 @@ if os.path.exists(f'{OUT}/my_channels.json'):
     have = {s['url'] for s in merged}
     for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
         # Канал из открытого списка с тем же именем-кодом заменяем своим адресом (без повторов)
-        if c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
+        if c.get('id'):
+            merged = [s for s in merged if s['tid'] != c['id']]
+            have = {s['url'] for s in merged}  # убранный канал может вернуться со своим же адресом, но в другой папке
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', '')))  # pin: первым в своей папке
