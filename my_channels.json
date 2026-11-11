@@ -175,5 +175,11 @@
   "url": "https://icecast.live/up2dance",
   "group": "📻 Радио",
   "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png"
+ },
+ {
+  "name": "Radio Beat",
+  "url": "https://live.radio-beat.com/stream1",
+  "group": "📻 Радио",
+  "logo": ""
  }
 ]
