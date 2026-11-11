@@ -361,3 +361,5 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://servidor35-5.brlogic.com:7080/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
 https://cast.radionahariya.com:8443/main.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
+https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8

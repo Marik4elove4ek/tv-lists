@@ -134,5 +134,11 @@
   "url": "https://cast.radionahariya.com:8443/main.mp3",
   "group": "📻 Радио",
   "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png"
+ },
+ {
+  "name": "Первое радио 89.1 FM",
+  "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "https://www.oles.tv/stations/891fm/favicon.png"
  }
 ]
