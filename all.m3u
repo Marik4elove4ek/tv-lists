@@ -15,7 +15,7 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="16-kanal-il-hd" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ch16.png" group-title="ישראל",ערוץ 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="knesset.il" tvg-logo="https://i.imgur.com/QXB1jv8.png" group-title="ישראל",ערוץ הכנסת
+#EXTINF:-1 tvg-id="knesset.il" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/knesset.png" group-title="ישראל",ערוץ הכנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="hot-comedy-central-il-hd" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/" group-title="ישראל",ערוץ הקומדיה
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8

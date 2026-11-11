@@ -18,7 +18,7 @@
   "name": "ערוץ הכנסת",
   "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
   "group": "Израиль",
-  "logo": "https://i.imgur.com/QXB1jv8.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/knesset.png",
   "id": "KnessetChannel.il@SD",
   "order": 18,
   "epg": "knesset.il"
