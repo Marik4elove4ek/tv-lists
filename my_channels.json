@@ -1022,5 +1022,11 @@
   "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
   "group": "🎵 Музыка",
   "logo": ""
+ },
+ {
+  "name": "КТК (Казахстан)",
+  "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
  }
 ]
