@@ -736,12 +736,6 @@
   "logo": ""
  },
  {
-  "name": "ЧГТРК Грозный",
-  "url": "https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8",
-  "group": "Россия: регионы",
-  "logo": ""
- },
- {
   "name": "Осетия-Ирыстон",
   "url": "https://catchup.videoline.ru/iriston/index.m3u8",
   "group": "Россия: регионы",
@@ -960,12 +954,6 @@
   "order": 110
  },
  {
-  "name": "ОНТ (Беларусь)",
-  "url": "https://ont.dc.beltelecom.by/ont/smil:ont/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
   "name": "Беларусь 4 Гомель",
   "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
   "group": "Русские каналы",
@@ -974,12 +962,6 @@
  {
   "name": "Витебск",
   "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
-  "group": "Русские каналы",
-  "logo": ""
- },
- {
-  "name": "Беларусь 5 Интернет",
-  "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
   "group": "Русские каналы",
   "logo": ""
  },
@@ -1004,6 +986,28 @@
  {
   "name": "Мир 24",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Радио Мир (Беларусь)",
+  "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+  "id": "RadioMir.by@SD",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Радио Мир",
+  "url": "https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Jibek Joly (Казахстан)",
+  "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
   "group": "Русские каналы",
   "logo": ""
  }

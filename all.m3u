@@ -65,8 +65,6 @@ https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 http://88.212.7.14/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="Русские каналы",Perviy Informationniy HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Русские каналы",Radio Mir
-https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.us@SD" tvg-logo="https://i.imgur.com/jjUzuLV.png" group-title="Русские каналы",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="RTViUS.us@SD" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" group-title="Русские каналы",RTVi US
@@ -91,14 +89,10 @@ https://cdn.ntv.ru/th_style/index.m3u8
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",НТВ Право
 https://cdn.ntv.ru/th_pravo/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Русские каналы",ОНТ (Беларусь)
-https://ont.dc.beltelecom.by/ont/smil:ont/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Беларусь 4 Гомель
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Витебск
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Русские каналы",Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Известия
@@ -107,6 +101,8 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Jibek Joly (Казахстан)
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТС Севастополь
@@ -179,8 +175,6 @@ https://air.tvk6.ru/tvk24/index.m3u8
 https://fhtrc6b9861.a.trbcdn.net/livemaster/ktu5e_live-5splv5p6i4s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Россия: регионы",ЧГТРК Грозный
-https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Осетия-Ирыстон
 https://catchup.videoline.ru/iriston/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",ТРК Евразия Орск
@@ -591,6 +585,8 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио 1 (Подмосковье)
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="📻 Радио",Радио Мир (Беларусь)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио России
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Шансон
@@ -617,6 +613,8 @@ https://cdn.radio-holding.ru/marusya_default
 https://cdna.streamgates.net/TheBest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Ваня
 https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Мир
+https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
 https://cast.radionahariya.com:8443/main.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Рекорд
