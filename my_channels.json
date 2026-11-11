@@ -1216,11 +1216,14 @@
   "order": 880
  },
  {
-  "name": "Musayof (Israel)",
-  "order": 890
- },
- {
   "id": "ShelanuTV.il@SD",
   "order": 895
+ },
+ {
+  "name": "Musayof (Israel)",
+  "url": "https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8",
+  "group": "Израиль",
+  "logo": "",
+  "order": 890
  }
 ]

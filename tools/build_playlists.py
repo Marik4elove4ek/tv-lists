@@ -260,6 +260,11 @@ if os.path.exists(f'{OUT}/my_channels.json'):
             continue
         if c.get('id'):
             merged = [s for s in merged if s['tid'] != c['id']]
+        elif c.get('url') and c.get('name'):
+            # Свой адрес для канала без имени-кода: канал с тем же названием из открытого списка убираем (без повторов)
+            cl = lambda nm: re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', nm)).strip()
+            merged = [s for s in merged if s.get('keep') or s['group'] != c.get('group') or cl(s['name']) != c['name']]
+            have = {s['url'] for s in merged}
             have = {s['url'] for s in merged}  # убранный канал может вернуться со своим же адресом, но в другой папке
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
