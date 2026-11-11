@@ -126,7 +126,7 @@
  {
   "name": "Лучшее радио",
   "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
-  "group": "📻 Русское радио",
+  "group": "📻 Радио",
   "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
   "pin": true,
   "audio_backup": "https://servidor35-5.brlogic.com:7080/live",
@@ -135,14 +135,14 @@
  {
   "name": "Радио Нагария",
   "url": "https://cast.radionahariya.com:8443/main.mp3",
-  "group": "📻 Русское радио",
+  "group": "📻 Радио",
   "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png",
   "order": 110
  },
  {
   "name": "Первое радио 89.1 FM",
   "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
-  "group": "📻 Русское радио",
+  "group": "📻 Радио",
   "logo": "https://www.oles.tv/stations/891fm/favicon.png",
   "pin": true,
   "order": 100
@@ -150,7 +150,7 @@
  {
   "name": "Kol Barama",
   "url": "https://live.kol-barama.co.il/hls/mystreambini.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png",
   "pin": true,
   "order": 900
@@ -158,21 +158,21 @@
  {
   "name": "103FM",
   "url": "https://cdn.cybercdn.live/103FM/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://103fm.maariv.co.il/images/ic_launcher.png",
   "order": 300
  },
  {
   "name": "Galei Israel",
   "url": "https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://www.gly.co.il/static/images/webclip.png",
   "order": 300
  },
  {
   "name": "Radius 100FM",
   "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
   "pin": true,
   "order": 200
@@ -180,21 +180,21 @@
  {
   "name": "Up2Dance Radio",
   "url": "https://icecast.live/up2dance",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png",
   "order": 300
  },
  {
   "name": "Radio Beat",
   "url": "https://live.radio-beat.com/stream1",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Lev HaMedina 91FM",
   "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "pin": true,
   "order": 200
@@ -202,175 +202,175 @@
  {
   "name": "Radio Darom 97FM",
   "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio Jerusalem 101FM",
   "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Noshmim Mizrahit",
   "url": "https://rs.mizrahit.fm:7777/;",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png",
   "order": 300
  },
  {
   "name": "Radio Tel Aviv 102FM",
   "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "eco99fm",
   "url": "https://99.mediacast.co.il/99fm_aac",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kol Chai 93FM",
   "url": "https://media2.93fm.co.il/live-new",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 910
  },
  {
   "name": "Radio Eilat 102FM",
   "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio Darom 101.5FM",
   "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "HaTahana 101.5FM",
   "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio Haifa 107.5FM",
   "url": "https://1075.livecdn.biz/radiohaifa",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio 99.5 Ham Esh",
   "url": "https://995.livecdn.biz/995fm",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio 1",
   "url": "https://radio.streamgates.net/stream/radio1",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Bet",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Gimel",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan 88",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Reka",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
-  "group": "📻 Русское радио",
+  "group": "📻 Радио",
   "logo": "",
   "order": 110
  },
  {
   "name": "Kan Moreshet",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 910
  },
  {
   "name": "Kan Kol HaMusica",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kan Tarbut",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Galatz",
   "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Galgalatz",
   "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio 90FM",
   "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Kol Rega 96FM",
   "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Radio Tzafon 104.5FM",
   "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
-  "group": "📻 Израильское радио",
+  "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
   "name": "Музыка 106.4 FM",
   "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
-  "group": "📻 Русское радио",
+  "group": "📻 Радио",
   "logo": "",
   "order": 110
  }
