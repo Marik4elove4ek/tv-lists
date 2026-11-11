@@ -248,6 +248,8 @@ merged = list(chosen.values())
 if os.path.exists(f'{OUT}/my_channels.json'):
     have = {s['url'] for s in merged}
     for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
+        # Канал из открытого списка с тем же именем-кодом заменяем своим адресом (без повторов)
+        if c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid='', feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=False, logo=c.get('logo', '')))
