@@ -357,6 +357,8 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png" group-title="📻 Радио",Kol Barama
+https://live.kol-barama.co.il/hls/mystreambini.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио 106.4 FM
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
