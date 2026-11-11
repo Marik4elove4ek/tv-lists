@@ -17,5 +17,12 @@
   "group": "Израиль",
   "logo": "https://i.imgur.com/QXB1jv8.png",
   "id": "KnessetChannel.il@SD"
+ },
+ {
+  "name": "Reshet 13",
+  "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8",
+  "group": "Израиль",
+  "logo": "https://i.imgur.com/eFM3bTq.png",
+  "id": "Channel13.il@SD"
  }
 ]
