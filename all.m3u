@@ -545,10 +545,6 @@ https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 רדיו ישראלי",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png" group-title="📻 רדיו ישראלי",J-AIR 88 FM (Melbourne, Australia)
-https://s19.myradiostream.com/4918/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://israeliradiomiami.com/logo.png" group-title="📻 רדיו ישראלי",Israeli Radio 107.1 FM (Miami, USA)
-https://a6.asurahosting.com:6650/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://103fm.maariv.co.il/images/ic_launcher.png" group-title="📻 רדיו ישראלי",103FM
 https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/7.jpg" group-title="📻 רדיו ישראלי",eco99fm
@@ -561,6 +557,10 @@ https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8
 https://glzwizzlv.bynetcdn.com/glglz_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/15.jpg" group-title="📻 רדיו ישראלי",HaTahana 101.5FM
 https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://israeliradiomiami.com/logo.png" group-title="📻 רדיו ישראלי",Israeli Radio 107.1 FM (Miami, USA)
+https://a6.asurahosting.com:6650/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png" group-title="📻 רדיו ישראלי",J-AIR 88 FM (Melbourne, Australia)
+https://s19.myradiostream.com/4918/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/1.jpg" group-title="📻 רדיו ישראלי",Kan 88
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/10.jpg" group-title="📻 רדיו ישראלי",Kan Bet
