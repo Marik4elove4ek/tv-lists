@@ -260,6 +260,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
                     if c.get('title'): s['name'] = c['title']  # своё название (например, на иврите)
                     if c.get('group'): s['group'] = c['group']
                     if c.get('epg'): s['epg'] = c['epg']  # имя-код для телепрограммы
+                    if c.get('logo'): s['logo'] = c['logo']  # свой значок
             continue
         if c.get('id'):
             merged = [s for s in merged if s['tid'] != c['id']]

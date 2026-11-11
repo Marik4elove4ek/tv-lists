@@ -1199,7 +1199,8 @@
   "id": "Kan11.il@SD",
   "order": 12,
   "title": "כאן 11",
-  "epg": "11-kanal-il"
+  "epg": "11-kanal-il",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/kan11.png"
  },
  {
   "id": "Now14.il@SD",
