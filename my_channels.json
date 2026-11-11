@@ -1177,5 +1177,13 @@
   "logo": "",
   "pin": true,
   "order": 100
+ },
+ {
+  "name": "Центр FM (Минск, Беларусь)",
+  "url": "https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
  }
 ]
