@@ -363,7 +363,7 @@ https://live.kol-barama.co.il/hls/mystreambini.m3u8
 https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png" group-title="📻 Радио",Radius 100FM
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио 106.4 FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
@@ -423,5 +423,7 @@ https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio
 https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 Радио",Up2Dance Radio
 https://icecast.live/up2dance
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Музыка 106.4 FM
+https://cdna.streamgates.net/TheBest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
 https://cast.radionahariya.com:8443/main.mp3

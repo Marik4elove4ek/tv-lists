@@ -124,7 +124,7 @@
   "id": "NHKWorldJapan.jp@SD"
  },
  {
-  "name": "Лучшее радио 106.4 FM",
+  "name": "Лучшее радио",
   "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
   "group": "📻 Радио",
   "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
@@ -330,6 +330,12 @@
  {
   "name": "Radio Tzafon 104.5FM",
   "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": ""
+ },
+ {
+  "name": "Музыка 106.4 FM",
+  "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
   "group": "📻 Радио",
   "logo": ""
  }
