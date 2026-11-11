@@ -621,7 +621,7 @@ https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
 https://99.mediacast.co.il/99fm_aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png" group-title="📻 רדיו ישראלי",J-AIR 88FM (מלבורן, אוסטרליה)
 https://s19.myradiostream.com/4918/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 רדיו ישראלי",Up2Dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 רדיו ישראלי",Up2Dance Radio
 https://icecast.live/up2dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 רדיו ישראלי",Музыка 106.4 FM
 https://cdna.streamgates.net/TheBest/live/playlist.m3u8
