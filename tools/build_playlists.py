@@ -197,10 +197,24 @@ everything = [dict(s, group='⭐ Моя музыка') for s in mine] + \
 # Марк отметил каналы на странице выбора (picks.json) — в общем файле только они (и «Моя музыка»)
 import json, os
 if os.path.exists(f'{OUT}/picks.json'):
-    picked = set(json.load(open(f'{OUT}/picks.json', encoding='utf-8')).get('ids', []))
+    picks_all = json.load(open(f'{OUT}/picks.json', encoding='utf-8'))
+    picked = set(picks_all.get('ids', []))
     if picked:
         def cid_of(s):
             return s['tid'] or re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', s['name'])).strip()
+        # Новые израильские каналы (которых раньше в списке не было) сами попадают в папку «Израиль»:
+        # отмечаем их в picks.json. Каналы, которые Марк уже видел и не отметил, не трогаем.
+        # seen_il.json — все израильские каналы, которые уже были в списке
+        il_now = {cid_of(s) for s in tv if s['group'] == 'Израиль'}
+        seen_file = f'{OUT}/seen_il.json'
+        seen_il = set(json.load(open(seen_file, encoding='utf-8'))) if os.path.exists(seen_file) else set(il_now)
+        fresh_il = sorted(il_now - seen_il)
+        if fresh_il:
+            picked |= set(fresh_il)
+            picks_all['ids'] = list(picks_all.get('ids', [])) + fresh_il
+            json.dump(picks_all, open(f'{OUT}/picks.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+            print('new Israeli channels:', ', '.join(fresh_il))
+        json.dump(sorted(seen_il | il_now), open(seen_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
         everything = [s for s in everything if s['group'] == '⭐ Моя музыка' or cid_of(s) in picked]
 # Папки в общем файле — крупные: Израиль, На русском, Кино, Музыка (Марк попросил собрать всё вместе).
 # «Моя музыка» (VIVA Russia, City TV) — первой в папке «Музыка»
