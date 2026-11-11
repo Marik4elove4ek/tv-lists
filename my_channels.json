@@ -958,5 +958,41 @@
   "group": "📻 Радио",
   "logo": "",
   "order": 110
+ },
+ {
+  "name": "ОНТ (Беларусь)",
+  "url": "https://ont.dc.beltelecom.by/ont/smil:ont/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Беларусь 4 Гомель",
+  "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Витебск",
+  "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Беларусь 5 Интернет",
+  "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Звезда",
+  "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
+ },
+ {
+  "name": "Известия",
+  "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
+  "group": "Русские каналы",
+  "logo": ""
  }
 ]

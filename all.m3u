@@ -91,6 +91,18 @@ https://cdn.ntv.ru/th_style/index.m3u8
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",НТВ Право
 https://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",ОНТ (Беларусь)
+https://ont.dc.beltelecom.by/ont/smil:ont/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Беларусь 4 Гомель
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Витебск
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="" group-title="Русские каналы",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",НТС Севастополь
