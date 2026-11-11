@@ -389,6 +389,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSI
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kolhalev.com/images/kolhalevlogo.png" group-title="📻 רדיו ישראלי",Kol HaLev Radio (USA)
 https://us1.streamingpulse.com/ssl/KolHalev
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/71.jpg" group-title="📻 רדיו ישראלי",Kol HaShfela 103.6FM
+https://radio.streamgates.net/stream/1036kh
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/23.jpg" group-title="📻 רדיו ישראלי",Kol Rega 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" group-title="📻 רדיו ישראלי",Noshmim Mizrahit
@@ -409,6 +411,8 @@ https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8
 https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/27.jpg" group-title="📻 רדיו ישראלי",Radio Eilat 102FM
 https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/17.jpg" group-title="📻 רדיו ישראלי",Radio Eshel HaNasi
+http://stream.eshelnet.com/xstream
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/11.jpg" group-title="📻 רדיו ישראלי",Radio Haifa 107.5FM
 https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/25.jpg" group-title="📻 רדיו ישראלי",Radio Jerusalem 101FM

@@ -408,5 +408,19 @@
   "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
+ },
+ {
+  "name": "Kol HaShfela 103.6FM",
+  "url": "https://radio.streamgates.net/stream/1036kh",
+  "group": "📻 רדיו ישראלי",
+  "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
+  "order": 300
+ },
+ {
+  "name": "Radio Eshel HaNasi",
+  "url": "http://stream.eshelnet.com/xstream",
+  "group": "📻 רדיו ישראלי",
+  "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
+  "order": 300
  }
 ]
