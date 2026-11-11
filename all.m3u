@@ -629,8 +629,6 @@ https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Хит 103.7 FM (Орск, Россия)
 https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radioshanson.ru/apple-touch-icon.png" group-title="📻 Радио",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://centerfm.by/assets/img/logo.jpg" group-title="📻 Радио",Центр FM (Минск, Беларусь)
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humorfm.by/apple-touch-icon.png" group-title="📻 Радио",Юмор FM (Минск, Беларусь)
@@ -641,8 +639,6 @@ https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://likefm.ru/design/images/design-images/img_for_sharing.png" group-title="📻 Радио",Like FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.loveradio.ru/logo-white2.jpeg" group-title="📻 Радио",Love Radio
-https://stream2.n340.com/12_love_64_reg_44?type=aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg" group-title="📻 Радио",Авторадио
 https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Дорожное радио

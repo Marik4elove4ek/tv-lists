@@ -461,14 +461,6 @@
   "order": 400
  },
  {
-  "name": "Радио Шансон",
-  "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
-  "group": "📻 Радио",
-  "logo": "https://radioshanson.ru/apple-touch-icon.png",
-  "pin": true,
-  "order": 100
- },
- {
   "name": "Европа Плюс",
   "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
   "group": "📻 Радио",
@@ -949,13 +941,6 @@
   "url": "https://cdn.radio-holding.ru/marusya_default",
   "group": "📻 Радио",
   "logo": "https://marus.fm/icons/android-chrome-192x192.png",
-  "order": 110
- },
- {
-  "name": "Love Radio",
-  "url": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
-  "group": "📻 Радио",
-  "logo": "https://www.loveradio.ru/logo-white2.jpeg",
   "order": 110
  },
  {
