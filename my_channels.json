@@ -4,5 +4,11 @@
   "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
   "group": "Израиль",
   "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg"
+ },
+ {
+  "name": "Angel TV Hebrew",
+  "url": "https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+  "group": "Израиль",
+  "logo": "https://www.angeltv.org/favicon/apple.png"
  }
 ]
