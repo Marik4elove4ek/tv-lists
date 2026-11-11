@@ -173,7 +173,7 @@ def write(name, items, order, keep_always=False):
     groups = collections.defaultdict(list)
     for s in items: groups[s['group']].append(s)
     for g in order + sorted(k for k in groups if k not in order):
-        for s in sorted(groups.get(g, []), key=lambda x: (not x.get('pin'), x['name'].lower())):
+        for s in sorted(groups.get(g, []), key=lambda x: (x.get('order', 500), not x.get('pin'), x['name'].lower())):
             # Каналы, которые попросил сам Марк, остаются, даже если сейчас молчат (City TV не круглосуточный)
             if not ok.get(s['url']) and not keep_always and s['group'] != '⭐ Моя музыка' and not s.get('pin') and not s.get('keep'): continue
             nm = re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', s['name'])).strip()
@@ -252,7 +252,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         if c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
-                               group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), logo=c.get('logo', '')))  # pin: первым в своей папке
+                               group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', '')))  # pin: первым в своей папке
 write('all.m3u', merged, ['Израиль', 'Русские каналы', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия'])
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
