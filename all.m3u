@@ -541,6 +541,10 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png" group-title="📻 רדיו ישראלי",Radius 100FM
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 רדיו ישראלי",Лучшее радио
+https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 רדיו ישראלי",Первое радио 89.1 FM
+https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png" group-title="📻 רדיו ישראלי",J-AIR 88 FM (Melbourne, Australia)
 https://s19.myradiostream.com/4918/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://israeliradiomiami.com/logo.png" group-title="📻 רדיו ישראלי",Israeli Radio 107.1 FM (Miami, USA)
@@ -565,6 +569,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/26.jpg" group-title="📻 רדיו ישראלי",Kan Kol HaMusica
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="📻 רדיו ישראלי",Kan Reka
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/28.jpg" group-title="📻 רדיו ישראלי",Kan Tarbut
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kolhalev.com/images/kolhalevlogo.png" group-title="📻 רדיו ישראלי",Kol HaLev Radio (USA)
@@ -605,6 +611,10 @@ https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio
 https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 רדיו ישראלי",Up2Dance Radio
 https://icecast.live/up2dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 רדיו ישראלי",Музыка 106.4 FM
+https://cdna.streamgates.net/TheBest/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 רדיו ישראלי",Радио Нагария
+https://cast.radionahariya.com:8443/main.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png" group-title="📻 רדיו ישראלי",Kol Barama
 https://live.kol-barama.co.il/hls/mystreambini.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/20.jpg" group-title="📻 רדיו ישראלי",Kan Moreshet
@@ -615,12 +625,8 @@ https://media2.93fm.co.il/live-new
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио
-https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
-https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио 1 (Подмосковье)
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="📻 Радио",Радио Мир (Беларусь)
@@ -633,8 +639,6 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Energy
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="📻 Радио",Kan Reka
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Like FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Love Radio
@@ -647,14 +651,10 @@ https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
 https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Маруся FM
 https://cdn.radio-holding.ru/marusya_default
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 Радио",Музыка 106.4 FM
-https://cdna.streamgates.net/TheBest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Ваня
 https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Мир
 https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir
-#EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
-https://cast.radionahariya.com:8443/main.mp3
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Рекорд
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Ретро FM
