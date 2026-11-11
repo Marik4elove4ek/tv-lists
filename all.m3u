@@ -357,73 +357,73 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Lev HaMedina 91FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/3.jpg" group-title="📻 רדיו ישראלי",Lev HaMedina 91FM
 https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png" group-title="📻 רדיו ישראלי",Radius 100FM
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://103fm.maariv.co.il/images/ic_launcher.png" group-title="📻 רדיו ישראלי",103FM
 https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",eco99fm
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/7.jpg" group-title="📻 רדיו ישראלי",eco99fm
 https://99.mediacast.co.il/99fm_aac
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Galatz
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/6.jpg" group-title="📻 רדיו ישראלי",Galatz
 https://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gly.co.il/static/images/webclip.png" group-title="📻 רדיו ישראלי",Galei Israel
 https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Galgalatz
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/8.jpg" group-title="📻 רדיו ישראלי",Galgalatz
 https://glzwizzlv.bynetcdn.com/glglz_mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",HaTahana 101.5FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/15.jpg" group-title="📻 רדיו ישראלי",HaTahana 101.5FM
 https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan 88
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/1.jpg" group-title="📻 רדיו ישראלי",Kan 88
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan Bet
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/10.jpg" group-title="📻 רדיו ישראלי",Kan Bet
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan Gimel
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/16.jpg" group-title="📻 רדיו ישראלי",Kan Gimel
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan Kol HaMusica
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/26.jpg" group-title="📻 רדיו ישראלי",Kan Kol HaMusica
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan Tarbut
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/28.jpg" group-title="📻 רדיו ישראלי",Kan Tarbut
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kol Rega 96FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/23.jpg" group-title="📻 רדיו ישראלי",Kol Rega 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" group-title="📻 רדיו ישראלי",Noshmim Mizrahit
 https://rs.mizrahit.fm:7777/;
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/88.jpg" group-title="📻 רדיו ישראלי",Radio 1
 https://radio.streamgates.net/stream/radio1
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio 90FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/2.jpg" group-title="📻 רדיו ישראלי",Radio 90FM
 https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio 99.5 Ham Esh
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/50.jpg" group-title="📻 רדיו ישראלי",Radio 99.5 Ham Esh
 https://995.livecdn.biz/995fm
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Beat
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/49.jpg" group-title="📻 רדיו ישראלי",Radio Beat
 https://live.radio-beat.com/stream1
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Darom 101.5FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/47.jpg" group-title="📻 רדיו ישראלי",Radio Darom 101.5FM
 https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Darom 97FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/14.jpg" group-title="📻 רדיו ישראלי",Radio Darom 97FM
 https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Eilat 102FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/27.jpg" group-title="📻 רדיו ישראלי",Radio Eilat 102FM
 https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Haifa 107.5FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/11.jpg" group-title="📻 רדיו ישראלי",Radio Haifa 107.5FM
 https://1075.livecdn.biz/radiohaifa
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Jerusalem 101FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/25.jpg" group-title="📻 רדיו ישראלי",Radio Jerusalem 101FM
 https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Tel Aviv 102FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/4.jpg" group-title="📻 רדיו ישראלי",Radio Tel Aviv 102FM
 https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Tzafon 104.5FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/62.jpg" group-title="📻 רדיו ישראלי",Radio Tzafon 104.5FM
 https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 רדיו ישראלי",Up2Dance Radio
 https://icecast.live/up2dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png" group-title="📻 רדיו ישראלי",Kol Barama
 https://live.kol-barama.co.il/hls/mystreambini.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kan Moreshet
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/20.jpg" group-title="📻 רדיו ישראלי",Kan Moreshet
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Kol Chai 93FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/21.jpg" group-title="📻 רדיו ישראלי",Kol Chai 93FM
 https://media2.93fm.co.il/live-new
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 Радио",Kan Reka
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="📻 Радио",Kan Reka
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 Радио",Музыка 106.4 FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 Радио",Музыка 106.4 FM
 https://cdna.streamgates.net/TheBest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 Радио",Радио Нагария
 https://cast.radionahariya.com:8443/main.mp3
