@@ -14,9 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Свой шаг вместо actions/checkout: в этом репозитории сторонние действия не запускаются (startup_failure)
-      - name: Checkout
-        run: git clone -q --depth 1 "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" .
+      - uses: actions/checkout@v4
       - name: Fetch iptv-org
         run: |
           git clone -q --depth 1 https://github.com/iptv-org/iptv /tmp/iptv
