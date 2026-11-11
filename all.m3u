@@ -657,7 +657,7 @@ https://radio.streamgates.net/stream/1036kh
 https://radio.streamgates.net/stream/radio1
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/2.jpg" group-title="📻 רדיו ישראלי",רדיו 90FM
 https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",רדיו אזורי
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_azori.png" group-title="📻 רדיו ישראלי",רדיו אזורי
 https://live.ecast.co.il/stream/69fm/azori
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/27.jpg" group-title="📻 רדיו ישראלי",רדיו אילת 102FM
 https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8
