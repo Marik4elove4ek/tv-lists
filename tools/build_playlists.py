@@ -175,10 +175,10 @@ def write(name, items, order, keep_always=False):
     for g in order + sorted(k for k in groups if k not in order):
         for s in sorted(groups.get(g, []), key=lambda x: (not x.get('pin'), x['name'].lower())):
             # Каналы, которые попросил сам Марк, остаются, даже если сейчас молчат (City TV не круглосуточный)
-            if not ok.get(s['url']) and not keep_always and s['group'] != '⭐ Моя музыка' and not s.get('pin'): continue
+            if not ok.get(s['url']) and not keep_always and s['group'] != '⭐ Моя музыка' and not s.get('pin') and not s.get('keep'): continue
             nm = re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', s['name'])).strip()
             if s['cid'] == 'CityTV.bg': nm = 'City TV (Болгария)'
-            logo = logos.get(s['cid'])
+            logo = s.get('logo') or logos.get(s['cid'])
             lines.append(f'#EXTINF:-1 tvg-id="{s["tid"]}"' + (f' tvg-logo="{logo}"' if logo else '') + f' group-title="{g}",{nm}')
             lines.append(s['url']); n += 1
     open(f'{OUT}/{name}', 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
@@ -243,6 +243,14 @@ for s in everything:
     if cur is None or rank.get(item['group'], 9) < rank.get(cur['group'], 9) or (item['pin'] and not cur['pin']):
         chosen[s['url']] = item
 merged = list(chosen.values())
+# Каналы, которые Марк добавил сам (my_channels.json: название, адрес потока, папка).
+# Они остаются в общем плейлисте всегда, даже если ночью не ответили
+if os.path.exists(f'{OUT}/my_channels.json'):
+    have = {s['url'] for s in merged}
+    for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
+        if c.get('url') and c['url'] not in have:
+            merged.append(dict(tid=c.get('id', ''), cid='', feed='', name=c['name'], url=c['url'], opts=[], file='',
+                               group=c.get('group') or 'Мои каналы', keep=True, pin=False, logo=c.get('logo', '')))
 write('all.m3u', merged, ['Израиль', 'Русские каналы', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия'])
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
