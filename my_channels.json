@@ -122,5 +122,11 @@
   "group": "📰 Новости мира",
   "logo": "",
   "id": "NHKWorldJapan.jp@SD"
+ },
+ {
+  "name": "Лучшее радио 106.4 FM",
+  "url": "https://servidor35-5.brlogic.com:7080/live",
+  "group": "📻 Радио",
+  "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png"
  }
 ]
