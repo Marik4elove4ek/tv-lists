@@ -478,7 +478,7 @@
   "name": "Авторадио",
   "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/avtoradio.png",
   "order": 111
  },
  {
@@ -1172,7 +1172,7 @@
   "name": "Центр FM (Минск, Беларусь)",
   "url": "https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8",
   "group": "📻 Радио",
-  "logo": "https://centerfm.by/assets/img/logo.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/centrfm.png",
   "pin": true,
   "order": 108
  },

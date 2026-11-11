@@ -635,13 +635,13 @@ https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 Радио",Energy
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://centerfm.by/assets/img/logo.jpg" group-title="📻 Радио",Центр FM (Минск, Беларусь)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/centrfm.png" group-title="📻 Радио",Центр FM (Минск, Беларусь)
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Хит 103.7 FM (Орск, Россия)
 https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png" group-title="📻 Радио",Европа Плюс
 https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg" group-title="📻 Радио",Авторадио
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/avtoradio.png" group-title="📻 Радио",Авторадио
 https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Дорожное радио
 https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
