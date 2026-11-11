@@ -625,7 +625,7 @@ https://s19.myradiostream.com/4918/;
 https://icecast.live/up2dance
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 רדיו ישראלי",Музыка 106.4 FM
 https://cdna.streamgates.net/TheBest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 רדיו ישראלי",Радио Нагария
+#EXTINF:-1 tvg-id="" tvg-logo="https://radionahariya.com/assets/icons/apple-touch-icon.png" group-title="📻 רדיו ישראלי",Радио Наария
 https://cast.radionahariya.com:8443/main.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/8.jpg" group-title="📻 רדיו ישראלי",גלגלצ
 https://glzwizzlv.bynetcdn.com/glglz_mp3
