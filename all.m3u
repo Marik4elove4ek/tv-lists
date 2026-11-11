@@ -655,7 +655,7 @@ https://rs.mizrahit.fm:7777/;
 https://radio.streamgates.net/stream/radio1
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/2.jpg" group-title="📻 רדיו ישראלי",Radio 90FM
 https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/50.jpg" group-title="📻 רדיו ישראלי",Radio 99.5 Ham Esh
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/hamesh.png" group-title="📻 רדיו ישראלי",Radio 99.5 Ham Esh
 https://995.livecdn.biz/995fm
 #EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Azori
 https://live.ecast.co.il/stream/69fm/azori
