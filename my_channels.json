@@ -1297,7 +1297,8 @@
  },
  {
   "id": "EuronewsRussian.fr@SD",
-  "epg": "evronews"
+  "epg": "evronews",
+  "group": "📰 Новости на русском"
  },
  {
   "id": "Eurosport1.fr@Russia",
@@ -1317,7 +1318,8 @@
  },
  {
   "id": "CurrentTimeTV.cz@SD",
-  "epg": "nastoyaschee-vremya-hd"
+  "epg": "nastoyaschee-vremya-hd",
+  "group": "📰 Новости на русском"
  },
  {
   "id": "KinoTV.ru@HD",
@@ -1442,5 +1444,9 @@
  {
   "id": "Telecafe.ru@SD",
   "epg": "telekafe"
+ },
+ {
+  "id": "DW.de@Russian",
+  "group": "📰 Новости на русском"
  }
 ]
