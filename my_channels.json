@@ -128,5 +128,11 @@
   "url": "https://servidor35-5.brlogic.com:7080/live",
   "group": "📻 Радио",
   "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png"
+ },
+ {
+  "name": "Радио Нагария",
+  "url": "https://cast.radionahariya.com:8443/main.mp3",
+  "group": "📻 Радио",
+  "logo": "https://radionahariya.com/assets/icons/apple-touch-icon.png"
  }
 ]
