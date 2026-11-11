@@ -125,9 +125,11 @@
  },
  {
   "name": "Лучшее радио 106.4 FM",
-  "url": "https://servidor35-5.brlogic.com:7080/live",
+  "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
   "group": "📻 Радио",
-  "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png"
+  "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
+  "pin": true,
+  "audio_backup": "https://servidor35-5.brlogic.com:7080/live"
  },
  {
   "name": "Радио Нагария",
