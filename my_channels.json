@@ -462,5 +462,61 @@
   "logo": "",
   "pin": true,
   "order": 100
+ },
+ {
+  "name": "Европа Плюс",
+  "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Русское Радио",
+  "url": "https://rusradio.ru/t/radio/master.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Авторадио",
+  "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Ретро FM",
+  "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Дорожное радио",
+  "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Юмор FM",
+  "url": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Energy",
+  "url": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
+ },
+ {
+  "name": "Радио Рекорд",
+  "url": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "order": 110
  }
 ]
