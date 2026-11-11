@@ -21,7 +21,7 @@
   "logo": "https://i.imgur.com/QXB1jv8.png",
   "id": "KnessetChannel.il@SD",
   "order": 18,
-  "epg": "Knesset.il"
+  "epg": "knesset.il"
  },
  {
   "name": "רשת 13",
@@ -1253,7 +1253,7 @@
   "id": "Hidabroot.il@SD",
   "title": "הידברות",
   "order": 103,
-  "epg": "Hidabroot.il"
+  "epg": "hidabrot.il"
  },
  {
   "id": "RealityChannel.il@SD",
