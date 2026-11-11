@@ -399,6 +399,8 @@ https://radio.streamgates.net/stream/radio1
 https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/50.jpg" group-title="📻 רדיו ישראלי",Radio 99.5 Ham Esh
 https://995.livecdn.biz/995fm
+#EXTINF:-1 tvg-id="" group-title="📻 רדיו ישראלי",Radio Azori
+https://live.ecast.co.il/stream/69fm/azori
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/49.jpg" group-title="📻 רדיו ישראלי",Radio Beat
 https://live.radio-beat.com/stream1
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/47.jpg" group-title="📻 רדיו ישראלי",Radio Darom 101.5FM

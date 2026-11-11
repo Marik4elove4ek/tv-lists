@@ -401,5 +401,12 @@
   "group": "📻 רדיו ישראלי",
   "logo": "https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png",
   "order": 300
+ },
+ {
+  "name": "Radio Azori",
+  "url": "https://live.ecast.co.il/stream/69fm/azori",
+  "group": "📻 רדיו ישראלי",
+  "logo": "",
+  "order": 300
  }
 ]
