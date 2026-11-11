@@ -103,10 +103,6 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",Jibek Joly (Казахстан)
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Русские каналы",МТРК (Петропавловск, Казахстан)
-https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Русские каналы",Exclusiv TV (Молдова)
-http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:-1 tvg-id="" group-title="Русские каналы",ТНТ Exclusiv (Молдова)
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
