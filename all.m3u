@@ -431,10 +431,20 @@ https://live.kol-barama.co.il/hls/mystreambini.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/21.jpg" group-title="📻 רדיו ישראלי",Kol Chai 93FM
 https://media2.93fm.co.il/live-new
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Говорит Москва
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 Радио",Лучшее радио
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 Радио",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио 1 (Подмосковье)
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио России
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/74.jpg" group-title="📻 Радио",Kan Reka
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/73.jpg" group-title="📻 Радио",Музыка 106.4 FM

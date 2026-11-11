@@ -422,5 +422,45 @@
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
   "order": 300
+ },
+ {
+  "name": "Радио России",
+  "url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Вести FM",
+  "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Говорит Москва",
+  "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Радио 1 (Подмосковье)",
+  "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Радио Шансон",
+  "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
  }
 ]
