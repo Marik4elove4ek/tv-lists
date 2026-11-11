@@ -635,7 +635,7 @@ https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 https://player.humorfm.by/mylive/humStudio-low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 Радио",DFM
 https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnec5.energyfm.ru/design/images/site-design/logo/Logo_180x180px.png" group-title="📻 Радио",Energy
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 Радио",Energy
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://likefm.ru/design/images/design-images/img_for_sharing.png" group-title="📻 Радио",Like FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
