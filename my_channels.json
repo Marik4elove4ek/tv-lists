@@ -1161,5 +1161,21 @@
   "logo": "",
   "pin": true,
   "order": 100
+ },
+ {
+  "name": "Радио Маяк (Москва, Россия)",
+  "url": "https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
+ },
+ {
+  "name": "Юмор FM (Минск, Беларусь)",
+  "url": "https://player.humorfm.by/mylive/humStudio-low/index.m3u8",
+  "group": "📻 Радио",
+  "logo": "",
+  "pin": true,
+  "order": 100
  }
 ]

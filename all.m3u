@@ -631,6 +631,8 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио 1 (Подмосковье)
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Маяк (Москва, Россия)
+https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="📻 Радио",Радио Мир (Беларусь)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио России
@@ -639,6 +641,8 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио",Юмор FM (Минск, Беларусь)
+https://player.humorfm.by/mylive/humStudio-low/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",DFM
 https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 Радио",Energy
