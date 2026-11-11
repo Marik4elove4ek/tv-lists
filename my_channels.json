@@ -169,5 +169,11 @@
   "group": "📻 Радио",
   "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
   "pin": true
+ },
+ {
+  "name": "Up2Dance Radio",
+  "url": "https://icecast.live/up2dance",
+  "group": "📻 Радио",
+  "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png"
  }
 ]
