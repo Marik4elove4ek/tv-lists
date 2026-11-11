@@ -157,7 +157,7 @@
   "order": 200
  },
  {
-  "name": "Kol Barama",
+  "name": "רדיו קול ברמה",
   "url": "https://live.kol-barama.co.il/hls/mystreambini.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-60x60.png",
@@ -172,14 +172,14 @@
   "order": 300
  },
  {
-  "name": "Galei Israel",
+  "name": "גלי ישראל",
   "url": "https://cdn.cybercdn.live/Galei_Israel/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://www.gly.co.il/static/images/webclip.png",
   "order": 300
  },
  {
-  "name": "Radius 100FM",
+  "name": "רדיוס 100FM",
   "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
@@ -187,21 +187,21 @@
   "order": 200
  },
  {
-  "name": "Up2Dance Radio",
+  "name": "Up2Dance",
   "url": "https://icecast.live/up2dance",
   "group": "📻 רדיו ישראלי",
   "logo": "https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png",
   "order": 300
  },
  {
-  "name": "Radio Beat",
+  "name": "רדיו ביט",
   "url": "https://live.radio-beat.com/stream1",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/49.jpg",
   "order": 300
  },
  {
-  "name": "Lev HaMedina 91FM",
+  "name": "רדיו לב המדינה 91FM",
   "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/3.jpg",
@@ -209,28 +209,28 @@
   "order": 200
  },
  {
-  "name": "Radio Darom 97FM",
+  "name": "רדיו דרום 97FM",
   "url": "https://cdn.cybercdn.live/Darom_97FM/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/14.jpg",
   "order": 300
  },
  {
-  "name": "Radio Jerusalem 101FM",
+  "name": "רדיו ירושלים 101FM",
   "url": "https://cdn.cybercdn.live/JerusalemRadio/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/25.jpg",
   "order": 300
  },
  {
-  "name": "Noshmim Mizrahit",
+  "name": "נושמים מזרחית",
   "url": "https://rs.mizrahit.fm:7777/;",
   "group": "📻 רדיו ישראלי",
   "logo": "https://mizrahit.fm/wp-content/uploads/2019/04/logo.png",
   "order": 300
  },
  {
-  "name": "Radio Tel Aviv 102FM",
+  "name": "רדיו תל אביב 102FM",
   "url": "https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/4.jpg",
@@ -244,133 +244,133 @@
   "order": 300
  },
  {
-  "name": "Kol Chai 93FM",
+  "name": "רדיו קול חי 93FM",
   "url": "https://media2.93fm.co.il/live-new",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/21.jpg",
   "order": 910
  },
  {
-  "name": "Radio Eilat 102FM",
+  "name": "רדיו אילת 102FM",
   "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/27.jpg",
   "order": 300
  },
  {
-  "name": "Radio Darom 101.5FM",
+  "name": "רדיו דרום 101.5FM",
   "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/47.jpg",
   "order": 300
  },
  {
-  "name": "HaTahana 101.5FM",
+  "name": "התחנה 101.5FM",
   "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/15.jpg",
   "order": 300
  },
  {
-  "name": "Radio Haifa 107.5FM",
+  "name": "רדיו חיפה 107.5FM",
   "url": "https://1075.livecdn.biz/radiohaifa",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/11.jpg",
   "order": 300
  },
  {
-  "name": "Radio 99.5 Ham Esh",
+  "name": "רדיו חם אש 99.5FM",
   "url": "https://995.livecdn.biz/995fm",
   "group": "📻 רדיו ישראלי",
   "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/hamesh.png",
   "order": 300
  },
  {
-  "name": "Radio 1",
+  "name": "רדיו 1",
   "url": "https://radio.streamgates.net/stream/radio1",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/88.jpg",
   "order": 300
  },
  {
-  "name": "Kan Bet",
+  "name": "כאן רשת ב",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/10.jpg",
   "order": 300
  },
  {
-  "name": "Kan Gimel",
+  "name": "כאן גימל",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/16.jpg",
   "order": 300
  },
  {
-  "name": "Kan 88",
+  "name": "כאן 88",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/1.jpg",
   "order": 300
  },
  {
-  "name": "Kan Reka",
+  "name": "כאן רק״ע",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/74.jpg",
   "order": 300
  },
  {
-  "name": "Kan Moreshet",
+  "name": "כאן מורשת",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/20.jpg",
   "order": 910
  },
  {
-  "name": "Kan Kol HaMusica",
+  "name": "כאן קול המוסיקה",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/26.jpg",
   "order": 300
  },
  {
-  "name": "Kan Tarbut",
+  "name": "כאן תרבות",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/28.jpg",
   "order": 300
  },
  {
-  "name": "Galatz",
+  "name": "גלי צה״ל",
   "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/6.jpg",
   "order": 300
  },
  {
-  "name": "Galgalatz",
+  "name": "גלגלצ",
   "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/8.jpg",
   "order": 300
  },
  {
-  "name": "Radio 90FM",
+  "name": "רדיו 90FM",
   "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/2.jpg",
   "order": 300
  },
  {
-  "name": "Kol Rega 96FM",
+  "name": "רדיו קול רגע 96FM",
   "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/23.jpg",
   "order": 300
  },
  {
-  "name": "Radio Tzafon 104.5FM",
+  "name": "רדיו צפון 104.5FM",
   "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/62.jpg",
@@ -384,49 +384,49 @@
   "order": 300
  },
  {
-  "name": "Israeli Radio 107.1 FM (Miami, USA)",
+  "name": "הרדיו הישראלי 107.1FM (מיאמי, ארה״ב)",
   "url": "https://a6.asurahosting.com:6650/radio.mp3",
   "group": "📻 רדיו ישראלי",
   "logo": "https://israeliradiomiami.com/logo.png",
   "order": 300
  },
  {
-  "name": "Radio Qualita",
+  "name": "רדיו קוואליטה",
   "url": "https://listen.radioking.com/radio/345145/stream/393862",
   "group": "📻 רדיו ישראלי",
   "logo": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
   "order": 300
  },
  {
-  "name": "Kol HaLev Radio (USA)",
+  "name": "רדיו קול הלב (ארה״ב)",
   "url": "https://us1.streamingpulse.com/ssl/KolHalev",
   "group": "📻 רדיו ישראלי",
   "logo": "https://www.kolhalev.com/images/kolhalevlogo.png",
   "order": 300
  },
  {
-  "name": "J-AIR 88 FM (Melbourne, Australia)",
+  "name": "J-AIR 88FM (מלבורן, אוסטרליה)",
   "url": "https://s19.myradiostream.com/4918/;",
   "group": "📻 רדיו ישראלי",
   "logo": "https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png",
   "order": 300
  },
  {
-  "name": "Radio Azori",
+  "name": "רדיו אזורי",
   "url": "https://live.ecast.co.il/stream/69fm/azori",
   "group": "📻 רדיו ישראלי",
   "logo": "",
   "order": 300
  },
  {
-  "name": "Kol HaShfela 103.6FM",
+  "name": "קול השפלה 103.6FM",
   "url": "https://radio.streamgates.net/stream/1036kh",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
   "order": 300
  },
  {
-  "name": "Radio Eshel HaNasi",
+  "name": "רדיו אשל הנשיא",
   "url": "http://stream.eshelnet.com/xstream",
   "group": "📻 רדיו ישראלי",
   "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
