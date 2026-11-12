@@ -1329,19 +1329,23 @@
  },
  {
   "id": "NTVHit.ru@SD",
-  "epg": "ntv-hit"
+  "epg": "ntv-hit",
+  "order": 20
  },
  {
   "id": "Smotrim100Klassika.ru@SD",
-  "epg": "smotrym-100-classica-hd-orig"
+  "epg": "smotrym-100-classica-hd-orig",
+  "order": 10
  },
  {
   "id": "Smotrim100Lyubov.ru@SD",
-  "epg": "smotrym-100-lybov-hd-orig"
+  "epg": "smotrym-100-lybov-hd-orig",
+  "order": 11
  },
  {
   "id": "Smotrim100Muzhskoe.ru@SD",
-  "epg": "smotrym-100-muzhskoe-hd-orig"
+  "epg": "smotrym-100-muzhskoe-hd-orig",
+  "order": 12
  },
  {
   "id": "TV21International.ru@SD",
@@ -1450,5 +1454,13 @@
  {
   "id": "RTN.us@SD",
   "group": "📰 Новости"
+ },
+ {
+  "id": "Balabol.ru@SD",
+  "order": 21
+ },
+ {
+  "id": "Nevskiy.ru@SD",
+  "order": 22
  }
 ]
