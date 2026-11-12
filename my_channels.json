@@ -1698,5 +1698,16 @@
   "url": "https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=kdjDysD4w5TiC7z9ygP8LA&e=2094515307&scheme=https",
   "group": "Россия",
   "order": 800
+ },
+ {
+  "name": "НТВ",
+  "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
+  "group": "Россия",
+  "order": 801
+ },
+ {
+  "name": "Nano",
+  "url": "https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=PUNJ5_7bKuStjPaAk11FIg&e=2094515680&scheme=https",
+  "group": "📚 Познавательные"
  }
 ]
