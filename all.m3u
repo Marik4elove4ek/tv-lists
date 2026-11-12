@@ -97,8 +97,6 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="🇷🇺 Россия",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="🇷🇺 Россия",Soyuzny
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="🇷🇺 Россия",TV BRICS Russian
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="🇷🇺 Россия",АБАЗА-ТВ
@@ -189,6 +187,8 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
+http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="⚽ Спорт",Okko Futbol
@@ -833,8 +833,6 @@ https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 https://rusradio.ru/t/radio/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png" group-title="📻 Радио",Юмор FM
 https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radiomir.fm/favicon/web-app-manifest-512x512.png" group-title="📻 Радио",Радио Мир
-https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Мир (Беларусь)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humorfm.by/apple-touch-icon.png" group-title="📻 Радио",Юмор FM (Минск, Беларусь)

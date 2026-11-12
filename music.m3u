@@ -325,6 +325,8 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="🎵 Франция",Mezzo
 http://92.180.26.103/stream/62/index.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="🎵 Франция",Mezzo Live
+http://45.84.187.172:3001/udp/239.10.10.76:5000|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F130.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🎵 Франция",P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaFolk.fr@HD" group-title="🎵 Франция",Persiana Folk
@@ -443,6 +445,8 @@ https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="ChamameTV.ar@SD" tvg-logo="https://i.imgur.com/JigzJck.png" group-title="🎵 Латинская Америка",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChocolateFM.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png" group-title="🎵 Латинская Америка",Chocolate FM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png" group-title="🎵 Латинская Америка",Claro Musica TV
 http://45.171.64.30:6060/play/a010
 #EXTINF:-1 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="🎵 Латинская Америка",Conecta TV
@@ -479,8 +483,6 @@ https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 https://v1.tustreaming.cl/genialtv/index.m3u8
 #EXTINF:-1 tvg-id="GOTV.py@SD" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="🎵 Латинская Америка",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 tvg-id="HeartRadioAruba.aw@SD" tvg-logo="https://i.imgur.com/MKZCskA.png" group-title="🎵 Латинская Америка",Heart Radio Aruba
-https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py@SD" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="🎵 Латинская Америка",HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion|Referer=https%3A%2F%2Fwww.heinow.com.py%2F
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr@SD" tvg-logo="https://i.imgur.com/VDyf36C.png" group-title="🎵 Латинская Америка",Hope Channel PROYECTO JA
@@ -541,6 +543,8 @@ http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="🎵 Латинская Америка",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="NandePortetepeTV.py@SD" tvg-logo="https://i.imgur.com/3taT6JK.jpeg" group-title="🎵 Латинская Америка",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="🎵 Латинская Америка",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="🎵 Латинская Америка",Nueva Vida TV
@@ -801,6 +805,8 @@ https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" group-title="🎵 Румыния",Romantic FM (576i)
 https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+#EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="🎵 Румыния",Smart Radio
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="🎵 Румыния",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="🎵 Румыния",Tele7music (576i)
