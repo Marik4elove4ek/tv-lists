@@ -1709,5 +1709,26 @@
   "name": "Nano",
   "url": "https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=PUNJ5_7bKuStjPaAk11FIg&e=2094515680&scheme=https",
   "group": "📚 Познавательные"
+ },
+ {
+  "name": "ОТР",
+  "url": "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3ffERVHR2A6W355xPh93vg&e=2094516011&scheme=https",
+  "group": "Россия",
+  "order": 802
+ },
+ {
+  "name": "ОТС (Новосибирск)",
+  "url": "https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=XuM03VrqWt3GL54IjHV1NQ&e=2094516041&scheme=https",
+  "group": "Россия: регионы"
+ },
+ {
+  "name": "Телеканал 78 (Санкт-Петербург)",
+  "url": "https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=U-dXRgbEtWqPI-U97Q9ABQ&e=2094516067&scheme=https",
+  "group": "Россия: регионы"
+ },
+ {
+  "name": "ЯПервый",
+  "url": "https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=Vm220PXLFxSVocKXNaTf2A&e=2094516081&scheme=https",
+  "group": "Россия: регионы"
  }
 ]
