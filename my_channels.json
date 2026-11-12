@@ -908,28 +908,32 @@
   "group": "Россия",
   "logo": "",
   "pin": true,
-  "epg": "ntv-mir"
+  "epg": "ntv-mir",
+  "order": 1
  },
  {
   "name": "НТВ Стиль",
   "url": "https://cdn.ntv.ru/th_style/index.m3u8",
   "group": "Россия",
   "logo": "",
-  "epg": "ntv-style"
+  "epg": "ntv-style",
+  "order": 23
  },
  {
   "name": "НТВ Сериал",
   "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
   "group": "Россия",
   "logo": "",
-  "epg": "ntv-serial"
+  "epg": "ntv-serial",
+  "order": 22
  },
  {
   "name": "НТВ Право",
   "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
   "group": "Россия",
   "logo": "",
-  "epg": "ntv-pravo"
+  "epg": "ntv-pravo",
+  "order": 21
  },
  {
   "name": "DFM",
@@ -1290,7 +1294,8 @@
  {
   "id": "Domashniy.ru@SD",
   "epg": "domashnij",
-  "group": "Россия"
+  "group": "Россия",
+  "order": 14
  },
  {
   "id": "EuronewsRussian.fr@SD",
@@ -1315,7 +1320,8 @@
  {
   "id": "RTViUS.us@SD",
   "epg": "rtvi",
-  "group": "Россия"
+  "group": "Россия",
+  "order": 17
  },
  {
   "id": "CurrentTimeTV.cz@SD",
@@ -1480,7 +1486,8 @@
  },
  {
   "id": "TVRUS.de@SD",
-  "group": "Россия"
+  "group": "Россия",
+  "order": 18
  },
  {
   "id": "black.ru@SD",
@@ -1509,5 +1516,80 @@
  {
   "id": "MTVVolgograd.ru@SD",
   "group": "Россия: регионы"
+ },
+ {
+  "id": "STS.ru@SD",
+  "order": 2,
+  "title": "СТС"
+ },
+ {
+  "id": "Friday.ru@SD",
+  "order": 3,
+  "title": "Пятница"
+ },
+ {
+  "id": "Che.ru@SD",
+  "order": 4,
+  "title": "Че"
+ },
+ {
+  "id": "Channel5International.ru@SD",
+  "order": 5
+ },
+ {
+  "id": "Channel5.ru@SD",
+  "order": 6,
+  "title": "Пятый канал"
+ },
+ {
+  "id": "Mir.ru@HD",
+  "order": 7
+ },
+ {
+  "id": "Channel8Krasnoyarsk.ru@HD",
+  "order": 8,
+  "title": "Канал 8 Красноярск HD"
+ },
+ {
+  "id": "Channel8.ru@SD",
+  "order": 9,
+  "title": "Канал 8"
+ },
+ {
+  "id": "Channel10.ru@SD",
+  "order": 10,
+  "title": "Канал 10"
+ },
+ {
+  "id": "Russia1.ru@HD",
+  "order": 11
+ },
+ {
+  "id": "RTRPlaneta.ru@Asia",
+  "order": 12
+ },
+ {
+  "id": "Rossiya1Vainah.ru@SD",
+  "order": 13
+ },
+ {
+  "id": "Subbota.ru@SD",
+  "order": 15
+ },
+ {
+  "id": "RENTV.ru@SD",
+  "order": 16
+ },
+ {
+  "id": "TV3.ru@SD",
+  "order": 19
+ },
+ {
+  "id": "U.ru@SD",
+  "order": 20
+ },
+ {
+  "id": "Moskva24.ru@SD",
+  "group": "📰 Новости"
  }
 ]
