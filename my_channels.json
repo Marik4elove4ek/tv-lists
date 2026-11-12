@@ -1100,20 +1100,8 @@
   "logo": ""
  },
  {
-  "name": "Черновицкий Проминь",
-  "url": "https://langate.tv/promin/live_720/index.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
   "name": "Аверс (Луцк)",
   "url": "https://avers.pp.ua/hls/efir.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "НТК (Коломыя)",
-  "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
   "group": "Украина",
   "logo": ""
  },
@@ -1126,12 +1114,6 @@
  {
   "name": "РАИ",
   "url": "https://stream.rai.ua/rai/stream.m3u8",
-  "group": "Украина",
-  "logo": ""
- },
- {
-  "name": "PTV",
-  "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
   "group": "Украина",
   "logo": ""
  },
@@ -1601,5 +1583,13 @@
  {
   "id": "Moskva24.ru@SD",
   "group": "📰 Новости"
+ },
+ {
+  "id": "RAZ3International.ua@SD",
+  "order": 1
+ },
+ {
+  "id": "Sochi24.ru@SD",
+  "group": "Россия"
  }
 ]
