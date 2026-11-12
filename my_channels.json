@@ -1353,35 +1353,43 @@
  },
  {
   "id": "vijuTV1000.ru@SD",
-  "epg": "tv1000"
+  "epg": "tv1000",
+  "order": 30
  },
  {
   "id": "vijuTV1000action.ru@SD",
-  "epg": "tv1000-action"
+  "epg": "tv1000-action",
+  "order": 31
  },
  {
   "id": "vijuTV1000russkoe.ru@SD",
-  "epg": "tv1000-russkoje"
+  "epg": "tv1000-russkoje",
+  "order": 34
  },
  {
   "id": "vijuTV1000novella.ru@HD",
-  "epg": "viju-tv1000-nowella-hd"
+  "epg": "viju-tv1000-nowella-hd",
+  "order": 32
  },
  {
   "id": "vijuTV1000romantica.ru@HD",
-  "epg": "viju-tv1000-romantica-hd"
+  "epg": "viju-tv1000-romantica-hd",
+  "order": 33
  },
  {
   "id": "vijuPlusMegahit.ru@HD",
-  "epg": "vip-megahit-hd"
+  "epg": "vip-megahit-hd",
+  "order": 35
  },
  {
   "id": "vijuPlusPremiere.ru@HD",
-  "epg": "vip-premiere-hd"
+  "epg": "vip-premiere-hd",
+  "order": 36
  },
  {
   "id": "vijuPlusSerial.ru@HD",
-  "epg": "vip-serial-hd"
+  "epg": "vip-serial-hd",
+  "order": 37
  },
  {
   "id": "Arsenal.ru@SD",
