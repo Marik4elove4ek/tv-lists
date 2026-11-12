@@ -1594,5 +1594,13 @@
  {
   "id": "Sochi24.ru@SD",
   "group": "Россия"
+ },
+ {
+  "name": "VIVA Russia",
+  "url": "https://streams.thefoxhole.app/live/203336/master.m3u8",
+  "group": "🎵 Музыка",
+  "logo": "https://i.imgur.com/OFhQQCD.png",
+  "id": "VIVARussia.ru@SD",
+  "pin": true
  }
 ]
