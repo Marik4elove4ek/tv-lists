@@ -1601,7 +1601,8 @@
   "group": "🎵 Музыка",
   "logo": "https://i.imgur.com/OFhQQCD.png",
   "id": "VIVARussia.ru@SD",
-  "pin": true
+  "pin": true,
+  "order": 2
  },
  {
   "name": "City TV (Болгария)",
@@ -1609,6 +1610,87 @@
   "group": "🎵 Музыка",
   "logo": "https://i.imgur.com/mFL452f.png",
   "id": "CityTV.bg@SD",
-  "pin": true
+  "pin": true,
+  "order": 1
+ },
+ {
+  "id": "BRIDGERock.ru@SD",
+  "order": 10
+ },
+ {
+  "id": "BRIDGEClassic.ru@SD",
+  "order": 11
+ },
+ {
+  "id": "StranaFM.ru@SD",
+  "order": 12
+ },
+ {
+  "id": "ShansonTV.ru@SD",
+  "order": 13
+ },
+ {
+  "id": "RUTV.ru@SD",
+  "order": 14
+ },
+ {
+  "id": "MuzTV.ru@SD",
+  "order": 15
+ },
+ {
+  "id": "MuzykaPervogo.ru@SD",
+  "order": 16
+ },
+ {
+  "id": "SONGTVRussia.ru@SD",
+  "order": 17
+ },
+ {
+  "id": "FirstMusicChannel.by@SD",
+  "order": 18
+ },
+ {
+  "id": "FirstMusicChannelRussia.by@SD",
+  "order": 19
+ },
+ {
+  "id": "MusicBoxClassic.cz@SD",
+  "order": 100
+ },
+ {
+  "id": "MusicBoxDance.cz@SD",
+  "order": 101
+ },
+ {
+  "id": "MusicBoxHits.cz@SD",
+  "order": 102
+ },
+ {
+  "id": "MusicBoxSexy.cz@SD",
+  "order": 103
+ },
+ {
+  "id": "MTVClassic.us@BR",
+  "order": 200
+ },
+ {
+  "id": "MTVBiggestPop.us@BR",
+  "order": 201
+ },
+ {
+  "id": "MTVLive.us@SD",
+  "order": 202
+ },
+ {
+  "id": "MTVSpankinNew.us@CA",
+  "order": 203
+ },
+ {
+  "id": "YoMTV.us@CA",
+  "order": 204
+ },
+ {
+  "id": "MTVFlowLatino.us@LatAm",
+  "order": 205
  }
 ]
