@@ -67,8 +67,6 @@ https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 http://88.212.7.14/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="pervyj-informacionnyj-by-hd" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="Русские каналы",Perviy Informationniy HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Русские каналы",Rada TV
-https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" group-title="Русские каналы",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.us@SD" tvg-logo="https://i.imgur.com/jjUzuLV.png" group-title="Русские каналы",RTN
@@ -151,6 +149,8 @@ https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.
 https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="Lugansk24.ua@SD" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Россия: регионы",Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Мир Белогорья
@@ -241,6 +241,12 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Украина",НТК (Коломыя)
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="Украина",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Украина",Первый городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Украина",Рада
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Украина",РАИ
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="Украина",Ровно 1
@@ -277,8 +283,6 @@ http://93.170.254.17/Kinomiks/index.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🎬 Кино",Mir Seriala
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="🎬 Кино",Muzhskoy HD
-https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино",Nash Kinopokaz HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="🎬 Кино",Nashe Novoe Kino
@@ -287,8 +291,8 @@ https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино",Saphire
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино",Skoraya pomoshch
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="🎬 Кино",Shef
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="smotrym-100-classica-hd-orig" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="🎬 Кино",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrym-100-lybov-hd-orig" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="🎬 Кино",Smotrim 100% Lyubov
@@ -599,19 +603,19 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="📻 רדיו ישראלי",Лучшее радио
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_luchshee.png" group-title="📻 רדיו ישראלי",Лучшее радио
 https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.oles.tv/stations/891fm/favicon.png" group-title="📻 רדיו ישראלי",Первое радио 89.1 FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_pervoe891.png" group-title="📻 רדיו ישראלי",Первое радио 89.1 FM
 https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/3.jpg" group-title="📻 רדיו ישראלי",רדיו לב המדינה 91FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lev91.png" group-title="📻 רדיו ישראלי",רדיו לב המדינה 91FM
 https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png" group-title="📻 רדיו ישראלי",רדיוס 100FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius100.png" group-title="📻 רדיו ישראלי",רדיוס 100FM
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_103fm.png" group-title="📻 רדיו ישראלי",103FM
 https://cdn.cybercdn.live/103FM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eco99.png" group-title="📻 רדיו ישראלי",eco99fm
 https://99.mediacast.co.il/99fm_aac
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png" group-title="📻 רדיו ישראלי",J-AIR 88FM (מלבורן, אוסטרליה)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_jair.png" group-title="📻 רדיו ישראלי",J-AIR 88FM (מלבורן, אוסטרליה)
 https://s19.myradiostream.com/4918/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 רדיו ישראלי",Up2Dance Radio
 https://icecast.live/up2dance
@@ -637,7 +641,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_reka.png" group-title="📻 רדיו ישראלי",כאן רק״ע
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.coolsite.co.il/images/small/10.jpg" group-title="📻 רדיו ישראלי",כאן רשת ב
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_bet.png" group-title="📻 רדיו ישראלי",כאן רשת ב
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_tarbut.png" group-title="📻 רדיו ישראלי",כאן תרבות
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
@@ -715,6 +719,8 @@ https://rusradio.ru/t/radio/master.m3u8
 https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiomir.fm/favicon/web-app-manifest-512x512.png" group-title="📻 Радио",Радио Мир
 https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir
+#EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Мир (Беларусь)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humorfm.by/apple-touch-icon.png" group-title="📻 Радио",Юмор FM (Минск, Беларусь)
 https://player.humorfm.by/mylive/humStudio-low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 Радио",DFM
