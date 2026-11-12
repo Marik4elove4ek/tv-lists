@@ -131,8 +131,6 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="🎵 США",Clubbing TV UK
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="🎵 США",CMC-USA Country Music Channel
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us@East" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="🎵 США",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us@SD" tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="🎵 США",CMT Equal Play
@@ -503,6 +501,8 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm@SD" tvg-logo="https://i.imgur.com/n3PUxes.png" group-title="🎵 Латинская Америка",Fame95 FM
 https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🎵 Латинская Америка",Farra Play
+http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" group-title="🎵 Латинская Америка",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec@SD" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="🎵 Латинская Америка",FM Mundo
