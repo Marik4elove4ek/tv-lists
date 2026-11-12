@@ -1235,7 +1235,7 @@
   "name": "מוסיוף",
   "url": "https://stream.media-line.co.il/musayof-live/livestream.sdp/index.m3u8",
   "group": "Израиль",
-  "logo": "https://musayof.org/top1.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/musayof.jpg",
   "order": 890,
   "replaces": "Musayof (Israel)"
  },
