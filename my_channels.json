@@ -853,7 +853,7 @@
  {
   "name": "Теледом",
   "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": ""
  },
  {
@@ -904,7 +904,7 @@
  {
   "name": "НТВ (международный эфир)",
   "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "pin": true,
   "epg": "ntv-mir"
@@ -912,21 +912,21 @@
  {
   "name": "НТВ Стиль",
   "url": "https://cdn.ntv.ru/th_style/index.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "epg": "ntv-style"
  },
  {
   "name": "НТВ Сериал",
   "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "epg": "ntv-serial"
  },
  {
   "name": "НТВ Право",
   "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "epg": "ntv-pravo"
  },
@@ -966,7 +966,7 @@
  {
   "name": "Звезда",
   "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "epg": "zvezda"
  },
@@ -980,7 +980,7 @@
  {
   "name": "Мир (международный эфир)",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "Россия",
   "logo": "",
   "epg": "mir"
  },
@@ -1288,7 +1288,8 @@
  },
  {
   "id": "Domashniy.ru@SD",
-  "epg": "domashnij"
+  "epg": "domashnij",
+  "group": "Россия"
  },
  {
   "id": "EuronewsRussian.fr@SD",
