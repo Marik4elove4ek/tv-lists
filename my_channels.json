@@ -1735,5 +1735,21 @@
   "name": "Абакан 24",
   "url": "https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=VYewlUye908cSun5INe8Ug&e=2094516225&scheme=https",
   "group": "Россия: регионы"
+ },
+ {
+  "id": "TelekanalKrasnodar.ru@HD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "86.ru@SD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "Tavriya.ru@SD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "NVKSakha.ru@SD",
+  "group": "Россия: регионы"
  }
 ]
