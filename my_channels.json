@@ -1480,5 +1480,37 @@
  {
   "id": "TVRUS.de@SD",
   "group": "Россия"
+ },
+ {
+  "id": "black.ru@SD",
+  "group": "🎬 Кино"
+ },
+ {
+  "id": "vijuPlusComedy.ru@HD",
+  "group": "🎬 Кино"
+ },
+ {
+  "id": "ProBusiness.ru@SD",
+  "group": "📰 Новости"
+ },
+ {
+  "id": "RBKTV.ru@SD",
+  "group": "📰 Новости"
+ },
+ {
+  "id": "GuberniaSamara.ru@SD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "Channel16.ru@SD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "KurajTV.ru@SD",
+  "group": "Россия: регионы"
+ },
+ {
+  "id": "MTVVolgograd.ru@SD",
+  "group": "Россия: регионы"
  }
 ]
