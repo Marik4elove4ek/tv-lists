@@ -860,13 +860,13 @@
   "name": "Каббала ТВ (на русском)",
   "url": "https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8",
   "group": "📚 Познавательные",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_kabbalah.png"
  },
  {
   "name": "ТВ БРИКС",
   "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
   "group": "📚 Познавательные",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_brics.png"
  },
  {
   "name": "Про Бизнес",
@@ -879,13 +879,7 @@
   "name": "Универ ТВ",
   "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
   "group": "📚 Познавательные",
-  "logo": ""
- },
- {
-  "name": "LADA TV",
-  "url": "https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/6bcd04e6-1319-4e70-b534-a05305f979cb/master.m3u8",
-  "group": "📚 Познавательные",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_univer.png"
  },
  {
   "name": "Новое Радио",
@@ -1414,7 +1408,8 @@
  },
  {
   "id": "Okhotairybalka.ru@SD",
-  "epg": "oxota-rybalka"
+  "epg": "oxota-rybalka",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ohota.png"
  },
  {
   "id": "RTDocumentary.ru@Russian",
@@ -1521,12 +1516,14 @@
  {
   "id": "Channel5International.ru@SD",
   "order": 5,
-  "title": "Пятый канал Интернешнл"
+  "title": "Пятый канал Интернешнл",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png"
  },
  {
   "id": "Channel5.ru@SD",
   "order": 6,
-  "title": "Пятый канал"
+  "title": "Пятый канал",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png"
  },
  {
   "id": "Mir.ru@HD",
@@ -1697,24 +1694,28 @@
   "name": "RUTUBE TV",
   "url": "https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=kdjDysD4w5TiC7z9ygP8LA&e=2094515307&scheme=https",
   "group": "Россия",
-  "order": 800
+  "order": 800,
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_rutube.png"
  },
  {
   "name": "НТВ",
   "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
   "group": "Россия",
-  "order": 801
+  "order": 801,
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png"
  },
  {
   "name": "Nano",
   "url": "https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=PUNJ5_7bKuStjPaAk11FIg&e=2094515680&scheme=https",
-  "group": "📚 Познавательные"
+  "group": "📚 Познавательные",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_nano.png"
  },
  {
   "name": "ОТР",
   "url": "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3ffERVHR2A6W355xPh93vg&e=2094516011&scheme=https",
   "group": "Россия",
-  "order": 802
+  "order": 802,
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png"
  },
  {
   "name": "ОТС (Новосибирск)",
@@ -1751,5 +1752,22 @@
  {
   "id": "NVKSakha.ru@SD",
   "group": "Россия: регионы"
+ },
+ {
+  "id": "2x2.ru@SD",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png"
+ },
+ {
+  "id": "Ohotnikirybolov.ru@SD",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ohota.png"
+ },
+ {
+  "id": "OTR.ru@SD",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
+  "order": 803
+ },
+ {
+  "id": "RENTVInternational.ru@SD",
+  "order": 16.5
  }
 ]
