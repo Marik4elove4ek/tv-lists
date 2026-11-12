@@ -1602,5 +1602,13 @@
   "logo": "https://i.imgur.com/OFhQQCD.png",
   "id": "VIVARussia.ru@SD",
   "pin": true
+ },
+ {
+  "name": "City TV (Болгария)",
+  "url": "https://tv.city.bg/play/tshls/citytv/3.m3u8",
+  "group": "🎵 Музыка",
+  "logo": "https://i.imgur.com/mFL452f.png",
+  "id": "CityTV.bg@SD",
+  "pin": true
  }
 ]
