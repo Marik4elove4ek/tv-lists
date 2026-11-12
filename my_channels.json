@@ -973,7 +973,7 @@
  {
   "name": "Известия",
   "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "📰 Новости",
   "logo": "",
   "epg": "izvestija"
  },
@@ -987,7 +987,7 @@
  {
   "name": "Мир 24",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "📰 Новости",
   "logo": "",
   "epg": "mir-24"
  },
@@ -1279,7 +1279,8 @@
  },
  {
   "id": "PerviyInformationniy.by@HD",
-  "epg": "pervyj-informacionnyj-by-hd"
+  "epg": "pervyj-informacionnyj-by-hd",
+  "group": "📰 Новости"
  },
  {
   "id": "STV.by@HD",
@@ -1292,19 +1293,22 @@
  {
   "id": "EuronewsRussian.fr@SD",
   "epg": "evronews",
-  "group": "📰 Новости на русском"
+  "group": "📰 Новости"
  },
  {
   "id": "Eurosport1.fr@Russia",
-  "epg": "eurosport"
+  "epg": "eurosport",
+  "group": "⚽ Спорт"
  },
  {
   "id": "Eurosport2.fr@Russia",
-  "epg": "eurosport2"
+  "epg": "eurosport2",
+  "group": "⚽ Спорт"
  },
  {
   "id": "FREEDOM.ua@SD",
-  "epg": "freedom-ua-hd"
+  "epg": "freedom-ua-hd",
+  "group": "📰 Новости"
  },
  {
   "id": "RTViUS.us@SD",
@@ -1313,7 +1317,7 @@
  {
   "id": "CurrentTimeTV.cz@SD",
   "epg": "nastoyaschee-vremya-hd",
-  "group": "📰 Новости на русском"
+  "group": "📰 Новости"
  },
  {
   "id": "KinoTV.ru@HD",
@@ -1441,6 +1445,10 @@
  },
  {
   "id": "DW.de@Russian",
-  "group": "📰 Новости на русском"
+  "group": "📰 Новости"
+ },
+ {
+  "id": "RTN.us@SD",
+  "group": "📰 Новости"
  }
 ]
