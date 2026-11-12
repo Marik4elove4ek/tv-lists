@@ -136,7 +136,7 @@
   "name": "Лучшее радио",
   "url": "https://hls.radio1064.com/live/livestream/live_99410447_SDzSlmMA2IsdOtULo4x9DKQagsiEHo.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_luchshee.png",
   "pin": true,
   "audio_backup": "https://servidor35-5.brlogic.com:7080/live",
   "order": 200
@@ -152,7 +152,7 @@
   "name": "Первое радио 89.1 FM",
   "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://www.oles.tv/stations/891fm/favicon.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_pervoe891.png",
   "pin": true,
   "order": 200
  },
@@ -182,7 +182,7 @@
   "name": "רדיוס 100FM",
   "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/08/favicon.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius100.png",
   "pin": true,
   "order": 200
  },
@@ -204,7 +204,7 @@
   "name": "רדיו לב המדינה 91FM",
   "url": "https://cdn.cybercdn.live/Lev_Hamedina/Video/playlist.m3u8",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/3.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lev91.png",
   "pin": true,
   "order": 200
  },
@@ -296,7 +296,7 @@
   "name": "כאן רשת ב",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://radio.coolsite.co.il/images/small/10.jpg",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_bet.png",
   "order": 300
  },
  {
@@ -408,7 +408,7 @@
   "name": "J-AIR 88FM (מלבורן, אוסטרליה)",
   "url": "https://s19.myradiostream.com/4918/;",
   "group": "📻 רדיו ישראלי",
-  "logo": "https://www.j-air.com.au/wp-content/uploads/2022/06/Untitled-design-300x300.png",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_jair.png",
   "order": 300
  },
  {
