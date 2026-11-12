@@ -854,7 +854,7 @@
   "name": "Теледом",
   "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
   "group": "Россия",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png"
  },
  {
   "name": "Каббала ТВ (на русском)",
@@ -906,7 +906,7 @@
   "name": "НТВ (международный эфир)",
   "url": "https://cdn.ntv.ru/ntv0_foreign/index.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
   "pin": true,
   "epg": "ntv-mir",
   "order": 1
@@ -915,7 +915,7 @@
   "name": "НТВ Стиль",
   "url": "https://cdn.ntv.ru/th_style/index.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png",
   "epg": "ntv-style",
   "order": 23
  },
@@ -923,7 +923,7 @@
   "name": "НТВ Сериал",
   "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
   "epg": "ntv-serial",
   "order": 22
  },
@@ -931,7 +931,7 @@
   "name": "НТВ Право",
   "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
   "epg": "ntv-pravo",
   "order": 21
  },
@@ -960,19 +960,19 @@
   "name": "Беларусь 4 Гомель",
   "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
   "group": "Беларусь",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_gomel.png"
  },
  {
   "name": "Витебск",
   "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
   "group": "Беларусь",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_vitebsk.png"
  },
  {
   "name": "Звезда",
   "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
   "epg": "zvezda"
  },
  {
@@ -986,7 +986,7 @@
   "name": "Мир (международный эфир)",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
   "group": "Россия",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
   "epg": "mir"
  },
  {
