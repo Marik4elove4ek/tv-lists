@@ -229,28 +229,32 @@ if os.path.exists(f'{OUT}/picks.json'):
 # Папки в общем файле — крупные: Израиль, На русском, Кино, Музыка (Марк попросил собрать всё вместе).
 # «Моя музыка» (VIVA Russia, City TV) — первой в папке «Музыка»
 # Марк собрал отдельную папку «Познавательные»
-STAY_RUSSIAN = {'Belarus3.by', 'Domashniy.ru', 'NTVMir.ru'}
+# Папки «Русские каналы» больше нет (Марк, 12.11): каналы на русском лежат по странам — Россия, Беларусь, Украина, Другие страны
+STAY_RUSSIAN = {'Belarus3.by': 'Беларусь', 'Domashniy.ru': 'Россия', 'NTVMir.ru': 'Россия'}
+def rus_folder(g):
+    # g — «На русском · Страна»
+    return {'Беларусь': 'Беларусь', 'Украина': 'Украина'}.get(g.split(' · ', 1)[-1], 'Другие страны')
 COGNITIVE = {'FunBoxUHD.nl', 'GlazamiTurista.ru', 'RTGint.ru', 'RTGTV.ru', 'Vkus.ru', 'NashaTema.ru'}
 
 def big(s):
     # Беларусь-3 Марк хочет видеть среди русских каналов, а не в познавательных
-    if s['cid'] in STAY_RUSSIAN: return 'Русские каналы'
+    if s['cid'] in STAY_RUSSIAN: return STAY_RUSSIAN[s['cid']]
     if s['cid'] in COGNITIVE or s['group'] == '📚 Познавательные': return '📚 Познавательные'
     g = s['group']
     if g == 'Израиль': return 'Израиль'
-    if g.startswith('На русском'): return 'Русские каналы'
+    if g.startswith('На русском'): return rus_folder(g)
     if g.startswith('Россия · '): return {'Россия · Новости': '📰 Новости', 'Россия · Спорт': '⚽ Спорт'}.get(g, 'Россия')  # своя папка «Россия» (Марк, 12.11)
     if g.startswith('🎬'): return '🎬 Кино'
     if g in ('🌿 Релакс и природа', '📷 Виды и путешествия'): return g
     return '🎵 Музыка'
 # Канал есть в нескольких папках (например, белорусская музыка — и «На русском», и «Музыка»):
 # оставляем одну, по старшинству: Израиль, Музыка, Кино, На русском, остальное
-rank = {'Израиль': 0, '📚 Познавательные': 0, '🎵 Музыка': 1, '🎬 Кино': 2, 'Русские каналы': 3}
+rank = {'Израиль': 0, '📚 Познавательные': 0, '🎵 Музыка': 1, '🎬 Кино': 2, 'Россия': 3, 'Беларусь': 3, 'Украина': 3, 'Другие страны': 3}
 chosen = {}
 for s in everything:
     item = dict(s, group=big(s), pin=s['group'] == '⭐ Моя музыка')
     cur = chosen.get(s['url'])
-    if s['cid'] in STAY_RUSSIAN: item['group'] = 'Русские каналы'
+    if s['cid'] in STAY_RUSSIAN: item['group'] = STAY_RUSSIAN[s['cid']]
     if cur is None or rank.get(item['group'], 9) < rank.get(cur['group'], 9) or (item['pin'] and not cur['pin']):
         chosen[s['url']] = item
 merged = list(chosen.values())
@@ -286,7 +290,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
-write('all.m3u', merged, ['Израиль', 'Русские каналы', 'Россия', '📰 Новости', '⚽ Спорт', 'Россия: регионы', 'Украина', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира', '📻 רדיו ישראלי', '📻 Радио'], rename={'Израиль': 'ישראל'})
+write('all.m3u', merged, ['Израиль', 'Россия', 'Беларусь', '📰 Новости', '⚽ Спорт', 'Россия: регионы', 'Украина', 'Другие страны', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира', '📻 רדיו ישראלי', '📻 Радио'], rename={'Израиль': 'ישראל'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
 import json

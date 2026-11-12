@@ -954,13 +954,13 @@
  {
   "name": "Беларусь 4 Гомель",
   "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "Беларусь",
   "logo": ""
  },
  {
   "name": "Витебск",
   "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "Беларусь",
   "logo": ""
  },
  {
@@ -1010,7 +1010,7 @@
  {
   "name": "ТНТ Exclusiv (Молдова)",
   "url": "http://89.28.25.122/hls/tnt_md.m3u8",
-  "group": "Русские каналы",
+  "group": "Другие страны",
   "logo": ""
  },
  {
@@ -1022,7 +1022,7 @@
  {
   "name": "КТК (Казахстан)",
   "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-  "group": "Русские каналы",
+  "group": "Другие страны",
   "logo": ""
  },
  {
