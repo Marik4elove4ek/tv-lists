@@ -1313,7 +1313,8 @@
  },
  {
   "id": "RTViUS.us@SD",
-  "epg": "rtvi"
+  "epg": "rtvi",
+  "group": "Россия"
  },
  {
   "id": "CurrentTimeTV.cz@SD",
@@ -1475,5 +1476,9 @@
  {
   "id": "AstrahanRuSport.ru@SD",
   "group": "Россия: регионы"
+ },
+ {
+  "id": "TVRUS.de@SD",
+  "group": "Россия"
  }
 ]
