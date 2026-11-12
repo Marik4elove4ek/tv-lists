@@ -1295,7 +1295,8 @@
   "id": "Domashniy.ru@SD",
   "epg": "domashnij",
   "group": "Россия",
-  "order": 14
+  "order": 14,
+  "title": "Домашний"
  },
  {
   "id": "EuronewsRussian.fr@SD",
@@ -1487,7 +1488,8 @@
  {
   "id": "TVRUS.de@SD",
   "group": "Россия",
-  "order": 18
+  "order": 18,
+  "title": "ТВ Рус"
  },
  {
   "id": "black.ru@SD",
@@ -1534,7 +1536,8 @@
  },
  {
   "id": "Channel5International.ru@SD",
-  "order": 5
+  "order": 5,
+  "title": "Пятый канал Интернешнл"
  },
  {
   "id": "Channel5.ru@SD",
@@ -1543,7 +1546,8 @@
  },
  {
   "id": "Mir.ru@HD",
-  "order": 7
+  "order": 7,
+  "title": "Мир HD"
  },
  {
   "id": "Channel8Krasnoyarsk.ru@HD",
@@ -1562,7 +1566,8 @@
  },
  {
   "id": "Russia1.ru@HD",
-  "order": 11
+  "order": 11,
+  "title": "Россия 1 HD"
  },
  {
   "id": "RTRPlaneta.ru@Asia",
@@ -1570,23 +1575,28 @@
  },
  {
   "id": "Rossiya1Vainah.ru@SD",
-  "order": 13
+  "order": 13,
+  "title": "Россия 1 Вайнах"
  },
  {
   "id": "Subbota.ru@SD",
-  "order": 15
+  "order": 15,
+  "title": "Суббота"
  },
  {
   "id": "RENTV.ru@SD",
-  "order": 16
+  "order": 16,
+  "title": "РЕН ТВ"
  },
  {
   "id": "TV3.ru@SD",
-  "order": 19
+  "order": 19,
+  "title": "ТВ-3"
  },
  {
   "id": "U.ru@SD",
-  "order": 20
+  "order": 20,
+  "title": "Ю"
  },
  {
   "id": "Moskva24.ru@SD",
