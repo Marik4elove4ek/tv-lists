@@ -291,3 +291,32 @@ for s in mine + edu + tv + kino + music + views:
 json.dump(cat, open(f'{OUT}/catalog.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 print('catalog.json', len(cat))
 
+
+# Данные для страницы выбора каналов (picker.json): [имя-код, название, папка, работает ли, жанры, когда впервые появился].
+# first_seen.json — день, когда канал впервые попал в каталог; по нему страница показывает раздел «Новые».
+# Первый запуск: все нынешние каналы считаются старыми (иначе «новыми» оказались бы сразу все).
+today = time.strftime('%Y-%m-%d', time.gmtime())
+fs_file = f'{OUT}/first_seen.json'
+first_seen = json.load(open(fs_file, encoding='utf-8')) if os.path.exists(fs_file) else None
+if first_seen is None:
+    first_seen = {c['id']: '2026-11-01' for c in cat}
+for c in cat:
+    first_seen.setdefault(c['id'], today)
+json.dump(first_seen, open(fs_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=0, sort_keys=True)
+# Музыка этих стран на странице скрыта (Марк, 11.11): остаются только каналы, которые он уже отметил
+HIDDEN_MUSIC = {'🎵 ' + x for x in ['Румыния', 'Польша', 'Литва', 'Люксембург', 'Италия', 'Венгрия', 'Хорватия', 'Греция', 'Финляндия', 'Испания',
+                                    'Эстония', 'Нидерланды', 'Чехия', 'Швейцария', 'Канада', 'Болгария', 'США', 'Франция', 'Великобритания', 'Германия']}
+picked_now = set(json.load(open(f'{OUT}/picks.json', encoding='utf-8')).get('ids', [])) if os.path.exists(f'{OUT}/picks.json') else set()
+items = {}
+for c in cat:
+    g = c['g']
+    if g in HIDDEN_MUSIC:
+        if c['id'] not in picked_now: continue
+        g = '🎵 Музыка · выбранные'
+    if c['id'] in items:
+        if c['ok']: items[c['id']][3] = 1
+        continue
+    genres = [x for x in ch.get(c['id'].split('@')[0], {}).get('categories', '').split(';') if x]
+    items[c['id']] = [c['id'], c['n'], g, 1 if c['ok'] else 0, genres, first_seen[c['id']]]
+json.dump({'built': today, 'items': list(items.values())}, open(f'{OUT}/picker.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+print('picker.json', len(items))
