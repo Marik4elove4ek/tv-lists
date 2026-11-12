@@ -35,7 +35,7 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png" group-title="🇷🇺 Россия",НТВ (международный эфир)
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="🇷🇺 Россия",СТС
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png" group-title="🇷🇺 Россия",СТС
 http://31.148.5.241/kanal_13/index.m3u8
 #EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="🇷🇺 Россия",Пятница
 http://31.148.5.241/kanal_16/index.m3u8
@@ -163,7 +163,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="evronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 Новости",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:-1 tvg-id="freedom-ua-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="📰 Новости",FREEDOM
+#EXTINF:-1 tvg-id="freedom-ua-hd" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_freedom.png" group-title="📰 Новости",FREEDOM
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="pervyj-informacionnyj-by-hd" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="📰 Новости",Perviy Informationniy HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -171,15 +171,15 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RTN.us@SD" tvg-logo="https://i.imgur.com/jjUzuLV.png" group-title="📰 Новости",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1 tvg-id="izvestija" group-title="📰 Новости",Известия
+#EXTINF:-1 tvg-id="izvestija" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_izvestia.png" group-title="📰 Новости",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-24" group-title="📰 Новости",Мир 24
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir24.png" group-title="📰 Новости",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="nastoyaschee-vremya-hd" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="📰 Новости",Настоящее Время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru@HD" tvg-logo="https://i.imgur.com/l7JZ79P.png" group-title="📰 Новости",Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ProBusiness.ru@SD" group-title="📰 Новости",Про Бизнес
+#EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_probiznes.png" group-title="📰 Новости",Про Бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="eurosport" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="⚽ Спорт",Eurosport 1 Russia
 https://s7.iptv-24.net/1439/playlist.m3u8
@@ -335,43 +335,43 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Россия: регионы",Ямал-Регион
 https://bl.webcaster.pro/media/start/free_eb0182bd41004b93570aa08119ad9151/4_97090908/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8
-#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" group-title="🇺🇦 Украина",RAZ 3 International
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_raz3.png" group-title="🇺🇦 Украина",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="🇺🇦 Украина",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-id="24ch-ua" group-title="🇺🇦 Украина",24 канал
+#EXTINF:-1 tvg-id="24ch-ua" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_24kanal.png" group-title="🇺🇦 Украина",24 канал
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",7 канал (Одесса)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_7kanal.png" group-title="🇺🇦 Украина",7 канал (Одесса)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="🇺🇦 Украина",Black Sea TV
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="🇺🇦 Украина",Dacha
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",ITV (Ровно)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_itv.png" group-title="🇺🇦 Украина",ITV (Ровно)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",NASHE Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_nashe.png" group-title="🇺🇦 Украина",NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Аверс (Луцк)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_avers.png" group-title="🇺🇦 Украина",Аверс (Луцк)
 https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Измаил ТВ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_izmail.png" group-title="🇺🇦 Украина",Измаил ТВ
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Исландия
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_island.png" group-title="🇺🇦 Украина",Исландия
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Музвар
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_muzvar.png" group-title="🇺🇦 Украина",Музвар
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="🇺🇦 Украина",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="🇺🇦 Украина",Первый городской (Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Рада
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rada.png" group-title="🇺🇦 Украина",Рада
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",РАИ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rai.png" group-title="🇺🇦 Украина",РАИ
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Ровно 1
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Симон (Харьков)
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",ТВА (Черновцы)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_tva.png" group-title="🇺🇦 Украина",ТВА (Черновцы)
 https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="Другие страны",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null

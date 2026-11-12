@@ -872,7 +872,7 @@
   "name": "Про Бизнес",
   "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8",
   "group": "📰 Новости",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_probiznes.png",
   "id": "ProBusiness.ru@SD"
  },
  {
@@ -979,7 +979,7 @@
   "name": "Известия",
   "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
   "group": "📰 Новости",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_izvestia.png",
   "epg": "izvestija"
  },
  {
@@ -993,7 +993,7 @@
   "name": "Мир 24",
   "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
   "group": "📰 Новости",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir24.png",
   "epg": "mir-24"
  },
  {
@@ -1048,32 +1048,32 @@
   "name": "24 канал",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_24kanal.png",
   "epg": "24ch-ua"
  },
  {
   "name": "Рада",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rada.png"
  },
  {
   "name": "7 канал (Одесса)",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_7kanal.png"
  },
  {
   "name": "Музвар",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_muzvar.png"
  },
  {
   "name": "NASHE Music",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_nashe.png"
  },
  {
   "name": "Ровно 1",
@@ -1085,25 +1085,25 @@
   "name": "ITV (Ровно)",
   "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_itv.png"
  },
  {
   "name": "Измаил ТВ",
   "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_izmail.png"
  },
  {
   "name": "ТВА (Черновцы)",
   "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_tva.png"
  },
  {
   "name": "Аверс (Луцк)",
   "url": "https://avers.pp.ua/hls/efir.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_avers.png"
  },
  {
   "name": "Симон (Харьков)",
@@ -1115,13 +1115,13 @@
   "name": "РАИ",
   "url": "https://stream.rai.ua/rai/stream.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rai.png"
  },
  {
   "name": "Исландия",
   "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
   "group": "Украина",
-  "logo": ""
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_island.png"
  },
  {
   "name": "Луганск 24",
@@ -1298,7 +1298,8 @@
  {
   "id": "FREEDOM.ua@SD",
   "epg": "freedom-ua-hd",
-  "group": "📰 Новости"
+  "group": "📰 Новости",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_freedom.png"
  },
  {
   "id": "RTViUS.us@SD",
@@ -1504,7 +1505,8 @@
  {
   "id": "STS.ru@SD",
   "order": 2,
-  "title": "СТС"
+  "title": "СТС",
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png"
  },
  {
   "id": "Friday.ru@SD",
@@ -1586,7 +1588,8 @@
  },
  {
   "id": "RAZ3International.ua@SD",
-  "order": 1
+  "order": 1,
+  "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_raz3.png"
  },
  {
   "id": "Sochi24.ru@SD",
