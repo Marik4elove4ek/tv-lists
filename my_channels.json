@@ -1000,13 +1000,6 @@
   "order": 120
  },
  {
-  "name": "Радио Мир",
-  "url": "https://mirtv-fl-icecast.cdnvideo.ru/Radio-Mir",
-  "group": "📻 Радио",
-  "logo": "https://radiomir.fm/favicon/web-app-manifest-512x512.png",
-  "order": 116
- },
- {
   "name": "ТНТ Exclusiv (Молдова)",
   "url": "http://89.28.25.122/hls/tnt_md.m3u8",
   "group": "Другие страны",
