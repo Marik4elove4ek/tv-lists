@@ -205,6 +205,8 @@ http://31.148.5.241/kanal_11/index.m3u8
 http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="🇷🇺 Россия",Россия 1 HD
 http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="🇷🇺 Россия",Россия-РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" group-title="🇷🇺 Россия",Россия 1 Вайнах
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8|Referer=https%3A%2F%2Fgtrkvainah.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F146.0.0.0%20Safari%2F537.36%20OPR%2F130.0.0.0%20%28Edition%20std-2%29
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png" group-title="🇷🇺 Россия",НТВ
@@ -225,8 +227,6 @@ https://cdn.ntv.ru/th_style/index.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@HD" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="🇷🇺 Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="🇷🇺 Россия",Россия-РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" group-title="🇷🇺 Россия",RTVi US
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRUS.de@SD" tvg-logo="https://i.imgur.com/2mJKi7g.png" group-title="🇷🇺 Россия",ТВ Рус
