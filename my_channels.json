@@ -1504,7 +1504,7 @@
   },
   {
     "id": "Che.ru@SD",
-    "order": 1000,
+    "order": 13,
     "title": "Че"
   },
   {
@@ -1536,7 +1536,7 @@
   },
   {
     "id": "Channel10.ru@SD",
-    "order": 1000,
+    "order": 10,
     "title": "Канал 10"
   },
   {
@@ -1560,7 +1560,7 @@
   },
   {
     "id": "RENTV.ru@SD",
-    "order": 1000,
+    "order": 12,
     "title": "РЕН ТВ"
   },
   {
@@ -1763,7 +1763,7 @@
   },
   {
     "id": "RENTVInternational.ru@SD",
-    "order": 16
+    "order": 11
   },
   {
     "id": "Pobeda.ru@SD",
