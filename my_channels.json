@@ -1503,7 +1503,7 @@
  },
  {
   "id": "Che.ru@SD",
-  "order": 4,
+  "order": 12,
   "title": "Че"
  },
  {
@@ -1694,7 +1694,7 @@
   "name": "НТВ",
   "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
   "group": "Россия",
-  "order": 801,
+  "order": 0,
   "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png"
  },
  {
