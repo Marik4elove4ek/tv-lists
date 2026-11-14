@@ -435,7 +435,7 @@
   {
     "name": "Радио России",
     "url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "",
     "pin": true,
     "order": 400
@@ -443,7 +443,7 @@
   {
     "name": "Вести FM",
     "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "",
     "pin": true,
     "order": 400
@@ -451,7 +451,7 @@
   {
     "name": "Говорит Москва",
     "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
     "pin": true,
     "order": 400
@@ -459,7 +459,7 @@
   {
     "name": "Радио 1 (Подмосковье)",
     "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "pin": true,
     "order": 400
@@ -467,56 +467,56 @@
   {
     "name": "Европа Плюс",
     "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png",
     "order": 110
   },
   {
     "name": "Русское Радио",
     "url": "https://rusradio.ru/t/radio/master.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://rusradio.ru/static/rusradio.ogimage.jpg",
     "order": 114
   },
   {
     "name": "Авторадио",
     "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/avtoradio.png",
     "order": 111
   },
   {
     "name": "Ретро FM",
     "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/retrofm.png",
     "order": 113
   },
   {
     "name": "Дорожное радио",
     "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "order": 112
   },
   {
     "name": "Юмор FM",
     "url": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png",
     "order": 115
   },
   {
     "name": "Energy",
     "url": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png",
     "order": 107
   },
   {
     "name": "Радио Рекорд",
     "url": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://www.radiorecord.ru/icons/logo300-300.jpg",
     "order": 103
   },
@@ -885,7 +885,7 @@
   {
     "name": "Новое Радио",
     "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "pin": true,
     "order": 101
@@ -893,7 +893,7 @@
   {
     "name": "Like FM",
     "url": "https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/likefm.png",
     "order": 106
   },
@@ -933,21 +933,21 @@
   {
     "name": "DFM",
     "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://dfm.ru/apple-icon.png",
     "order": 120
   },
   {
     "name": "Радио Ваня",
     "url": "https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "order": 105
   },
   {
     "name": "Маруся FM",
     "url": "https://cdn.radio-holding.ru/marusya_default",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://marus.fm/icons/android-chrome-192x192.png",
     "order": 104
   },
@@ -1121,7 +1121,7 @@
   {
     "name": "Радио Хит 103.7 FM (Орск, Россия)",
     "url": "https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "pin": true,
     "order": 109
@@ -1137,7 +1137,7 @@
   {
     "name": "Радио Маяк (Москва, Россия)",
     "url": "https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8",
-    "group": "📻 Радио",
+    "group": "📻 Радио Россия",
     "logo": "https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png",
     "pin": true,
     "order": 400

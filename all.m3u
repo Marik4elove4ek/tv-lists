@@ -283,6 +283,45 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png" group-title="🇷🇺 Россия",Теледом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио Россия",Новое Радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 Радио Россия",Радио Рекорд
+https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://marus.fm/icons/android-chrome-192x192.png" group-title="📻 Радио Россия",Маруся FM
+https://cdn.radio-holding.ru/marusya_default
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио Россия",Радио Ваня
+https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/likefm.png" group-title="📻 Радио Россия",Like FM
+https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 Радио Россия",Energy
+https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио Россия",Радио Хит 103.7 FM (Орск, Россия)
+https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png" group-title="📻 Радио Россия",Европа Плюс
+https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/avtoradio.png" group-title="📻 Радио Россия",Авторадио
+https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио Россия",Дорожное радио
+https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/retrofm.png" group-title="📻 Радио Россия",Ретро FM
+https://hls-01-retro.emgsound.ru/12/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rusradio.ru/static/rusradio.ogimage.jpg" group-title="📻 Радио Россия",Русское Радио
+https://rusradio.ru/t/radio/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png" group-title="📻 Радио Россия",Юмор FM
+https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 Радио Россия",DFM
+https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио Россия",Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg" group-title="📻 Радио Россия",Говорит Москва
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио Россия",Радио 1 (Подмосковье)
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png" group-title="📻 Радио Россия",Радио Маяк (Москва, Россия)
+https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻 Радио Россия",Радио России
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="📚 Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_rutube.png" group-title="📚 Познавательные",RUTUBE TV
@@ -841,49 +880,11 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Новое Радио
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fwww.novoeradio.by%2Flogo_novoe.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Новое Радио (Минск, Беларусь)
 https://live.novoeradio.by:444/live/novoeradio_live_adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 Радио",Радио Рекорд
-https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://marus.fm/icons/android-chrome-192x192.png" group-title="📻 Радио",Маруся FM
-https://cdn.radio-holding.ru/marusya_default
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiovanya.ru%2Fassets%2Fimages%2Flogo%2Frv_logo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Ваня
-https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/likefm.png" group-title="📻 Радио",Like FM
-https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 Радио",Energy
-https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/centrfm.png" group-title="📻 Радио",Центр FM (Минск, Беларусь)
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Хит 103.7 FM (Орск, Россия)
-https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/europaplus.png" group-title="📻 Радио",Европа Плюс
-https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/avtoradio.png" group-title="📻 Радио",Авторадио
-https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Дорожное радио
-https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/retrofm.png" group-title="📻 Радио",Ретро FM
-https://hls-01-retro.emgsound.ru/12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rusradio.ru/static/rusradio.ogimage.jpg" group-title="📻 Радио",Русское Радио
-https://rusradio.ru/t/radio/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png" group-title="📻 Радио",Юмор FM
-https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradiomir.by%2Fimg%2Fcommon%2Flogo.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио Мир (Беларусь)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humorfm.by/apple-touch-icon.png" group-title="📻 Радио",Юмор FM (Минск, Беларусь)
 https://player.humorfm.by/mylive/humStudio-low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 Радио",DFM
-https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 Радио",Вести FM
-https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg" group-title="📻 Радио",Говорит Москва
-https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fradio1.ru%2Fimg%2Ffavicon.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 Радио",Радио 1 (Подмосковье)
-https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/584/5.png" group-title="📻 Радио",Радио Маяк (Москва, Россия)
-https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻 Радио",Радио России
-https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
