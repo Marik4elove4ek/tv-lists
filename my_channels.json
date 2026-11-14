@@ -855,7 +855,7 @@
     "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png",
-    "order": 1000
+    "order": 53
   },
   {
     "name": "Каббала ТВ (на русском)",
@@ -1460,7 +1460,7 @@
   {
     "id": "TVRUS.de@SD",
     "group": "Россия",
-    "order": 1000,
+    "order": 32,
     "title": "ТВ Рус"
   },
   {
@@ -1499,7 +1499,7 @@
   },
   {
     "id": "Friday.ru@SD",
-    "order": 999.45,
+    "order": 14,
     "title": "Пятница"
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "Mir.ru@HD",
-    "order": 1000,
+    "order": 27,
     "title": "Мир HD"
   },
   {
@@ -1541,21 +1541,21 @@
   },
   {
     "id": "Russia1.ru@HD",
-    "order": 14,
+    "order": 16,
     "title": "Россия 1 HD"
   },
   {
     "id": "RTRPlaneta.ru@Asia",
-    "order": 15
+    "order": 17
   },
   {
     "id": "Rossiya1Vainah.ru@SD",
-    "order": 999.0,
+    "order": 18,
     "title": "Россия 1 Вайнах"
   },
   {
     "id": "Subbota.ru@SD",
-    "order": 999.46,
+    "order": 15,
     "title": "Суббота"
   },
   {
@@ -1695,7 +1695,7 @@
     "name": "НТВ",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
     "group": "Россия",
-    "order": 999.1,
+    "order": 19,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png"
   },
   {
@@ -1708,7 +1708,7 @@
     "name": "ОТР",
     "url": "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3ffERVHR2A6W355xPh93vg&e=2094516011&scheme=https",
     "group": "Россия",
-    "order": 1000,
+    "order": 28,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png"
   },
   {
@@ -1750,7 +1750,7 @@
   {
     "id": "2x2.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png",
-    "order": 1000
+    "order": 33
   },
   {
     "id": "Ohotnikirybolov.ru@SD",
@@ -1759,7 +1759,7 @@
   {
     "id": "OTR.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
-    "order": 1000
+    "order": 29
   },
   {
     "id": "RENTVInternational.ru@SD",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "mir",
-    "order": 1000
+    "order": 26
   },
   {
     "id": "domashnij",
@@ -2219,115 +2219,116 @@
   },
   {
     "id": "ntv-mir",
-    "order": 999.2
+    "order": 20
   },
   {
     "id": "ntv-pravo",
-    "order": 999.3
+    "order": 21
   },
   {
     "id": "ntv-serial",
-    "order": 999.4
+    "order": 22
   },
   {
     "id": "ntv-style",
-    "order": 999.5
+    "order": 23
   },
   {
     "id": "rtvi",
-    "order": 1000
+    "order": 31
   },
   {
     "id": "360.ru@SD",
-    "order": 1000
+    "order": 30
   },
   {
     "id": "Istoki.ru@SD",
-    "order": 1000
+    "order": 34
   },
   {
     "id": "KVNTV.ru@SD",
-    "order": 1000
+    "order": 35
   },
   {
     "id": "MoskvaDoveriye.ru@SD",
-    "order": 1000
+    "order": 36
   },
   {
     "id": "Moymir.ru@SD",
-    "order": 1000
+    "order": 37
   },
   {
     "id": "Nostalgia.ru@SD",
-    "order": 1000
+    "order": 38
   },
   {
     "id": "Prodvizhenie.ru@SD",
-    "order": 1000
+    "order": 39
   },
   {
     "id": "Retro.ru@SD",
-    "order": 1000
+    "order": 40
   },
   {
     "id": "Rus.ru@SD",
-    "order": 1000
+    "order": 41
   },
   {
     "id": "SanktPeterburg.ru@HD",
-    "order": 1000
+    "order": 42
   },
   {
     "id": "Smotrim100Prazdnik.ru@SD",
-    "order": 1000
+    "order": 43
   },
   {
     "id": "SochiLive.ru@HD",
-    "order": 1000
+    "order": 44
   },
   {
     "id": "TVCentr.ru@SD",
-    "order": 1000
+    "order": 24
   },
   {
     "id": "TVCentrInternational.ru@SD",
-    "order": 1000
+    "order": 25
   },
   {
     "id": "ZvezdaPlus.ru@HD",
-    "order": 1000
+    "order": 45
   },
   {
     "id": "AbazaTV.ru@SD",
-    "order": 1000
+    "order": 46
   },
   {
     "id": "AISTTV.ru@SD",
-    "order": 1000
+    "order": 47
   },
   {
     "id": "Aris24.ru@SD",
-    "order": 1000
+    "order": 48
   },
   {
     "id": "BigAsia.ru@SD",
-    "order": 1000
+    "order": 1000,
+    "group": "📚 Познавательные"
   },
   {
     "id": "VmesteRF.ru@SD",
-    "order": 1000
+    "order": 49
   },
   {
     "id": "ZaTV.ru@SD",
-    "order": 1000
+    "order": 50
   },
   {
     "id": "zvezda",
-    "order": 1000
+    "order": 51
   },
   {
     "id": "OSN.ru@SD",
-    "order": 1000
+    "order": 52
   },
   {
     "id": "OTVPrim.ru@SD",
