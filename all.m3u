@@ -223,9 +223,9 @@ https://cdn.ntv.ru/th_pravo/index.m3u8
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png" group-title="🇷🇺 Россия",НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" group-title="🇷🇺 Россия",TV Centr
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" group-title="🇷🇺 Россия",ТВ Центр
 http://31.148.5.241/kanal_10/index.m3u8
-#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="🇷🇺 Россия",TV Centr International
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="🇷🇺 Россия",ТВ Центр Интернешнл
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png" group-title="🇷🇺 Россия",Мир (международный эфир)
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -243,29 +243,29 @@ https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 http://213.91.179.28:8000/play/a082|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.3
 #EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png" group-title="🇷🇺 Россия",2x2
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="🇷🇺 Россия",Istoki
+#EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="🇷🇺 Россия",Истоки
 https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="🇷🇺 Россия",KVN TV
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="🇷🇺 Россия",КВН ТВ
 http://178.124.179.122:8080/KVN-TV/index.m3u8
-#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🇷🇺 Россия",Moskva. Doveriye
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🇷🇺 Россия",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="🇷🇺 Россия",Moy mir
+#EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="🇷🇺 Россия",Мой мир
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🇷🇺 Россия",Nostalgia
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🇷🇺 Россия",Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="🇷🇺 Россия",Prodvizhenie
+#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="🇷🇺 Россия",Продвижение
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="🇷🇺 Россия",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="🇷🇺 Россия",Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://i.imgur.com/KuL21f9.png" group-title="🇷🇺 Россия",Rus
+#EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://i.imgur.com/KuL21f9.png" group-title="🇷🇺 Россия",Русь
 http://31.148.5.241/kanal_21/index.m3u8
-#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="🇷🇺 Россия",Sankt-Peterburg HD
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="🇷🇺 Россия",Санкт-Петербург HD
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🇷🇺 Россия",Smotrim 100% Prazdnik
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🇷🇺 Россия",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="🇷🇺 Россия",Sochi Live HD
+#EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="🇷🇺 Россия",Сочи Лайв HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="🇷🇺 Россия",Zvezda Plus HD
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="🇷🇺 Россия",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="🇷🇺 Россия",АБАЗА-ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8

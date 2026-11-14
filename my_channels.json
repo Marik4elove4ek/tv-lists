@@ -2243,59 +2243,73 @@
   },
   {
     "id": "Istoki.ru@SD",
-    "order": 34
+    "order": 34,
+    "title": "Истоки"
   },
   {
     "id": "KVNTV.ru@SD",
-    "order": 35
+    "order": 35,
+    "title": "КВН ТВ"
   },
   {
     "id": "MoskvaDoveriye.ru@SD",
-    "order": 36
+    "order": 36,
+    "title": "Москва. Доверие"
   },
   {
     "id": "Moymir.ru@SD",
-    "order": 37
+    "order": 37,
+    "title": "Мой мир"
   },
   {
     "id": "Nostalgia.ru@SD",
-    "order": 38
+    "order": 38,
+    "title": "Ностальгия"
   },
   {
     "id": "Prodvizhenie.ru@SD",
-    "order": 39
+    "order": 39,
+    "title": "Продвижение"
   },
   {
     "id": "Retro.ru@SD",
-    "order": 40
+    "order": 40,
+    "title": "Ретро"
   },
   {
     "id": "Rus.ru@SD",
-    "order": 41
+    "order": 41,
+    "title": "Русь"
   },
   {
     "id": "SanktPeterburg.ru@HD",
-    "order": 42
+    "order": 42,
+    "title": "Санкт-Петербург HD"
   },
   {
     "id": "Smotrim100Prazdnik.ru@SD",
-    "order": 43
+    "order": 43,
+    "title": "Смотрим 100% Праздник"
   },
   {
     "id": "SochiLive.ru@HD",
-    "order": 44
+    "order": 44,
+    "title": "Сочи Лайв HD"
   },
   {
     "id": "TVCentr.ru@SD",
-    "order": 24
+    "order": 24,
+    "title": "ТВ Центр"
   },
   {
     "id": "TVCentrInternational.ru@SD",
-    "order": 25
+    "order": 25,
+    "title": "ТВ Центр Интернешнл"
   },
   {
     "id": "ZvezdaPlus.ru@HD",
-    "order": 45
+    "order": 45,
+    "title": "Звезда Плюс HD"
   },
   {
     "id": "AbazaTV.ru@SD",
