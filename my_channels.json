@@ -1762,5 +1762,19 @@
  {
   "id": "RENTVInternational.ru@SD",
   "order": 16.5
- }
+ },
+ {"id": "Pobeda.ru@SD", "deleted": true},
+ {"id": "TvoeTV.ru@SD", "deleted": true},
+ {"id": "TvoyeTVYumor.ru@SD", "deleted": true},
+ {"id": "Vremya.ru@SD", "deleted": true},
+ {"id": "LenTV24.ru@SD", "deleted": true},
+ {"id": "NST.ru@SD", "deleted": true},
+ {"id": "Usadba.ru@SD", "group": "📚 Познавательные"},
+ {"id": "ZagorodnayaZhizn.ru@SD", "group": "📚 Познавательные"},
+ {"id": "ZhivayaPlaneta.ru@SD", "group": "📚 Познавательные"},
+ {"id": "T24.ru@SD", "group": "📚 Познавательные"},
+ {"id": "Priklyucheniya.ru@SD", "group": "📚 Познавательные"},
+ {"id": "NTVVitrina.ru@SD", "group": "📚 Познавательные"},
+ {"id": "Bober.ru@SD", "group": "📚 Познавательные"},
+ {"id": "Komedia.ru@SD", "group": "🎬 Кино"}
 ]

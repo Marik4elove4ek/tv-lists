@@ -293,6 +293,10 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
+# Каналы, которые Марик удалил (deleted: true в my_channels.json), не попадают в общий файл
+if os.path.exists(f'{OUT}/my_channels.json'):
+    for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
+        if c.get('deleted') and c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
 write('all.m3u', merged, ['Израиль', 'Украина', 'Беларусь', 'Россия', 'Россия: регионы', '📰 Новости', '⚽ Спорт', '🧸 Детские', 'Другие страны', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира', '📻 רדיו ישראלי', '📻 Радио'], rename={'Израиль': '🇮🇱 ישראל', 'Россия': '🇷🇺 Россия', 'Беларусь': '🇧🇾 Беларусь', 'Украина': '🇺🇦 Украина', 'Россия: регионы': '📍 Россия: регионы', '🎬 Кино': '🎬 Кино и сериалы'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
