@@ -1868,5 +1868,7 @@
  {"id": "CityEdenTV.ru@HD", "deleted": true},
  {"id": "CityEdenKinoDok.ru@HD", "deleted": true},
  {"id": "CityEdenMedZdrav.ru@HD", "deleted": true},
- {"id": "CityEdenTeleNovella.ru@HD", "deleted": true}
+ {"id": "CityEdenTeleNovella.ru@HD", "deleted": true},
+ {"id": "TVBRICSRussian.ru@SD", "group": "📚 Познавательные"},
+ {"id": "RTVi.ru@SD", "deleted": true}
 ]
