@@ -179,7 +179,7 @@ https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png" group-title="🇷🇺 Россия",СТС
 http://31.148.5.241/kanal_13/index.m3u8
-#EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="🇷🇺 Россия",STS International
+#EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts_international.png" group-title="🇷🇺 Россия",STS International
 http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="🇷🇺 Россия",ТВ-3
 http://31.148.5.241/kanal_15/index.m3u8
