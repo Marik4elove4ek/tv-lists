@@ -223,7 +223,7 @@ https://cdn.ntv.ru/th_pravo/index.m3u8
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png" group-title="🇷🇺 Россия",НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" group-title="🇷🇺 Россия",ТВ Центр
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png" group-title="🇷🇺 Россия",ТВ Центр
 http://31.148.5.241/kanal_10/index.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="🇷🇺 Россия",ТВ Центр Интернешнл
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8

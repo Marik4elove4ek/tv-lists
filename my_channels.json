@@ -2300,7 +2300,8 @@
   {
     "id": "TVCentr.ru@SD",
     "order": 24,
-    "title": "ТВ Центр"
+    "title": "ТВ Центр",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png"
   },
   {
     "id": "TVCentrInternational.ru@SD",
