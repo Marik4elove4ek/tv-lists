@@ -1864,5 +1864,9 @@
  {"id": "XITE.nl@SD", "title": "Ксайт"},
  {"id": "ZweiMusicTelevision.de@SD", "title": "Цвай Мьюзик Телевижн"},
  {"name": "Nano", "title": "Нано"},
- {"id": "nano-hd", "title": "Нано HD"}
+ {"id": "nano-hd", "title": "Нано HD"},
+ {"id": "CityEdenTV.ru@HD", "deleted": true},
+ {"id": "CityEdenKinoDok.ru@HD", "deleted": true},
+ {"id": "CityEdenMedZdrav.ru@HD", "deleted": true},
+ {"id": "CityEdenTeleNovella.ru@HD", "deleted": true}
 ]
