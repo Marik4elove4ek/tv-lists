@@ -1493,13 +1493,13 @@
   },
   {
     "id": "STS.ru@SD",
-    "order": 1.000091,
+    "order": 1,
     "title": "СТС",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png"
   },
   {
     "id": "Friday.ru@SD",
-    "order": 3.000092,
+    "order": 999.45,
     "title": "Пятница"
   },
   {
@@ -1509,13 +1509,13 @@
   },
   {
     "id": "Channel5International.ru@SD",
-    "order": 5.000093,
+    "order": 5,
     "title": "Пятый канал Интернешнл",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png"
   },
   {
     "id": "Channel5.ru@SD",
-    "order": 6.000094,
+    "order": 6,
     "title": "Пятый канал",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png"
   },
@@ -1526,12 +1526,12 @@
   },
   {
     "id": "Channel8Krasnoyarsk.ru@HD",
-    "order": 8.000096,
+    "order": 8,
     "title": "Канал 8 Красноярск HD"
   },
   {
     "id": "Channel8.ru@SD",
-    "order": 9.000097,
+    "order": 9,
     "title": "Канал 8"
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "Russia1.ru@HD",
-    "order": 14.000099,
+    "order": 14,
     "title": "Россия 1 HD"
   },
   {
@@ -1550,12 +1550,12 @@
   },
   {
     "id": "Rossiya1Vainah.ru@SD",
-    "order": 15.000102,
+    "order": 15,
     "title": "Россия 1 Вайнах"
   },
   {
     "id": "Subbota.ru@SD",
-    "order": 4.000104,
+    "order": 999.46,
     "title": "Суббота"
   },
   {
@@ -1565,12 +1565,12 @@
   },
   {
     "id": "TV3.ru@SD",
-    "order": 3.000109,
+    "order": 3,
     "title": "ТВ-3"
   },
   {
     "id": "U.ru@SD",
-    "order": 21.00011,
+    "order": 7,
     "title": "Ю"
   },
   {
@@ -1763,7 +1763,7 @@
   },
   {
     "id": "RENTVInternational.ru@SD",
-    "order": 16.000106
+    "order": 16
   },
   {
     "id": "Pobeda.ru@SD",
@@ -2207,15 +2207,15 @@
   },
   {
     "id": "STSInternational.ru@SD",
-    "order": 2.000127
+    "order": 2
   },
   {
     "id": "mir",
-    "order": 7.000138
+    "order": 1000
   },
   {
     "id": "domashnij",
-    "order": 11.000103
+    "order": 4
   },
   {
     "id": "ntv-mir",
