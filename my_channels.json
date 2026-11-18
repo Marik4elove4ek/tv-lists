@@ -990,7 +990,7 @@
     "url": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://dfm.ru/apple-icon.png",
-    "order": 120
+    "order": 106.2
   },
   {
     "name": "Радио Ваня",
@@ -2475,7 +2475,7 @@
     "url": "https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara_fm.png",
-    "order": 118
+    "order": 106.3
   },
   {
     "name": "Монте-Карло",
@@ -2489,14 +2489,14 @@
     "url": "https://hitfm.hostingradio.ru/hitfm128.mp3",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://images.weserv.nl/?url=hitfm.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
-    "order": 121
+    "order": 106.1
   },
   {
     "name": "Наше радио",
     "url": "http://nashe1.hostingradio.ru/nashe-256",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_nashe.png",
-    "order": 122
+    "order": 114.5
   },
   {
     "name": "Радио 7",

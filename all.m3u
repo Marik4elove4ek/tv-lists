@@ -313,6 +313,12 @@ https://cdn.radio-holding.ru/marusya_default
 https://radiovanya-hls.cdnvideo.ru/radiovanya-live/radiovanya.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/likefm.png" group-title="📻 🇷🇺 Радио Россия",Like FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=hitfm.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Хит FM
+https://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 🇷🇺 Радио Россия",DFM
+https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara_fm.png" group-title="📻 🇷🇺 Радио Россия",Жара FM
+https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/energy.png" group-title="📻 🇷🇺 Радио Россия",Energy
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fsmotri.radio%2Fwp-content%2Fthemes%2Fsmotrihit%2Fimg%2Flogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Радио Хит 103.7 FM (Орск, Россия)
@@ -329,22 +335,16 @@ https://radiomv.hostingradio.ru:80/radiomv128.mp3
 https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rusradio.ru/static/rusradio.ogimage.jpg" group-title="📻 🇷🇺 Радио Россия",Русское Радио
 https://rusradio.ru/t/radio/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_nashe.png" group-title="📻 🇷🇺 Радио Россия",Наше радио
+http://nashe1.hostingradio.ru/nashe-256
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png" group-title="📻 🇷🇺 Радио Россия",Юмор FM
 https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_shokolad.png" group-title="📻 🇷🇺 Радио Россия",Шоколад
 http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radioromantika.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Романтика
 https://srv01.gpmradio.ru/stream/trust/mp3/256/794
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara_fm.png" group-title="📻 🇷🇺 Радио Россия",Жара FM
-https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_montecarlo.png" group-title="📻 🇷🇺 Радио Россия",Монте-Карло
 https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 🇷🇺 Радио Россия",DFM
-https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=hitfm.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Хит FM
-https://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_nashe.png" group-title="📻 🇷🇺 Радио Россия",Наше радио
-http://nashe1.hostingradio.ru/nashe-256
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_radio7.png" group-title="📻 🇷🇺 Радио Россия",Радио 7
 http://radio7server.streamr.ru:8040/radio7256.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_megapolis.png" group-title="📻 🇷🇺 Радио Россия",Мегаполис
