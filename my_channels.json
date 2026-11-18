@@ -1295,27 +1295,27 @@
   },
   {
     "id": "Belarus1.by@SD",
-    "epg": "belarus1-by"
+    "epg": "belarus1"
   },
   {
     "id": "Belarus2.by@HD",
-    "epg": "belarus2-by"
+    "epg": "belarus2"
   },
   {
     "id": "Belarus3.by@HD",
-    "epg": "belarus3-by"
+    "epg": "belarus3"
   },
   {
     "id": "Belarus5.by@SD",
-    "epg": "belarus5-by"
+    "epg": "belarus5"
   },
   {
     "id": "Belarus24.by@HD",
-    "epg": "belarus-24"
+    "epg": "belarus24"
   },
   {
     "id": "PerviyInformationniy.by@HD",
-    "epg": "pervyj-informacionnyj-by-hd",
+    "epg": "pervy-info-by",
     "group": "📰 Новости"
   },
   {
@@ -1358,7 +1358,7 @@
   },
   {
     "id": "CurrentTimeTV.cz@SD",
-    "epg": "nastoyaschee-vremya-hd",
+    "epg": "nastoyaschee-vremia",
     "group": "📰 Новости"
   },
   {
@@ -1563,13 +1563,13 @@
     "order": 1,
     "title": "СТС",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png",
-    "epg": "ch021"
+    "epg": "sts"
   },
   {
     "id": "Friday.ru@SD",
     "order": 14,
     "title": "Пятница",
-    "epg": "ch025"
+    "epg": "piatnica"
   },
   {
     "id": "Che.ru@SD",
@@ -1587,13 +1587,13 @@
     "order": 6,
     "title": "Пятый канал",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png",
-    "epg": "ch068"
+    "epg": "5kanal-ru"
   },
   {
     "id": "Mir.ru@HD",
     "order": 27,
     "title": "Мир HD",
-    "epg": "ch729"
+    "epg": "mir"
   },
   {
     "id": "Channel8Krasnoyarsk.ru@HD",
@@ -1615,7 +1615,7 @@
     "id": "Russia1.ru@HD",
     "order": 16,
     "title": "Россия 1 HD",
-    "epg": "ch002"
+    "epg": "rossia1"
   },
   {
     "id": "RTRPlaneta.ru@Asia",
@@ -1636,7 +1636,7 @@
     "id": "RENTV.ru@SD",
     "order": 12,
     "title": "РЕН ТВ",
-    "epg": "ch004"
+    "epg": "rentv"
   },
   {
     "id": "TV3.ru@SD",
@@ -1648,7 +1648,7 @@
     "id": "U.ru@SD",
     "order": 7,
     "title": "Ю",
-    "epg": "ch420"
+    "epg": "yu"
   },
   {
     "id": "Moskva24.ru@SD",
@@ -1840,7 +1840,7 @@
     "id": "2x2.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png",
     "order": 33,
-    "epg": "ch076"
+    "epg": "2na2"
   },
   {
     "id": "Ohotnikirybolov.ru@SD",
@@ -1850,7 +1850,7 @@
     "id": "OTR.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
     "order": 29,
-    "epg": "ch405"
+    "epg": "otr"
   },
   {
     "id": "RENTVInternational.ru@SD",
@@ -2329,12 +2329,12 @@
   {
     "id": "rtvi",
     "order": 31,
-    "epg": "ch100"
+    "epg": "rtvi-usa"
   },
   {
     "id": "360.ru@SD",
     "order": 30,
-    "epg": "ch516"
+    "epg": "360-podmoskovie"
   },
   {
     "id": "Istoki.ru@SD",
@@ -2361,7 +2361,7 @@
     "id": "Nostalgia.ru@SD",
     "order": 38,
     "title": "Ностальгия",
-    "epg": "ch113"
+    "epg": "nostalgia"
   },
   {
     "id": "Prodvizhenie.ru@SD",
@@ -2373,7 +2373,7 @@
     "id": "Retro.ru@SD",
     "order": 40,
     "title": "Ретро",
-    "epg": "ch508"
+    "epg": "retro-tv"
   },
   {
     "id": "Rus.ru@SD",
@@ -2402,7 +2402,7 @@
     "order": 24,
     "title": "ТВ Центр",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png",
-    "epg": "ch022"
+    "epg": "tvcentr"
   },
   {
     "id": "TVCentrInternational.ru@SD",
@@ -2414,7 +2414,7 @@
     "id": "ZvezdaPlus.ru@HD",
     "order": 45,
     "title": "Звезда Плюс HD",
-    "epg": "ch724"
+    "epg": "zvezda-plus"
   },
   {
     "id": "AbazaTV.ru@SD",
@@ -2652,30 +2652,6 @@
     "epg": "sport5stars.il"
   },
   {
-    "id": "belarus1-by",
-    "epg": "belarus1"
-  },
-  {
-    "id": "belarus2-by",
-    "epg": "belarus2"
-  },
-  {
-    "id": "belarus-24",
-    "epg": "belarus24"
-  },
-  {
-    "id": "belarus3-by",
-    "epg": "belarus3"
-  },
-  {
-    "id": "belarus5-by",
-    "epg": "belarus5"
-  },
-  {
-    "id": "stv-by-hd",
-    "epg": "ch713"
-  },
-  {
     "name": "רדיו ספורט 5",
     "url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
     "group": "📻 🇮🇱 רדיו ישראלי",
@@ -2687,92 +2663,8 @@
     "epg": "dacha"
   },
   {
-    "id": "ch562",
-    "epg": "belarus1"
-  },
-  {
-    "id": "ch564",
-    "epg": "belarus2"
-  },
-  {
-    "id": "ch583",
-    "epg": "belarus24"
-  },
-  {
-    "id": "ch565",
-    "epg": "belarus3"
-  },
-  {
-    "id": "ch473",
-    "epg": "belarus5"
-  },
-  {
     "id": "BugTV.by@SD",
     "epg": "bug-tv"
-  },
-  {
-    "id": "ch021",
-    "epg": "sts"
-  },
-  {
-    "id": "ch068",
-    "epg": "5kanal-ru"
-  },
-  {
-    "id": "ch420",
-    "epg": "yu"
-  },
-  {
-    "id": "ch004",
-    "epg": "rentv"
-  },
-  {
-    "id": "ch110",
-    "epg": "domashny"
-  },
-  {
-    "id": "ch025",
-    "epg": "piatnica"
-  },
-  {
-    "id": "ch002",
-    "epg": "rossia1"
-  },
-  {
-    "id": "ch100",
-    "epg": "rtvi-usa"
-  },
-  {
-    "id": "ch022",
-    "epg": "tvcentr"
-  },
-  {
-    "id": "ch729",
-    "epg": "mir"
-  },
-  {
-    "id": "ch405",
-    "epg": "otr"
-  },
-  {
-    "id": "ch516",
-    "epg": "360-podmoskovie"
-  },
-  {
-    "id": "ch076",
-    "epg": "2na2"
-  },
-  {
-    "id": "ch113",
-    "epg": "nostalgia"
-  },
-  {
-    "id": "ch508",
-    "epg": "retro-tv"
-  },
-  {
-    "id": "ch724",
-    "epg": "zvezda-plus"
   },
   {
     "id": "KongressTV.ru@SD",
@@ -2781,14 +2673,6 @@
   {
     "id": "360News.ru@SD",
     "epg": "360-news"
-  },
-  {
-    "id": "pervyj-informacionnyj-by-hd",
-    "epg": "pervy-info-by"
-  },
-  {
-    "id": "nastoyaschee-vremya-hd",
-    "epg": "nastoyaschee-vremia"
   },
   {
     "id": "Tolk.ru@HD",
