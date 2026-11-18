@@ -5,7 +5,7 @@
     "group": "Израиль",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg",
     "order": 11,
-    "epg": "channel10-il-hd"
+    "epg": "ch3134"
   },
   {
     "name": "Angel TV",
@@ -1248,7 +1248,7 @@
     "id": "Channel16.il@SD",
     "order": 17,
     "title": "ערוץ 16",
-    "epg": "16-kanal-il-hd",
+    "epg": "ch2494",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ch16.png"
   },
   {

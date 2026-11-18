@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Собирает свой маленький файл телепрограммы epg.xml.gz только для каналов из all.m3u.
-Израиль берётся из open-epg, остальные каналы из iptvx.one. Только вперёд: сейчас идущая передача и ближайшие 3 дня."""
+Израиль берётся из open-epg, остальные каналы из iptvx.one, каналы 10 и 16 из epg.team. Только вперёд: сейчас идущая передача и ближайшие 3 дня."""
 import gzip, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG']
+SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
 DAYS = 3
 
 def parse_time(s):
