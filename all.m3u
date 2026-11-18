@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml.gz"
 #EXTINF:-1 tvg-id="9-kanal-hd-il" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="🇮🇱 ישראל",ערוץ 9
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-id="channel10-il-hd" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tv10.jpg" group-title="🇮🇱 ישראל",ערוץ 10
