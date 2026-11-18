@@ -2589,5 +2589,11 @@
   {
     "id": "stv-by-hd",
     "epg": "ch713"
+  },
+  {
+    "name": "רדיו ספורט 5",
+    "url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 899
   }
 ]
