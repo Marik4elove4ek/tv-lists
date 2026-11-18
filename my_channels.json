@@ -1320,7 +1320,7 @@
   },
   {
     "id": "STV.by@HD",
-    "epg": "stv-by-hd"
+    "epg": "ch713"
   },
   {
     "id": "Domashniy.ru@SD",
@@ -2308,7 +2308,7 @@
   {
     "id": "domashnij",
     "order": 4,
-    "epg": "ch110"
+    "epg": "domashny"
   },
   {
     "id": "ntv-mir",
@@ -2653,23 +2653,23 @@
   },
   {
     "id": "belarus1-by",
-    "epg": "ch562"
+    "epg": "belarus1"
   },
   {
     "id": "belarus2-by",
-    "epg": "ch564"
+    "epg": "belarus2"
   },
   {
     "id": "belarus-24",
-    "epg": "ch583"
+    "epg": "belarus24"
   },
   {
     "id": "belarus3-by",
-    "epg": "ch565"
+    "epg": "belarus3"
   },
   {
     "id": "belarus5-by",
-    "epg": "ch473"
+    "epg": "belarus5"
   },
   {
     "id": "stv-by-hd",
