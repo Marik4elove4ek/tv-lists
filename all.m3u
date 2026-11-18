@@ -49,6 +49,8 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 https://janya-digimix2.akamaized.net/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/up2dance-favicon-300x300.png" group-title="📻 🇮🇱 רדיו ישראלי",Up2Dance Radio
 https://icecast.live/up2dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_beat.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו ביט
+https://live.radio-beat.com/stream1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrahit.png" group-title="📻 🇮🇱 רדיו ישראלי",נושמים מזרחית
 https://rs.mizrahit.fm:7777/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_darom97.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו דרום 97FM
@@ -97,8 +99,6 @@ https://glzwizzlv.bynetcdn.com/glz_mp3
 https://radio.streamgates.net/stream/1036kh
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eshel.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו אשל הנשיא
 http://stream.eshelnet.com/xstream
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_beat.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו ביט
-https://live.radio-beat.com/stream1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_haifa.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו חיפה 107.5FM
 https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/hamesh.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו חם אש 99.5FM
