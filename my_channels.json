@@ -497,7 +497,7 @@
     "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fdorognoe.ru%2Fassets%2Flogos%2Fdor.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
-    "order": 112
+    "order": 113.7
   },
   {
     "name": "Юмор FM",
@@ -2460,7 +2460,7 @@
     "name": "Шоколад",
     "url": "http://choco.hostingradio.ru:10010/fm",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=chocoradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_shokolad.png",
     "order": 116
   },
   {
@@ -2474,14 +2474,14 @@
     "name": "Жара FM",
     "url": "https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara.png",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara_fm.png",
     "order": 118
   },
   {
     "name": "Монте-Карло",
     "url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=montecarlo.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_montecarlo.png",
     "order": 119
   },
   {
@@ -2495,28 +2495,28 @@
     "name": "Наше радио",
     "url": "http://nashe1.hostingradio.ru/nashe-256",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=www.nashe.ru%2Ffavicons%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_nashe.png",
     "order": 122
   },
   {
     "name": "Радио 7",
     "url": "http://radio7server.streamr.ru:8040/radio7256.mp3",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=radio7.ru%2Ffavicon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_radio7.png",
     "order": 123
   },
   {
     "name": "Мегаполис",
     "url": "https://online.radio-megapolis.ru/megapolis_mp3",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=radiomegapolis.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_megapolis.png",
     "order": 124
   },
   {
     "name": "Royal Radio 98.6",
     "url": "https://royalradio.space/986FM",
     "group": "📻 🇷🇺 Радио Россия",
-    "logo": "https://images.weserv.nl/?url=royalradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_royal.png",
     "order": 125
   },
   {
@@ -2541,11 +2541,11 @@
     "order": 128
   },
   {
-    "name": "Радио MV",
+    "name": "Милицейская волна",
     "url": "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://images.weserv.nl/?url=radiomv.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
-    "order": 129
+    "order": 113.5
   },
   {
     "name": "Калина Красная",
