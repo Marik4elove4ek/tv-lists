@@ -2517,5 +2517,29 @@
     "group": "Россия",
     "logo": "",
     "order": 4
+  },
+  {
+    "id": "5Gold.il@SD",
+    "epg": "5GOLD.il"
+  },
+  {
+    "id": "5Live.il@SD",
+    "epg": "5LIVE.HD.il"
+  },
+  {
+    "id": "5Plus.il@SD",
+    "epg": "5PLUS.HD.il"
+  },
+  {
+    "id": "5Sport.il@SD",
+    "epg": "5SPORT.HD.il"
+  },
+  {
+    "id": "5Sport4K.il@SD",
+    "epg": "5SPORT.HD.il"
+  },
+  {
+    "id": "5Stars.il@SD",
+    "epg": "5STARS.il"
   }
 ]
