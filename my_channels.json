@@ -2520,26 +2520,26 @@
   },
   {
     "id": "5Gold.il@SD",
-    "epg": "5GOLD.il"
+    "epg": "sport5gold.il"
   },
   {
     "id": "5Live.il@SD",
-    "epg": "5LIVE.HD.il"
+    "epg": "sport5live.il"
   },
   {
     "id": "5Plus.il@SD",
-    "epg": "5PLUS.HD.il"
+    "epg": "sport5plus.il"
   },
   {
     "id": "5Sport.il@SD",
-    "epg": "5SPORT.HD.il"
+    "epg": "sport5hd.il"
   },
   {
     "id": "5Sport4K.il@SD",
-    "epg": "5SPORT.HD.il"
+    "epg": "sport54k.il"
   },
   {
     "id": "5Stars.il@SD",
-    "epg": "5STARS.il"
+    "epg": "sport5stars.il"
   }
 ]

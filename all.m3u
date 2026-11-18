@@ -23,17 +23,17 @@ https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/in
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 #EXTINF:-1 tvg-id="yes-reality-channel-il-hd" tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" group-title="🇮🇱 ישראל",ערוץ הריאליטי
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 tvg-id="5GOLD.il" tvg-logo="https://i.imgur.com/zFLRfXh.png" group-title="🇮🇱 ישראל",5Gold
+#EXTINF:-1 tvg-id="sport5gold.il" tvg-logo="https://i.imgur.com/zFLRfXh.png" group-title="🇮🇱 ישראל",5Gold
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-logo="https://i.imgur.com/0yr3yvd.png" group-title="🇮🇱 ישראל",5Live
+#EXTINF:-1 tvg-id="sport5live.il" tvg-logo="https://i.imgur.com/0yr3yvd.png" group-title="🇮🇱 ישראל",5Live
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="🇮🇱 ישראל",5Plus
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="🇮🇱 ישראל",5Plus
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="🇮🇱 ישראל",5Sport
+#EXTINF:-1 tvg-id="sport5hd.il" tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="🇮🇱 ישראל",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="🇮🇱 ישראל",5Sport 4K
+#EXTINF:-1 tvg-id="sport54k.il" tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="🇮🇱 ישראל",5Sport 4K
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5STARS.il" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="🇮🇱 ישראל",5Stars
+#EXTINF:-1 tvg-id="sport5stars.il" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="🇮🇱 ישראל",5Stars
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TheIsraeliNetwork.il@SD" tvg-logo="https://i.imgur.com/wOsArb9.png" group-title="🇮🇱 ישראל",The Israeli Network
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
