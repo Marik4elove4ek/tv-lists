@@ -2496,5 +2496,26 @@
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://images.weserv.nl/?url=bfm.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "order": 499
+  },
+  {
+    "name": "Россия Один",
+    "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8",
+    "group": "Россия",
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "order": 2
+  },
+  {
+    "name": "Россия К",
+    "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
+    "group": "Россия",
+    "logo": "",
+    "order": 3
+  },
+  {
+    "name": "Россия 24",
+    "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8",
+    "group": "Россия",
+    "logo": "",
+    "order": 4
   }
 ]
