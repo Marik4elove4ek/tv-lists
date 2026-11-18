@@ -127,7 +127,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_moreshet.png" group-title="📻 🇮🇱 רדיו ישראלי",כאן מורשת
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
-#EXTINF:-1 tvg-id="" group-title="📻 🇮🇱 רדיו ישראלי",רדיו ספורט 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_sport5.jpg" group-title="📻 🇮🇱 רדיו ישראלי",רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_barama.png" group-title="📻 🇮🇱 רדיו ישראלי",רדיו קול ברמה
 https://live.kol-barama.co.il/hls/mystreambini.m3u8
