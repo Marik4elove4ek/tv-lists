@@ -903,7 +903,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
     "pin": true,
-    "epg": "ntv-mir",
+    "epg": "ch392",
     "order": 1
   },
   {
@@ -919,7 +919,7 @@
     "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
-    "epg": "ntv-serial",
+    "epg": "ch620",
     "order": 22
   },
   {
@@ -927,7 +927,7 @@
     "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
-    "epg": "ntv-pravo",
+    "epg": "ch612",
     "order": 21
   },
   {
@@ -955,7 +955,8 @@
     "name": "Беларусь 4 Гомель",
     "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
     "group": "Беларусь",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_gomel.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_gomel.png",
+    "epg": "ch3802"
   },
   {
     "name": "Витебск",
@@ -968,7 +969,7 @@
     "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
-    "epg": "zvezda"
+    "epg": "ch023"
   },
   {
     "name": "Известия",
@@ -982,7 +983,7 @@
     "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
-    "epg": "mir"
+    "epg": "ch729"
   },
   {
     "name": "Мир 24",
@@ -1037,13 +1038,14 @@
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_24kanal.png",
-    "epg": "24ch-ua"
+    "epg": "ch315"
   },
   {
     "name": "Рада",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
     "group": "Украина",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rada.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rada.png",
+    "epg": "ch309"
   },
   {
     "name": "7 канал (Одесса)",
@@ -1495,12 +1497,14 @@
     "id": "STS.ru@SD",
     "order": 1,
     "title": "СТС",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png",
+    "epg": "ch021"
   },
   {
     "id": "Friday.ru@SD",
     "order": 14,
-    "title": "Пятница"
+    "title": "Пятница",
+    "epg": "ch025"
   },
   {
     "id": "Che.ru@SD",
@@ -1517,12 +1521,14 @@
     "id": "Channel5.ru@SD",
     "order": 6,
     "title": "Пятый канал",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png",
+    "epg": "ch068"
   },
   {
     "id": "Mir.ru@HD",
     "order": 27,
-    "title": "Мир HD"
+    "title": "Мир HD",
+    "epg": "ch729"
   },
   {
     "id": "Channel8Krasnoyarsk.ru@HD",
@@ -1542,7 +1548,8 @@
   {
     "id": "Russia1.ru@HD",
     "order": 16,
-    "title": "Россия 1 HD"
+    "title": "Россия 1 HD",
+    "epg": "ch002"
   },
   {
     "id": "RTRPlaneta.ru@Asia",
@@ -1556,12 +1563,14 @@
   {
     "id": "Subbota.ru@SD",
     "order": 15,
-    "title": "Суббота"
+    "title": "Суббота",
+    "epg": "ch414"
   },
   {
     "id": "RENTV.ru@SD",
     "order": 12,
-    "title": "РЕН ТВ"
+    "title": "РЕН ТВ",
+    "epg": "ch004"
   },
   {
     "id": "TV3.ru@SD",
@@ -1571,7 +1580,8 @@
   {
     "id": "U.ru@SD",
     "order": 7,
-    "title": "Ю"
+    "title": "Ю",
+    "epg": "ch420"
   },
   {
     "id": "Moskva24.ru@SD",
@@ -1696,7 +1706,8 @@
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
     "group": "Россия",
     "order": 19,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png",
+    "epg": "ch003"
   },
   {
     "name": "Nano",
@@ -1709,7 +1720,8 @@
     "url": "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3ffERVHR2A6W355xPh93vg&e=2094516011&scheme=https",
     "group": "Россия",
     "order": 28,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
+    "epg": "ch405"
   },
   {
     "name": "ОТС (Новосибирск)",
@@ -1750,7 +1762,8 @@
   {
     "id": "2x2.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png",
-    "order": 33
+    "order": 33,
+    "epg": "ch076"
   },
   {
     "id": "Ohotnikirybolov.ru@SD",
@@ -1759,7 +1772,8 @@
   {
     "id": "OTR.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
-    "order": 29
+    "order": 29,
+    "epg": "ch405"
   },
   {
     "id": "RENTVInternational.ru@SD",
@@ -2216,7 +2230,8 @@
   },
   {
     "id": "domashnij",
-    "order": 4
+    "order": 4,
+    "epg": "ch110"
   },
   {
     "id": "ntv-mir",
@@ -2236,11 +2251,13 @@
   },
   {
     "id": "rtvi",
-    "order": 31
+    "order": 31,
+    "epg": "ch100"
   },
   {
     "id": "360.ru@SD",
-    "order": 30
+    "order": 30,
+    "epg": "ch516"
   },
   {
     "id": "Istoki.ru@SD",
@@ -2265,7 +2282,8 @@
   {
     "id": "Nostalgia.ru@SD",
     "order": 38,
-    "title": "Ностальгия"
+    "title": "Ностальгия",
+    "epg": "ch113"
   },
   {
     "id": "Prodvizhenie.ru@SD",
@@ -2275,7 +2293,8 @@
   {
     "id": "Retro.ru@SD",
     "order": 40,
-    "title": "Ретро"
+    "title": "Ретро",
+    "epg": "ch508"
   },
   {
     "id": "Rus.ru@SD",
@@ -2301,7 +2320,8 @@
     "id": "TVCentr.ru@SD",
     "order": 24,
     "title": "ТВ Центр",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png",
+    "epg": "ch022"
   },
   {
     "id": "TVCentrInternational.ru@SD",
@@ -2311,7 +2331,8 @@
   {
     "id": "ZvezdaPlus.ru@HD",
     "order": 45,
-    "title": "Звезда Плюс HD"
+    "title": "Звезда Плюс HD",
+    "epg": "ch724"
   },
   {
     "id": "AbazaTV.ru@SD",
@@ -2502,21 +2523,24 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8",
     "group": "Россия",
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "order": 2
+    "order": 2,
+    "epg": "ch002"
   },
   {
     "name": "Россия К",
     "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 3
+    "order": 3,
+    "epg": "ch102"
   },
   {
     "name": "Россия 24",
     "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 4
+    "order": 4,
+    "epg": "ch007"
   },
   {
     "id": "5Gold.il@SD",
@@ -2541,5 +2565,29 @@
   {
     "id": "5Stars.il@SD",
     "epg": "sport5stars.il"
+  },
+  {
+    "id": "belarus1-by",
+    "epg": "ch562"
+  },
+  {
+    "id": "belarus2-by",
+    "epg": "ch564"
+  },
+  {
+    "id": "belarus-24",
+    "epg": "ch583"
+  },
+  {
+    "id": "belarus3-by",
+    "epg": "ch565"
+  },
+  {
+    "id": "belarus5-by",
+    "epg": "ch473"
+  },
+  {
+    "id": "stv-by-hd",
+    "epg": "ch713"
   }
 ]
