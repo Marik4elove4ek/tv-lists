@@ -524,115 +524,134 @@
     "name": "Крым 24",
     "url": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "krym24"
   },
   {
     "name": "НТС Севастополь",
     "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "nts-sevastopol"
   },
   {
     "name": "Ямал-Регион",
     "url": "https://bl.webcaster.pro/media/start/free_eb0182bd41004b93570aa08119ad9151/4_97090908/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "yamal-region"
   },
   {
     "name": "Тюменское время",
     "url": "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tumenskoe-vremia"
   },
   {
     "name": "12 канал Омск",
     "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "12-omsk"
   },
   {
     "name": "Аист ТВ Иркутск",
     "url": "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "aist"
   },
   {
     "name": "Ника ТВ Калуга",
     "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "nika-tv"
   },
   {
     "name": "Катунь 24",
     "url": "https://live.katun24.ru:8082/katun/katun/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "katun-24"
   },
   {
     "name": "Енисей Красноярск",
     "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "enisey-region"
   },
   {
     "name": "С1 Сургут",
     "url": "https://sitv.ru/hls/stv1024.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "s1-surgut"
   },
   {
     "name": "С86 Сургут",
     "url": "https://sitv.ru/hls/s861024.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "86-surgut"
   },
   {
     "name": "ТКР Рязань",
     "url": "https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "trk-ryazan"
   },
   {
     "name": "Волга 24 Нижний Новгород",
     "url": "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "vremia-n"
   },
   {
     "name": "ННТВ Нижний Новгород",
     "url": "https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "nntv"
   },
   {
     "name": "Нижний Новгород 24",
     "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "nn-24"
   },
   {
     "name": "Сочи 24",
     "url": "https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "sochi24"
   },
   {
     "name": "Белгород 24",
     "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "belgorod24"
   },
   {
     "name": "Мир Белогорья",
     "url": "https://tvbelgorod.ru:90/mirbelogorya/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "mir-belogoria"
   },
   {
     "name": "Краснодар",
     "url": "https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "krasnodar"
   },
   {
     "name": "Ники ТВ",
@@ -644,25 +663,29 @@
     "name": "Ветта 24 Пермь",
     "url": "https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "vetta24"
   },
   {
     "name": "Канал-16 Саров",
     "url": "https://serv25.vintera.tv/test/k16/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "k16-sarov"
   },
   {
     "name": "Первый Ярославский",
     "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "pervy-yaroslavsky"
   },
   {
     "name": "Колыма Плюс Магадан",
     "url": "https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "kolyma-plus"
   },
   {
     "name": "Телплюс Астрахань",
@@ -674,188 +697,219 @@
     "name": "Архыз 24 Карачаево-Черкесия",
     "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "arxyz24"
   },
   {
     "name": "БСТ Башкортостан",
     "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "bst"
   },
   {
     "name": "Арис 24",
     "url": "https://serv25.vintera.tv/test/aris/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "aris24"
   },
   {
     "name": "ТНВ-Планета",
     "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tnv-planeta"
   },
   {
     "name": "ТНВ Татарстан",
     "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tnv"
   },
   {
     "name": "НТМ Мордовия",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "ntm"
   },
   {
     "name": "Ингушетия Магас",
     "url": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "ntrk-ingushetia"
   },
   {
     "name": "Брянская Губерния",
     "url": "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "brianskaya-gubernia"
   },
   {
     "name": "ТВК Красноярск",
     "url": "https://air.tvk6.ru/tvk24/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tvk-krasnoyarsk"
   },
   {
     "name": "Экспресс Пенза",
     "url": "https://fhtrc6b9861.a.trbcdn.net/livemaster/ktu5e_live-5splv5p6i4s.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "express"
   },
   {
     "name": "РГВК Дагестан",
     "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "rgvk-dagestan"
   },
   {
     "name": "Осетия-Ирыстон",
     "url": "https://catchup.videoline.ru/iriston/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "osetia-iryston"
   },
   {
     "name": "ТРК Евразия Орск",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "evrasia"
   },
   {
     "name": "МТВ Волгоград",
     "url": "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "mtv-volgograd"
   },
   {
     "name": "Миллет",
     "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "millet"
   },
   {
     "name": "НТС Иркутск",
     "url": "https://air.nts-tv.ru/nts/nts.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "nts-irkutsk"
   },
   {
     "name": "НВК Саха Якутск",
     "url": "https://live-saha.cdnvideo.ru/saha2/saha_live.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "saxa"
   },
   {
     "name": "Алмазный край Якутия",
     "url": "https://stream.almaz-media.tv:8080/hls/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "almazny-kray"
   },
   {
     "name": "Раменское Телевидение",
     "url": "https://e10-ll.facecast.net/rtv/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "ramenskoe-tv"
   },
   {
     "name": "Север Нарьян-Мар",
     "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "sever"
   },
   {
     "name": "Салям Уфа",
     "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "salam"
   },
   {
     "name": "Обком ТВ Омск",
     "url": "https://omsk-kprf.ru/hls/stream.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "obkom"
   },
   {
     "name": "Запад 24 Калининград",
     "url": "https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "zapad-24"
   },
   {
     "name": "Своё ТВ Ставрополь",
     "url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "svoyo-tv-stavropol"
   },
   {
     "name": "Якутия 24",
     "url": "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "yakutia24"
   },
   {
     "name": "Самара-ГИС",
     "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "gis-samara"
   },
   {
     "name": "ВТК 41 АРГУС",
     "url": "https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "vtk-argus"
   },
   {
     "name": "Югра",
     "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "yugra"
   },
   {
     "name": "Татарстан-24",
     "url": "https://tatarstan24.tv/stream/playlist.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tatarstan24"
   },
   {
     "name": "TV Губерния Воронеж",
     "url": "https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8",
     "group": "Россия: регионы",
-    "logo": ""
+    "logo": "",
+    "epg": "tv-guberniya"
   },
   {
     "name": "Теледом",
     "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png",
-    "order": 53
+    "order": 53,
+    "epg": "teledom"
   },
   {
     "name": "Каббала ТВ (на русском)",
@@ -874,7 +928,8 @@
     "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8",
     "group": "📰 Новости",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_probiznes.png",
-    "id": "ProBusiness.ru@SD"
+    "id": "ProBusiness.ru@SD",
+    "epg": "pro-business"
   },
   {
     "name": "Универ ТВ",
@@ -919,7 +974,7 @@
     "url": "https://cdn.ntv.ru/th_serial/index.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
-    "epg": "ch620",
+    "epg": "ntv-serial",
     "order": 22
   },
   {
@@ -927,7 +982,7 @@
     "url": "https://cdn.ntv.ru/th_pravo/index.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
-    "epg": "ch612",
+    "epg": "ntv-pravo",
     "order": 21
   },
   {
@@ -956,34 +1011,35 @@
     "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
     "group": "Беларусь",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_gomel.png",
-    "epg": "ch3802"
+    "epg": "belarus4-gomel"
   },
   {
     "name": "Витебск",
     "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
     "group": "Беларусь",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_vitebsk.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_vitebsk.png",
+    "epg": "vitebsk"
   },
   {
     "name": "Звезда",
     "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
-    "epg": "ch023"
+    "epg": "zvezda"
   },
   {
     "name": "Известия",
     "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
     "group": "📰 Новости",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_izvestia.png",
-    "epg": "izvestija"
+    "epg": "izvestia"
   },
   {
     "name": "Мир (международный эфир)",
     "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
-    "epg": "ch729"
+    "epg": "mir"
   },
   {
     "name": "Мир 24",
@@ -1031,21 +1087,22 @@
     "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/8qdc6aO.png",
-    "id": "PervyygorodskoyOdessa.ua@SD"
+    "id": "PervyygorodskoyOdessa.ua@SD",
+    "epg": "pervy-gorodskoy-odessa"
   },
   {
     "name": "24 канал",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_24kanal.png",
-    "epg": "ch315"
+    "epg": "24news-ua"
   },
   {
     "name": "Рада",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_rada.png",
-    "epg": "ch309"
+    "epg": "rada-ua"
   },
   {
     "name": "7 канал (Одесса)",
@@ -1069,7 +1126,8 @@
     "name": "Ровно 1",
     "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
     "group": "Украина",
-    "logo": ""
+    "logo": "",
+    "epg": "rivne1"
   },
   {
     "name": "ITV (Ровно)",
@@ -1093,7 +1151,8 @@
     "name": "Аверс (Луцк)",
     "url": "https://avers.pp.ua/hls/efir.m3u8",
     "group": "Украина",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_avers.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_avers.png",
+    "epg": "avers"
   },
   {
     "name": "Симон (Харьков)",
@@ -1441,7 +1500,8 @@
   },
   {
     "id": "DW.de@Russian",
-    "group": "📰 Новости"
+    "group": "📰 Новости",
+    "epg": "deutsche-welle-ru"
   },
   {
     "id": "RTN.us@SD",
@@ -1475,23 +1535,28 @@
   },
   {
     "id": "RBKTV.ru@SD",
-    "group": "📰 Новости"
+    "group": "📰 Новости",
+    "epg": "rbk"
   },
   {
     "id": "GuberniaSamara.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "gubernia-samara"
   },
   {
     "id": "Channel16.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "k16-sarov"
   },
   {
     "id": "KurajTV.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "kuraj"
   },
   {
     "id": "MTVVolgograd.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "mtv-volgograd"
   },
   {
     "id": "STS.ru@SD",
@@ -1538,7 +1603,8 @@
   {
     "id": "Channel8.ru@SD",
     "order": 9,
-    "title": "Канал 8"
+    "title": "Канал 8",
+    "epg": "8kanal-ru"
   },
   {
     "id": "Channel10.ru@SD",
@@ -1575,7 +1641,8 @@
   {
     "id": "TV3.ru@SD",
     "order": 3,
-    "title": "ТВ-3"
+    "title": "ТВ-3",
+    "epg": "tv3-ru"
   },
   {
     "id": "U.ru@SD",
@@ -1585,7 +1652,8 @@
   },
   {
     "id": "Moskva24.ru@SD",
-    "group": "📰 Новости"
+    "group": "📰 Новости",
+    "epg": "moskva-24"
   },
   {
     "id": "RAZ3International.ua@SD",
@@ -1594,7 +1662,8 @@
   },
   {
     "id": "Sochi24.ru@SD",
-    "group": "📍 Россия: регионы"
+    "group": "📍 Россия: регионы",
+    "epg": "sochi24"
   },
   {
     "name": "VIVA Russia",
@@ -1707,7 +1776,7 @@
     "group": "Россия",
     "order": 19,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png",
-    "epg": "ch003"
+    "epg": "ntv"
   },
   {
     "name": "Nano",
@@ -1721,43 +1790,51 @@
     "group": "Россия",
     "order": 28,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
-    "epg": "ch405"
+    "epg": "otr"
   },
   {
     "name": "ОТС (Новосибирск)",
     "url": "https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=XuM03VrqWt3GL54IjHV1NQ&e=2094516041&scheme=https",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "ots"
   },
   {
     "name": "Телеканал 78 (Санкт-Петербург)",
     "url": "https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=U-dXRgbEtWqPI-U97Q9ABQ&e=2094516067&scheme=https",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "78kanal"
   },
   {
     "name": "ЯПервый",
     "url": "https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=Vm220PXLFxSVocKXNaTf2A&e=2094516081&scheme=https",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "pervy-yaroslavsky"
   },
   {
     "name": "Абакан 24",
     "url": "https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=VYewlUye908cSun5INe8Ug&e=2094516225&scheme=https",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "abakan24"
   },
   {
     "id": "TelekanalKrasnodar.ru@HD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "krasnodar"
   },
   {
     "id": "86.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "86-surgut"
   },
   {
     "id": "Tavriya.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "tavria"
   },
   {
     "id": "NVKSakha.ru@SD",
-    "group": "Россия: регионы"
+    "group": "Россия: регионы",
+    "epg": "saxa"
   },
   {
     "id": "2x2.ru@SD",
@@ -2272,7 +2349,8 @@
   {
     "id": "MoskvaDoveriye.ru@SD",
     "order": 36,
-    "title": "Москва. Доверие"
+    "title": "Москва. Доверие",
+    "epg": "doverie"
   },
   {
     "id": "Moymir.ru@SD",
@@ -2288,7 +2366,8 @@
   {
     "id": "Prodvizhenie.ru@SD",
     "order": 39,
-    "title": "Продвижение"
+    "title": "Продвижение",
+    "epg": "prodvizhenie"
   },
   {
     "id": "Retro.ru@SD",
@@ -2304,12 +2383,14 @@
   {
     "id": "SanktPeterburg.ru@HD",
     "order": 42,
-    "title": "Санкт-Петербург HD"
+    "title": "Санкт-Петербург HD",
+    "epg": "sankt-peterburg"
   },
   {
     "id": "Smotrim100Prazdnik.ru@SD",
     "order": 43,
-    "title": "Смотрим 100% Праздник"
+    "title": "Смотрим 100% Праздник",
+    "epg": "smotrim-100-prazdnik"
   },
   {
     "id": "SochiLive.ru@HD",
@@ -2326,7 +2407,8 @@
   {
     "id": "TVCentrInternational.ru@SD",
     "order": 25,
-    "title": "ТВ Центр Интернешнл"
+    "title": "ТВ Центр Интернешнл",
+    "epg": "tvci"
   },
   {
     "id": "ZvezdaPlus.ru@HD",
@@ -2340,7 +2422,8 @@
   },
   {
     "id": "AISTTV.ru@SD",
-    "order": 47
+    "order": 47,
+    "epg": "aist"
   },
   {
     "id": "Aris24.ru@SD",
@@ -2353,7 +2436,8 @@
   },
   {
     "id": "VmesteRF.ru@SD",
-    "order": 49
+    "order": 49,
+    "epg": "vmeste-rf"
   },
   {
     "id": "ZaTV.ru@SD",
@@ -2369,7 +2453,8 @@
   },
   {
     "id": "OTVPrim.ru@SD",
-    "group": "📍 Россия: регионы"
+    "group": "📍 Россия: регионы",
+    "epg": "otv-primorie"
   },
   {
     "name": "Шоколад",
@@ -2524,7 +2609,7 @@
     "group": "Россия",
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "order": 2,
-    "epg": "ch002"
+    "epg": "rossia1"
   },
   {
     "name": "Россия К",
@@ -2532,7 +2617,7 @@
     "group": "Россия",
     "logo": "",
     "order": 3,
-    "epg": "ch102"
+    "epg": "kultura"
   },
   {
     "name": "Россия 24",
@@ -2540,7 +2625,7 @@
     "group": "Россия",
     "logo": "",
     "order": 4,
-    "epg": "ch007"
+    "epg": "rossia-24"
   },
   {
     "id": "5Gold.il@SD",
@@ -2596,5 +2681,161 @@
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 899,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_sport5.jpg"
+  },
+  {
+    "id": "Dacha.ua@SD",
+    "epg": "dacha"
+  },
+  {
+    "id": "ch562",
+    "epg": "belarus1"
+  },
+  {
+    "id": "ch564",
+    "epg": "belarus2"
+  },
+  {
+    "id": "ch583",
+    "epg": "belarus24"
+  },
+  {
+    "id": "ch565",
+    "epg": "belarus3"
+  },
+  {
+    "id": "ch473",
+    "epg": "belarus5"
+  },
+  {
+    "id": "BugTV.by@SD",
+    "epg": "bug-tv"
+  },
+  {
+    "id": "ch021",
+    "epg": "sts"
+  },
+  {
+    "id": "ch068",
+    "epg": "5kanal-ru"
+  },
+  {
+    "id": "ch420",
+    "epg": "yu"
+  },
+  {
+    "id": "ch004",
+    "epg": "rentv"
+  },
+  {
+    "id": "ch110",
+    "epg": "domashny"
+  },
+  {
+    "id": "ch025",
+    "epg": "piatnica"
+  },
+  {
+    "id": "ch002",
+    "epg": "rossia1"
+  },
+  {
+    "id": "ch100",
+    "epg": "rtvi-usa"
+  },
+  {
+    "id": "ch022",
+    "epg": "tvcentr"
+  },
+  {
+    "id": "ch729",
+    "epg": "mir"
+  },
+  {
+    "id": "ch405",
+    "epg": "otr"
+  },
+  {
+    "id": "ch516",
+    "epg": "360-podmoskovie"
+  },
+  {
+    "id": "ch076",
+    "epg": "2na2"
+  },
+  {
+    "id": "ch113",
+    "epg": "nostalgia"
+  },
+  {
+    "id": "ch508",
+    "epg": "retro-tv"
+  },
+  {
+    "id": "ch724",
+    "epg": "zvezda-plus"
+  },
+  {
+    "id": "KongressTV.ru@SD",
+    "epg": "kongresstv"
+  },
+  {
+    "id": "360News.ru@SD",
+    "epg": "360-news"
+  },
+  {
+    "id": "pervyj-informacionnyj-by-hd",
+    "epg": "pervy-info-by"
+  },
+  {
+    "id": "nastoyaschee-vremya-hd",
+    "epg": "nastoyaschee-vremia"
+  },
+  {
+    "id": "Tolk.ru@HD",
+    "epg": "tolk"
+  },
+  {
+    "id": "MatchPremier.ru@SD",
+    "epg": "match-premier"
+  },
+  {
+    "id": "RussianExtremeUltra.ru@SD",
+    "epg": "russian-extreme-uhd"
+  },
+  {
+    "id": "Sportivnyy.ru@SD",
+    "epg": "sportivny"
+  },
+  {
+    "id": "Volleyball.ru@SD",
+    "epg": "voleybol"
+  },
+  {
+    "id": "CartoonClassics.ru@SD",
+    "epg": "cartoon-classics"
+  },
+  {
+    "id": "Detskiy.ru@SD",
+    "epg": "detsky"
+  },
+  {
+    "id": "GulliGirl.ru@SD",
+    "epg": "gulli-girl"
+  },
+  {
+    "id": "KapitanFantastika.ru@SD",
+    "epg": "ginger-hd"
+  },
+  {
+    "id": "NickJr.ru@SD",
+    "epg": "nick-jr"
+  },
+  {
+    "id": "Smotrim100Detskoe.ru@SD",
+    "epg": "smotrim-100-detskoe"
+  },
+  {
+    "id": "Vgostyakhuskazki.ru@SD",
+    "epg": "v-gostiax-u-skazki"
   }
 ]

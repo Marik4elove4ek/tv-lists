@@ -179,7 +179,7 @@ if sum(ok.values()) < len(urls) // 5:
 
 def write(name, items, order, keep_always=False, rename=None):
     # Адрес телепрограммы прямо в плейлисте: приложение само берёт её оттуда (только для all.m3u)
-    lines = ['#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml.gz,https://epg.team/1.1.xml.gz"' if name == 'all.m3u' else '#EXTM3U']; n = 0
+    lines = ['#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/epg.xml.gz"' if name == 'all.m3u' else '#EXTM3U']; n = 0
     groups = collections.defaultdict(list)
     for s in items: groups[s['group']].append(s)
     for g in order + sorted(k for k in groups if k not in order):
