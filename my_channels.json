@@ -2349,5 +2349,152 @@
   {
     "id": "OTVPrim.ru@SD",
     "group": "📍 Россия: регионы"
+  },
+  {
+    "name": "Шоколад",
+    "url": "http://choco.hostingradio.ru:10010/fm",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=chocoradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 116
+  },
+  {
+    "name": "Романтика",
+    "url": "https://srv01.gpmradio.ru/stream/trust/mp3/256/794",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radioromantika.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 117
+  },
+  {
+    "name": "Жара FM",
+    "url": "https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara.png",
+    "order": 118
+  },
+  {
+    "name": "Монте-Карло",
+    "url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=montecarlo.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 119
+  },
+  {
+    "name": "Хит FM",
+    "url": "https://hitfm.hostingradio.ru/hitfm128.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=hitfm.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 121
+  },
+  {
+    "name": "Наше радио",
+    "url": "http://nashe1.hostingradio.ru/nashe-256",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=www.nashe.ru%2Ffavicons%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 122
+  },
+  {
+    "name": "Радио 7",
+    "url": "http://radio7server.streamr.ru:8040/radio7256.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radio7.ru%2Ffavicon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 123
+  },
+  {
+    "name": "Мегаполис",
+    "url": "https://online.radio-megapolis.ru/megapolis_mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radiomegapolis.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 124
+  },
+  {
+    "name": "Royal Radio 98.6",
+    "url": "https://royalradio.space/986FM",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=royalradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 125
+  },
+  {
+    "name": "Эльдорадио",
+    "url": "https://emgspb.hostingradio.ru/eldoradio128.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=eldoradio.ru%2Fapple-touch-icon.png%3Fv%3D4&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 126
+  },
+  {
+    "name": "Питер FM",
+    "url": "https://icecast-piterfm.cdnvideo.ru/piterfm",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radiopiterfm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 127
+  },
+  {
+    "name": "Радио Шансон",
+    "url": "https://chanson.hostingradio.ru:8041/chanson256.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radioshanson.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 128
+  },
+  {
+    "name": "Радио MV",
+    "url": "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=radiomv.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 129
+  },
+  {
+    "name": "Калина Красная",
+    "url": "http://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=kalina.fm%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 399
+  },
+  {
+    "name": "Радио Джаз",
+    "url": "http://jazz.streamr.ru/jazz-128.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "",
+    "order": 410
+  },
+  {
+    "name": "Детское радио",
+    "url": "https://pub0101.101.ru/stream/air/aac/64/199",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=detifm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 411
+  },
+  {
+    "name": "Relax FM",
+    "url": "https://hls-01-gpm.hostingradio.ru/relaxfm495/playlist.m3u8",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=relax-fm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 412
+  },
+  {
+    "name": "Радио Культура",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/kulturafm",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=cdn.smotrim.ru%2Fphotobank%2Fprod%2Fmedium%2F901%2F584%2F5.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 413
+  },
+  {
+    "name": "Москва FM",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/moscowfm128",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=www.m24.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 414
+  },
+  {
+    "name": "Серебряный дождь",
+    "url": "https://silverrain.hostingradio.ru/silver128.mp3",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=silver.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 415
+  },
+  {
+    "name": "BFM.ru",
+    "url": "https://bfm.hostingradio.ru:9075/fm",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": "https://images.weserv.nl/?url=bfm.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000",
+    "order": 499
   }
 ]

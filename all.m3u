@@ -321,8 +321,36 @@ https://hls-01-retro.emgsound.ru/12/playlist.m3u8
 https://rusradio.ru/t/radio/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/humorfm.png" group-title="📻 🇷🇺 Радио Россия",Юмор FM
 https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=chocoradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Шоколад
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radioromantika.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Романтика
+https://srv01.gpmradio.ru/stream/trust/mp3/256/794
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zhara.png" group-title="📻 🇷🇺 Радио Россия",Жара FM
+https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=montecarlo.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Монте-Карло
+https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dfm.ru/apple-icon.png" group-title="📻 🇷🇺 Радио Россия",DFM
 https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=hitfm.ru%2Fapple-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Хит FM
+https://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=www.nashe.ru%2Ffavicons%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Наше радио
+http://nashe1.hostingradio.ru/nashe-256
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radio7.ru%2Ffavicon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Радио 7
+http://radio7server.streamr.ru:8040/radio7256.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radiomegapolis.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Мегаполис
+https://online.radio-megapolis.ru/megapolis_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=royalradio.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Royal Radio 98.6
+https://royalradio.space/986FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=eldoradio.ru%2Fapple-touch-icon.png%3Fv%3D4&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Эльдорадио
+https://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radiopiterfm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Питер FM
+https://icecast-piterfm.cdnvideo.ru/piterfm
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radioshanson.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Радио Шансон
+https://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=radiomv.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Радио MV
+https://radiomv.hostingradio.ru:80/radiomv128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=kalina.fm%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Калина Красная
+http://icecast-studio21.cdnvideo.ru/KalynaK_1a
 #EXTINF:-1 tvg-id="" group-title="📻 🇷🇺 Радио Россия",Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://govoritmoskva.ru/static/images/logoGM_400x400.jpeg" group-title="📻 🇷🇺 Радио Россия",Говорит Москва
@@ -333,6 +361,20 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 https://podcast.smotrim.ru/radio/hls3/RadioMayak/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="📻 🇷🇺 Радио Россия",Радио России
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📻 🇷🇺 Радио Россия",Радио Джаз
+http://jazz.streamr.ru/jazz-128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=detifm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Детское радио
+https://pub0101.101.ru/stream/air/aac/64/199
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=relax-fm.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Relax FM
+https://hls-01-gpm.hostingradio.ru/relaxfm495/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=cdn.smotrim.ru%2Fphotobank%2Fprod%2Fmedium%2F901%2F584%2F5.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Радио Культура
+https://icecast-vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=www.m24.ru%2Ffavicon.ico&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Москва FM
+https://icecast-vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=silver.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Серебряный дождь
+https://silverrain.hostingradio.ru/silver128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=bfm.ru%2Fapple-touch-icon.png&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",BFM.ru
+https://bfm.hostingradio.ru:9075/fm
 #EXTINF:-1 tvg-id="" group-title="📍 Россия: регионы",12 канал Омск
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📍 Россия: регионы",TV Губерния Воронеж
