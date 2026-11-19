@@ -2629,11 +2629,13 @@
   },
   {
     "id": "5Gold.il@SD",
-    "epg": "sport5gold.il"
+    "epg": "sport5gold.il",
+    "title": "ספורט 5 גולד"
   },
   {
     "id": "5Live.il@SD",
-    "epg": "sport5live.il"
+    "epg": "sport5live.il",
+    "title": "ספורט 5 לייב"
   },
   {
     "id": "5Plus.il@SD",
@@ -2641,15 +2643,18 @@
   },
   {
     "id": "5Sport.il@SD",
-    "epg": "sport5hd.il"
+    "epg": "sport5hd.il",
+    "title": "ספורט 5"
   },
   {
     "id": "5Sport4K.il@SD",
-    "epg": "sport54k.il"
+    "epg": "sport54k.il",
+    "title": "ספורט 5 4K"
   },
   {
     "id": "5Stars.il@SD",
-    "epg": "sport5stars.il"
+    "epg": "sport5stars.il",
+    "title": "ספורט 5 סטארס"
   },
   {
     "name": "רדיו ספורט 5",
