@@ -4,7 +4,7 @@
 import gzip, io, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz', 'https://iptv-epg.org/files/epg-il.xml']  # epg.team: только ערוץ 10 и ערוץ 16
+SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz', 'https://iptv-epg.org/files/epg-il.xml', 'https://xmltv.live/epg/il.xml.gz', 'https://epg.today/guide/free/FreeIL.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
 DAYS = 3
 
 def parse_time(s):
@@ -25,7 +25,7 @@ def main(m3u, out):
             for ev, el in ET.iterparse(f, events=('end',)):
                 if el.tag == 'channel':
                     cid = el.get('id')
-                    if 'iptv-epg.org' in url and re.search(r'max|מקס', (cid or '') + ''.join(el.itertext()), re.I): print('MAXCAND', cid, ''.join(el.itertext()).strip())
+                    if re.search(r'max|מקס', (cid or '') + ''.join(el.itertext()), re.I): print('MAXCAND', url, cid, ''.join(el.itertext()).strip())
                     if cid in wanted and cid not in have:
                         chans.append(ET.tostring(el, encoding='unicode')); got.add(cid)
                     el.clear()
