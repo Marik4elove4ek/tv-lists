@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Собирает свой маленький файл телепрограммы epg.xml.gz только для каналов из all.m3u.
 Израиль берётся из open-epg, остальные каналы из iptvx.one, каналы 10 и 16 из epg.team. Только вперёд: сейчас идущая передача и ближайшие 3 дня."""
-import gzip, io, re, sys, urllib.request, xml.etree.ElementTree as ET
+import gzip, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz', 'https://iptv-epg.org/files/epg-il.xml', 'https://xmltv.live/epg/il.xml.gz', 'https://epg.today/guide/free/FreeIL.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
+SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
 DAYS = 3
 
 def parse_time(s):
@@ -19,13 +19,11 @@ def main(m3u, out):
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             raw = urllib.request.urlopen(req, timeout=300)
-            br = io.BufferedReader(raw)
-            f = gzip.GzipFile(fileobj=br) if br.peek(2)[:2] == b'\x1f\x8b' else br
+            f = gzip.GzipFile(fileobj=raw)
             got = set()
             for ev, el in ET.iterparse(f, events=('end',)):
                 if el.tag == 'channel':
                     cid = el.get('id')
-                    if re.search(r'max|מקס', (cid or '') + ''.join(el.itertext()), re.I): print('MAXCAND', url, cid, ''.join(el.itertext()).strip())
                     if cid in wanted and cid not in have:
                         chans.append(ET.tostring(el, encoding='unicode')); got.add(cid)
                     el.clear()
