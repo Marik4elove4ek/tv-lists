@@ -2724,7 +2724,8 @@
   },
   {
     "id": "ArutzHaYeladim.il@SD",
-    "epg": "kids.il"
+    "epg": "kids.il",
+    "title": "ערוץ הילדים"
   },
   {
     "id": "Foody.il@SD",
@@ -2732,30 +2733,41 @@
   },
   {
     "id": "Junior.il@SD",
-    "epg": "junior.il"
+    "epg": "junior.il",
+    "title": "ג'וניור"
   },
   {
     "id": "MusicIL.il@SD",
-    "epg": "music.il"
+    "epg": "music.il",
+    "title": "מיוזיק ישראל"
   },
   {
     "id": "One2.il@SD",
-    "epg": "one2.il"
+    "epg": "one2.il",
+    "title": "וואן 2"
   },
   {
     "id": "OneDoco.il@SD",
-    "epg": "onedoco.il"
+    "epg": "onedoco.il",
+    "title": "וואן דוקו"
   },
   {
     "id": "OneEdge.il@SD",
-    "epg": "oneedge.il"
+    "epg": "oneedge.il",
+    "title": "וואן אדג'"
   },
   {
     "id": "VivaIstanbul.il@SD",
-    "epg": "vivainstanbul.il"
+    "epg": "vivainstanbul.il",
+    "title": "ויוה איסטנבול"
   },
   {
     "id": "VivaTelenovelas.il@SD",
-    "epg": "vivatelanovela.il"
+    "epg": "vivatelanovela.il",
+    "title": "ויוה טלנובלות"
+  },
+  {
+    "id": "5Max.il@SD",
+    "title": "ספורט 5 מקס"
   }
 ]
