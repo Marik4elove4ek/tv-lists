@@ -2731,7 +2731,8 @@
   {
     "id": "ArutzHaYeladim.il@SD",
     "epg": "kids.il",
-    "title": "ערוץ הילדים"
+    "title": "ערוץ הילדים",
+    "order": 103
   },
   {
     "id": "Foody.il@SD",
@@ -2740,7 +2741,8 @@
   {
     "id": "Junior.il@SD",
     "epg": "junior.il",
-    "title": "ג'וניור"
+    "title": "ג'וניור",
+    "order": 104
   },
   {
     "id": "MusicIL.il@SD",
