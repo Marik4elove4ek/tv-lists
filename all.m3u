@@ -315,8 +315,8 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png" group-title="🇷🇺 Россия",Теледом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="🇷🇺 Россия",Soyuzny
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="🇷🇺 Россия",Kongress TV
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png" group-title="🇷🇺 Россия",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png" group-title="🇷🇺 Россия",Мир (международный эфир)
@@ -569,6 +569,8 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="⚽ Спорт",Eurosport 2 Russia
 https://s7.iptv-24.net/1452/playlist.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
@@ -603,6 +605,8 @@ http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="🧸 Детские",Smotrim 100% Detskoe
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Tooku.ru@SD" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="🧸 Детские",Tooku
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="🧸 Детские",V gostyakh u skazki
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="Другие страны",Apsua TV
@@ -623,8 +627,6 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="🎬 Кино и сериалы",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="🎬 Кино и сериалы",Balabol
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино и сериалы",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино и сериалы",viju TV1000 action
@@ -679,6 +681,8 @@ https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино и сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино и сериалы",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="🎬 Кино и сериалы",СТАРТ Air
@@ -897,8 +901,6 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyDestinationTV.us@SD" tvg-logo="https://i.imgur.com/VJndl0m.png" group-title="📷 Виды и путешествия",MyDestination.TV
 https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" group-title="📷 Виды и путешествия",NOTV New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="PalmBeachesTV.us@SD" tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="📷 Виды и путешествия",Palm Beaches TV
 https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="📷 Виды и путешествия",Peer TV Alto Adige
