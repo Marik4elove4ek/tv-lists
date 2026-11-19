@@ -2721,5 +2721,41 @@
   {
     "id": "Vgostyakhuskazki.ru@SD",
     "epg": "v-gostiax-u-skazki"
+  },
+  {
+    "id": "ArutzHaYeladim.il@SD",
+    "epg": "kids.il"
+  },
+  {
+    "id": "Foody.il@SD",
+    "epg": "foody.il"
+  },
+  {
+    "id": "Junior.il@SD",
+    "epg": "junior.il"
+  },
+  {
+    "id": "MusicIL.il@SD",
+    "epg": "music.il"
+  },
+  {
+    "id": "One2.il@SD",
+    "epg": "one2.il"
+  },
+  {
+    "id": "OneDoco.il@SD",
+    "epg": "onedoco.il"
+  },
+  {
+    "id": "OneEdge.il@SD",
+    "epg": "oneedge.il"
+  },
+  {
+    "id": "VivaIstanbul.il@SD",
+    "epg": "vivainstanbul.il"
+  },
+  {
+    "id": "VivaTelenovelas.il@SD",
+    "epg": "vivatelanovela.il"
   }
 ]
