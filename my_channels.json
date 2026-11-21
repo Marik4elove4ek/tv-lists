@@ -908,7 +908,7 @@
     "url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png",
-    "order": 53,
+    "order": 153,
     "epg": "teledom"
   },
   {
@@ -959,7 +959,7 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
     "pin": true,
     "epg": "ch392",
-    "order": 20
+    "order": 17
   },
   {
     "name": "НТВ Стиль",
@@ -967,7 +967,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png",
     "epg": "ntv-style",
-    "order": 23
+    "order": 20
   },
   {
     "name": "НТВ Сериал",
@@ -975,7 +975,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
     "epg": "ntv-serial",
-    "order": 22
+    "order": 19
   },
   {
     "name": "НТВ Право",
@@ -983,7 +983,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
     "epg": "ntv-pravo",
-    "order": 21
+    "order": 18
   },
   {
     "name": "DFM",
@@ -1025,7 +1025,8 @@
     "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
-    "epg": "zvezda"
+    "epg": "zvezda",
+    "order": 25
   },
   {
     "name": "Известия",
@@ -1039,7 +1040,8 @@
     "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
-    "epg": "mir"
+    "epg": "mir",
+    "order": 22
   },
   {
     "name": "Мир 24",
@@ -1326,7 +1328,7 @@
     "id": "Domashniy.ru@SD",
     "epg": "domashnij",
     "group": "Россия",
-    "order": 14,
+    "order": 7,
     "title": "Домашний"
   },
   {
@@ -1356,7 +1358,7 @@
     "id": "RTViUS.us@SD",
     "epg": "rtvi",
     "group": "Россия",
-    "order": 17
+    "order": 117
   },
   {
     "id": "CurrentTimeTV.cz@SD",
@@ -1526,7 +1528,7 @@
   {
     "id": "TVRUS.de@SD",
     "group": "Россия",
-    "order": 32,
+    "order": 132,
     "title": "ТВ Рус"
   },
   {
@@ -1571,7 +1573,7 @@
   },
   {
     "id": "Friday.ru@SD",
-    "order": 14,
+    "order": 12,
     "title": "Пятница",
     "epg": "piatnica"
   },
@@ -1595,7 +1597,7 @@
   },
   {
     "id": "Mir.ru@HD",
-    "order": 27,
+    "order": 21,
     "title": "Мир HD",
     "epg": "mir"
   },
@@ -1606,7 +1608,7 @@
   },
   {
     "id": "Channel8.ru@SD",
-    "order": 9,
+    "order": 8,
     "title": "Канал 8",
     "epg": "8kanal-ru"
   },
@@ -1617,28 +1619,28 @@
   },
   {
     "id": "Russia1.ru@HD",
-    "order": 16,
+    "order": 116,
     "title": "Россия 1 HD",
     "epg": "rossia1"
   },
   {
     "id": "RTRPlaneta.ru@Asia",
-    "order": 17
+    "order": 15
   },
   {
     "id": "Rossiya1Vainah.ru@SD",
-    "order": 18,
+    "order": 118,
     "title": "Россия 1 Вайнах"
   },
   {
     "id": "Subbota.ru@SD",
-    "order": 15,
+    "order": 13,
     "title": "Суббота",
     "epg": "ch414"
   },
   {
     "id": "RENTV.ru@SD",
-    "order": 12,
+    "order": 112,
     "title": "РЕН ТВ",
     "epg": "rentv"
   },
@@ -1650,7 +1652,7 @@
   },
   {
     "id": "U.ru@SD",
-    "order": 7,
+    "order": 6,
     "title": "Ю",
     "epg": "yu"
   },
@@ -1778,7 +1780,7 @@
     "name": "НТВ",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
     "group": "Россия",
-    "order": 19,
+    "order": 16,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png",
     "epg": "ntv"
   },
@@ -1792,7 +1794,7 @@
     "name": "ОТР",
     "url": "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3ffERVHR2A6W355xPh93vg&e=2094516011&scheme=https",
     "group": "Россия",
-    "order": 28,
+    "order": 128,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
     "epg": "otr"
   },
@@ -1843,7 +1845,7 @@
   {
     "id": "2x2.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png",
-    "order": 33,
+    "order": 133,
     "epg": "2na2"
   },
   {
@@ -1853,7 +1855,7 @@
   {
     "id": "OTR.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
-    "order": 29,
+    "order": 129,
     "epg": "otr"
   },
   {
@@ -2307,11 +2309,11 @@
   },
   {
     "id": "mir",
-    "order": 26
+    "order": 21
   },
   {
     "id": "domashnij",
-    "order": 4,
+    "order": 7,
     "epg": "domashny"
   },
   {
@@ -2320,29 +2322,29 @@
   },
   {
     "id": "ntv-pravo",
-    "order": 21
+    "order": 18
   },
   {
     "id": "ntv-serial",
-    "order": 22
+    "order": 19
   },
   {
     "id": "ntv-style",
-    "order": 23
+    "order": 20
   },
   {
     "id": "rtvi",
-    "order": 31,
+    "order": 131,
     "epg": "rtvi-usa"
   },
   {
     "id": "360.ru@SD",
-    "order": 30,
+    "order": 9,
     "epg": "360-podmoskovie"
   },
   {
     "id": "Istoki.ru@SD",
-    "order": 34,
+    "order": 134,
     "title": "Истоки"
   },
   {
@@ -2352,86 +2354,86 @@
   },
   {
     "id": "MoskvaDoveriye.ru@SD",
-    "order": 36,
+    "order": 136,
     "title": "Москва. Доверие",
     "epg": "doverie"
   },
   {
     "id": "Moymir.ru@SD",
-    "order": 37,
+    "order": 137,
     "title": "Мой мир"
   },
   {
     "id": "Nostalgia.ru@SD",
-    "order": 38,
+    "order": 138,
     "title": "Ностальгия",
     "epg": "nostalgia"
   },
   {
     "id": "Prodvizhenie.ru@SD",
-    "order": 39,
+    "order": 139,
     "title": "Продвижение",
     "epg": "prodvizhenie"
   },
   {
     "id": "Retro.ru@SD",
-    "order": 40,
+    "order": 140,
     "title": "Ретро",
     "epg": "retro-tv"
   },
   {
     "id": "Rus.ru@SD",
-    "order": 41,
+    "order": 141,
     "title": "Русь"
   },
   {
     "id": "SanktPeterburg.ru@HD",
-    "order": 42,
+    "order": 27,
     "title": "Санкт-Петербург HD",
     "epg": "sankt-peterburg"
   },
   {
     "id": "Smotrim100Prazdnik.ru@SD",
-    "order": 43,
+    "order": 143,
     "title": "Смотрим 100% Праздник",
     "epg": "smotrim-100-prazdnik"
   },
   {
     "id": "SochiLive.ru@HD",
-    "order": 44,
+    "order": 144,
     "title": "Сочи Лайв HD"
   },
   {
     "id": "TVCentr.ru@SD",
-    "order": 24,
+    "order": 23,
     "title": "ТВ Центр",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png",
     "epg": "tvcentr"
   },
   {
     "id": "TVCentrInternational.ru@SD",
-    "order": 25,
+    "order": 24,
     "title": "ТВ Центр Интернешнл",
     "epg": "tvci"
   },
   {
     "id": "ZvezdaPlus.ru@HD",
-    "order": 45,
+    "order": 26,
     "title": "Звезда Плюс HD",
     "epg": "zvezda-plus"
   },
   {
     "id": "AbazaTV.ru@SD",
-    "order": 46
+    "order": 146
   },
   {
     "id": "AISTTV.ru@SD",
-    "order": 47,
+    "order": 147,
     "epg": "aist"
   },
   {
     "id": "Aris24.ru@SD",
-    "order": 48
+    "order": 148
   },
   {
     "id": "BigAsia.ru@SD",
@@ -2440,20 +2442,20 @@
   },
   {
     "id": "VmesteRF.ru@SD",
-    "order": 49,
+    "order": 149,
     "epg": "vmeste-rf"
   },
   {
     "id": "ZaTV.ru@SD",
-    "order": 50
+    "order": 150
   },
   {
     "id": "zvezda",
-    "order": 51
+    "order": 25
   },
   {
     "id": "OSN.ru@SD",
-    "order": 52
+    "order": 152
   },
   {
     "id": "OTVPrim.ru@SD",
@@ -2612,7 +2614,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8",
     "group": "Россия",
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "order": 12,
+    "order": 14,
     "epg": "rossia1"
   },
   {
@@ -2620,7 +2622,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 13,
+    "order": 113,
     "epg": "kultura"
   },
   {
@@ -2628,7 +2630,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 14,
+    "order": 114,
     "epg": "rossia-24"
   },
   {
@@ -2807,6 +2809,7 @@
     "name": "ЧЕ",
     "url": "https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=h7U_nE6b2-ZGu95WadoQRg&e=2095272357&scheme=https",
     "group": "Россия",
-    "logo": ""
+    "logo": "",
+    "order": 11
   }
 ]
