@@ -1332,7 +1332,8 @@
   {
     "id": "EuronewsRussian.fr@SD",
     "epg": "evronews",
-    "group": "📰 Новости"
+    "group": "📰 Новости",
+    "order": 4
   },
   {
     "id": "Eurosport1.fr@Russia",
@@ -1348,7 +1349,8 @@
     "id": "FREEDOM.ua@SD",
     "epg": "freedom-ua-hd",
     "group": "📰 Новости",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_freedom.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_freedom.png",
+    "order": 3
   },
   {
     "id": "RTViUS.us@SD",
@@ -1359,7 +1361,8 @@
   {
     "id": "CurrentTimeTV.cz@SD",
     "epg": "nastoyaschee-vremia",
-    "group": "📰 Новости"
+    "group": "📰 Новости",
+    "order": 2
   },
   {
     "id": "KinoTV.ru@HD",
@@ -1501,7 +1504,8 @@
   {
     "id": "DW.de@Russian",
     "group": "📰 Новости",
-    "epg": "deutsche-welle-ru"
+    "epg": "deutsche-welle-ru",
+    "order": 1
   },
   {
     "id": "RTN.us@SD",
