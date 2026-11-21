@@ -2791,12 +2791,6 @@
     "order": 416
   },
   {
-    "name": "Ost West 24",
-    "url": "http://stream.mcquack.net/455/index.m3u8",
-    "group": "📰 Новости",
-    "logo": ""
-  },
-  {
     "name": "НТН",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
     "group": "🇺🇦 Украина",
