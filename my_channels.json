@@ -1847,7 +1847,8 @@
     "id": "2x2.ru@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png",
     "order": 133,
-    "epg": "2na2"
+    "epg": "2na2",
+    "deleted": true
   },
   {
     "id": "Ohotnikirybolov.ru@SD",
