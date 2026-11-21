@@ -2887,7 +2887,7 @@
   },
   {
     "name": "Viva Old TV",
-    "url": "https://ritsatv.ru/vkplay/oldclip/720",
+    "url": "https://ritsatv.ru/vkplay/oldclip/720|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "logo": ""
   }
