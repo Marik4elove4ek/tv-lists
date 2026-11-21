@@ -2137,15 +2137,18 @@
   },
   {
     "id": "ViasatKinoComedy.ua@SD",
-    "title": "Виасат Кино Комедия"
+    "title": "Виасат Кино Комедия",
+    "deleted": true
   },
   {
     "id": "ViasatKinoWorld.ua@SD",
-    "title": "Виасат Кино Мир"
+    "title": "Виасат Кино Мир",
+    "deleted": true
   },
   {
     "id": "ViasatSerial.ua@HD",
-    "title": "Виасат Сериал"
+    "title": "Виасат Сериал",
+    "deleted": true
   },
   {
     "id": "Kino1.ru@International",
