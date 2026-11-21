@@ -1914,8 +1914,7 @@
   },
   {
     "id": "NTVVitrina.ru@SD",
-    "group": "📚 Познавательные",
-    "title": "НТВ Витрина"
+    "deleted": true
   },
   {
     "id": "Bober.ru@SD",
@@ -2878,8 +2877,9 @@
   {
     "name": "Центральное телевидение",
     "url": "https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=9O58f7BCu-qTDo3eMpazdA&e=2095282305&scheme=https",
-    "group": "📚 Познавательные",
-    "logo": ""
+    "group": "🇷🇺 Россия",
+    "logo": "",
+    "order": 31
   },
   {
     "name": "Тайна ТВ",
