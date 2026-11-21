@@ -959,7 +959,7 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
     "pin": true,
     "epg": "ch392",
-    "order": 18
+    "order": 20
   },
   {
     "name": "НТВ Стиль",
@@ -967,7 +967,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png",
     "epg": "ntv-style",
-    "order": 21
+    "order": 23
   },
   {
     "name": "НТВ Сериал",
@@ -975,7 +975,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
     "epg": "ntv-serial",
-    "order": 20
+    "order": 22
   },
   {
     "name": "НТВ Право",
@@ -983,7 +983,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
     "epg": "ntv-pravo",
-    "order": 19
+    "order": 21
   },
   {
     "name": "DFM",
@@ -1026,7 +1026,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
     "epg": "zvezda",
-    "order": 26
+    "order": 29
   },
   {
     "name": "Известия",
@@ -1041,7 +1041,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
     "epg": "mir",
-    "order": 23
+    "order": 25
   },
   {
     "name": "Мир 24",
@@ -1328,7 +1328,7 @@
     "id": "Domashniy.ru@SD",
     "epg": "domashnij",
     "group": "Россия",
-    "order": 7,
+    "order": 11,
     "title": "Домашний"
   },
   {
@@ -1573,7 +1573,7 @@
   },
   {
     "id": "Friday.ru@SD",
-    "order": 12,
+    "order": 14,
     "title": "Пятница",
     "epg": "piatnica"
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "Mir.ru@HD",
-    "order": 22,
+    "order": 24,
     "title": "Мир HD",
     "epg": "mir"
   },
@@ -1625,22 +1625,23 @@
   },
   {
     "id": "RTRPlaneta.ru@Asia",
-    "order": 16
+    "order": 18
   },
   {
     "id": "Rossiya1Vainah.ru@SD",
     "order": 118,
-    "title": "Россия 1 Вайнах"
+    "title": "Россия 1 Вайнах",
+    "group": "📍 Россия: регионы"
   },
   {
     "id": "Subbota.ru@SD",
-    "order": 13,
+    "order": 15,
     "title": "Суббота",
     "epg": "ch414"
   },
   {
     "id": "RENTV.ru@SD",
-    "order": 14,
+    "order": 16,
     "title": "РЕН ТВ",
     "epg": "rentv"
   },
@@ -1780,7 +1781,7 @@
     "name": "НТВ",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
     "group": "Россия",
-    "order": 17,
+    "order": 19,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png",
     "epg": "ntv"
   },
@@ -2312,11 +2313,11 @@
   },
   {
     "id": "mir",
-    "order": 22
+    "order": 24
   },
   {
     "id": "domashnij",
-    "order": 7,
+    "order": 11,
     "epg": "domashny"
   },
   {
@@ -2325,15 +2326,15 @@
   },
   {
     "id": "ntv-pravo",
-    "order": 19
+    "order": 21
   },
   {
     "id": "ntv-serial",
-    "order": 20
+    "order": 22
   },
   {
     "id": "ntv-style",
-    "order": 21
+    "order": 23
   },
   {
     "id": "rtvi",
@@ -2391,7 +2392,7 @@
   },
   {
     "id": "SanktPeterburg.ru@HD",
-    "order": 28,
+    "order": 31,
     "title": "Санкт-Петербург HD",
     "epg": "sankt-peterburg"
   },
@@ -2408,20 +2409,20 @@
   },
   {
     "id": "TVCentr.ru@SD",
-    "order": 24,
+    "order": 26,
     "title": "ТВ Центр",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png",
     "epg": "tvcentr"
   },
   {
     "id": "TVCentrInternational.ru@SD",
-    "order": 25,
+    "order": 27,
     "title": "ТВ Центр Интернешнл",
     "epg": "tvci"
   },
   {
     "id": "ZvezdaPlus.ru@HD",
-    "order": 27,
+    "order": 30,
     "title": "Звезда Плюс HD",
     "epg": "zvezda-plus"
   },
@@ -2454,7 +2455,7 @@
   },
   {
     "id": "zvezda",
-    "order": 26
+    "order": 29
   },
   {
     "id": "OSN.ru@SD",
@@ -2617,7 +2618,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8",
     "group": "Россия",
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "order": 15,
+    "order": 17,
     "epg": "rossia1"
   },
   {
@@ -2812,7 +2813,7 @@
     "url": "https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=h7U_nE6b2-ZGu95WadoQRg&e=2095272357&scheme=https",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/che.png",
-    "order": 11
+    "order": 13
   },
   {
     "name": "Эхо ТВ",
@@ -2879,7 +2880,7 @@
     "url": "https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=9O58f7BCu-qTDo3eMpazdA&e=2095282305&scheme=https",
     "group": "🇷🇺 Россия",
     "logo": "",
-    "order": 31
+    "order": 28
   },
   {
     "name": "Тайна ТВ",
@@ -2962,14 +2963,14 @@
     "url": "https://ritsatv.ru/stream/000007833/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🇷🇺 Россия",
     "logo": "",
-    "order": 29
+    "order": 12
   },
   {
     "name": "7ТВ",
     "url": "https://v4.proofix.ru/7tv-live/playlist.m3u8",
     "group": "🇷🇺 Россия",
     "logo": "",
-    "order": 30
+    "order": 7
   },
   {
     "name": "ТАСС",
@@ -3060,24 +3061,6 @@
     "url": "https://ritsatv.ru/rutlive/travel#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
     "logo": ""
-  },
-  {
-    "name": "Россия-РТР (HD)",
-    "url": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d",
-    "group": "🇷🇺 Россия",
-    "logo": "https://i.imgur.com/0YEahxs.png"
-  },
-  {
-    "name": "BabyFirst (HD)",
-    "url": "http://168.196.127.137:6001/play/a06j/index.m3u8",
-    "group": "🧸 Детские",
-    "logo": "https://i.imgur.com/WxLHBwu.png"
-  },
-  {
-    "name": "Болливуд HD Россия (HD)",
-    "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
-    "group": "🎬 Кино и сериалы",
-    "logo": "https://i.imgur.com/scDKOLS.png"
   },
   {
     "name": "Bloomberg TV Europe (HD)",
