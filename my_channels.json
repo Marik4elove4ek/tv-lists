@@ -2785,5 +2785,11 @@
     "group": "📻 🇷🇺 Радио Россия",
     "logo": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.svoboda.org%2FContent%2Fresponsive%2FRFE%2Fru-RU%2Fimg%2Flogo-compact.svg&output=png&w=512&h=512&fit=contain&cbg=00000000",
     "order": 416
+  },
+  {
+    "name": "Ost West 24",
+    "url": "http://stream.mcquack.net/455/index.m3u8",
+    "group": "📰 Новости",
+    "logo": ""
   }
 ]
