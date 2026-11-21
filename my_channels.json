@@ -1654,7 +1654,8 @@
     "id": "U.ru@SD",
     "order": 6,
     "title": "Ю",
-    "epg": "yu"
+    "epg": "yu",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/yu.png"
   },
   {
     "id": "Moskva24.ru@SD",
@@ -2803,7 +2804,7 @@
     "url": "https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=UPzGZMqDBteY0XSOvg746g&e=2095271765&scheme=https",
     "group": "Россия",
     "order": 1,
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/perviy.png"
   },
   {
     "name": "ЧЕ",
