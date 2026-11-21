@@ -2727,7 +2727,8 @@
   },
   {
     "id": "NickJr.ru@SD",
-    "epg": "nick-jr"
+    "epg": "nick-jr",
+    "order": 2
   },
   {
     "id": "Smotrim100Detskoe.ru@SD",
@@ -3073,5 +3074,86 @@
     "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
     "group": "📰 Новости мира",
     "logo": "https://i.imgur.com/iE1izWq.png"
+  },
+  {
+    "name": "Disney Junior",
+    "url": "https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 1
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "https://ritsatv.ru/stream/000000499/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 4
+  },
+  {
+    "name": "Nicktoons",
+    "url": "https://ritsatv.ru/stream/000004365/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 5
+  },
+  {
+    "name": "Disney Channel",
+    "url": "https://ritsatv.ru/rutlive/kartoon/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 6
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "https://ritsatv.ru/rutlive/cartoon/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 7
+  },
+  {
+    "name": "Jetix",
+    "url": "https://ritsatv.ru/vkplay/jetix/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 8
+  },
+  {
+    "name": "Карусель",
+    "url": "https://ritsatv.ru/stream/000000781/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 9
+  },
+  {
+    "name": "СТС Kids",
+    "url": "https://stream1.cinerama.uz/1437/playlist.m3u8",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 10
+  },
+  {
+    "name": "Мульт",
+    "url": "https://s1.iptv-24.net/1246/index.m3u8",
+    "group": "🧸 Детские",
+    "logo": "",
+    "order": 11
+  },
+  {
+    "name": "Том и Джерри",
+    "url": "https://ritsatv.ru/ccast/43075#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": ""
+  },
+  {
+    "name": "Star Wars",
+    "url": "https://ritsatv.ru/rutlive/starwars/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": ""
+  },
+  {
+    "name": "Cartoons VHS-ka",
+    "url": "https://ritsatv.ru/vkplay/myvhs/720#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🧸 Детские",
+    "logo": ""
   }
 ]
