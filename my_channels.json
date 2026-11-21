@@ -3074,34 +3074,10 @@
     "logo": "https://i.imgur.com/WxLHBwu.png"
   },
   {
-    "name": "Evrokino (HD)",
-    "url": "http://stream.mcquack.net/385/index.m3u8",
-    "group": "🎬 Кино и сериалы",
-    "logo": "https://i.imgur.com/8LPtPf6.png"
-  },
-  {
     "name": "Болливуд HD Россия (HD)",
     "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://i.imgur.com/scDKOLS.png"
-  },
-  {
-    "name": "Дорама (HD)",
-    "url": "http://stream.mcquack.net/412/index.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.36",
-    "group": "🎬 Кино и сериалы",
-    "logo": "https://i.imgur.com/ZH5LuXU.png"
-  },
-  {
-    "name": "Ohotnik i rybolov (HD)",
-    "url": "http://stream.mcquack.net/194/index.m3u8",
-    "group": "📚 Познавательные",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ohota.png"
-  },
-  {
-    "name": "Приключения (HD)",
-    "url": "http://stream.mcquack.net/198/index.m3u8",
-    "group": "📚 Познавательные",
-    "logo": "https://i.imgur.com/qQ6pPPQ.png"
   },
   {
     "name": "Bloomberg TV Europe (HD)",
