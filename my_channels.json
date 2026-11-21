@@ -959,7 +959,7 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
     "pin": true,
     "epg": "ch392",
-    "order": 1
+    "order": 11
   },
   {
     "name": "НТВ Стиль",
@@ -1564,7 +1564,7 @@
   },
   {
     "id": "STS.ru@SD",
-    "order": 1,
+    "order": 2,
     "title": "СТС",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts.png",
     "epg": "sts"
@@ -1588,7 +1588,7 @@
   },
   {
     "id": "Channel5.ru@SD",
-    "order": 6,
+    "order": 4,
     "title": "Пятый канал",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png",
     "epg": "5kanal-ru"
@@ -2302,7 +2302,7 @@
   },
   {
     "id": "STSInternational.ru@SD",
-    "order": 2,
+    "order": 12,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_sts_international.png"
   },
   {
@@ -2612,7 +2612,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8",
     "group": "Россия",
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "order": 2,
+    "order": 12,
     "epg": "rossia1"
   },
   {
@@ -2620,7 +2620,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 3,
+    "order": 13,
     "epg": "kultura"
   },
   {
@@ -2628,7 +2628,7 @@
     "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8",
     "group": "Россия",
     "logo": "",
-    "order": 4,
+    "order": 14,
     "epg": "rossia-24"
   },
   {
@@ -2800,7 +2800,7 @@
     "name": "Первый канал",
     "url": "https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=UPzGZMqDBteY0XSOvg746g&e=2095271765&scheme=https",
     "group": "Россия",
-    "order": 5,
+    "order": 1,
     "logo": ""
   }
 ]
