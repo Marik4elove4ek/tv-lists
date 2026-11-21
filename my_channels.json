@@ -2882,14 +2882,14 @@
   },
   {
     "name": "Viva Old TV (долго грузится)",
-    "url": "https://ritsatv.ru/vkplay/oldclip/720#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "url": "https://ritsatv.ru/vkplay/oldclip/720|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/viva_old.png",
     "order": 1
   },
   {
     "name": "Ritsa TV (долго грузится)",
-    "url": "https://ritsatv.ru/oklive2/ritsatv/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "url": "https://ritsatv.ru/oklive2/ritsatv/720|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ritsa.png",
     "order": 5
@@ -2907,5 +2907,12 @@
     "group": "🎵 Музыка",
     "logo": "https://i.imgur.com/OFhQQCD.png",
     "order": 1
+  },
+  {
+    "name": "Ritsa TV тест",
+    "url": "https://ritsatv.ru/oklive2/ritsatv/720#.ts|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🎵 Музыка",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ritsa.png",
+    "order": 9
   }
 ]
