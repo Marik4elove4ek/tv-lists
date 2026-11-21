@@ -1673,13 +1673,8 @@
     "epg": "sochi24"
   },
   {
-    "name": "VIVA Russia",
-    "url": "https://streams.thefoxhole.app/live/203336/master.m3u8",
-    "group": "🎵 Музыка",
-    "logo": "https://i.imgur.com/OFhQQCD.png",
     "id": "VIVARussia.ru@SD",
-    "pin": true,
-    "order": 2
+    "deleted": true
   },
   {
     "name": "City TV (Болгария)",
