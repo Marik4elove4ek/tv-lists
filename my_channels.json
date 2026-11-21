@@ -2804,13 +2804,13 @@
     "url": "https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=UPzGZMqDBteY0XSOvg746g&e=2095271765&scheme=https",
     "group": "Россия",
     "order": 1,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/perviy.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/perviy2.png"
   },
   {
     "name": "ЧЕ",
     "url": "https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=h7U_nE6b2-ZGu95WadoQRg&e=2095272357&scheme=https",
     "group": "Россия",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/che.png",
     "order": 11
   }
 ]
