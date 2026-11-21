@@ -21,6 +21,8 @@ http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Россия",Shanson TV
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="🎵 Россия",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="🎵 Россия",VIVA Russia
 https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="🎵 Россия",Муз союз
@@ -29,10 +31,14 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="🎵 Россия",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenPlay.ru@HD" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="🎵 Россия",Сити Эдем Play Христианский Музыкальный
+https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru@HD" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="🎵 Россия",Сити Эдем Бирма Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="🎵 Россия",Сити Эдем Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru@HD" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="🎵 Россия",Сити Эдем Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="🎵 Россия",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" tvg-logo="https://i.imgur.com/PAw36qJ.png" group-title="🎵 Украина",Happy Radio TV
@@ -317,6 +323,8 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="🎵 Франция",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="🎵 Франция",Mezzo Live
+http://45.84.187.172:3001/udp/239.10.10.76:5000|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F130.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🎵 Франция",P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaFolk.fr@HD" group-title="🎵 Франция",Persiana Folk
