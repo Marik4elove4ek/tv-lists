@@ -959,7 +959,7 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png",
     "pin": true,
     "epg": "ch392",
-    "order": 17
+    "order": 18
   },
   {
     "name": "НТВ Стиль",
@@ -967,7 +967,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_style.png",
     "epg": "ntv-style",
-    "order": 20
+    "order": 21
   },
   {
     "name": "НТВ Сериал",
@@ -975,7 +975,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_serial.png",
     "epg": "ntv-serial",
-    "order": 19
+    "order": 20
   },
   {
     "name": "НТВ Право",
@@ -983,7 +983,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_pravo.png",
     "epg": "ntv-pravo",
-    "order": 18
+    "order": 19
   },
   {
     "name": "DFM",
@@ -1026,7 +1026,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_zvezda.png",
     "epg": "zvezda",
-    "order": 25
+    "order": 26
   },
   {
     "name": "Известия",
@@ -1041,7 +1041,7 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png",
     "epg": "mir",
-    "order": 22
+    "order": 23
   },
   {
     "name": "Мир 24",
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "Mir.ru@HD",
-    "order": 21,
+    "order": 22,
     "title": "Мир HD",
     "epg": "mir"
   },
@@ -1625,7 +1625,7 @@
   },
   {
     "id": "RTRPlaneta.ru@Asia",
-    "order": 15
+    "order": 16
   },
   {
     "id": "Rossiya1Vainah.ru@SD",
@@ -1640,7 +1640,7 @@
   },
   {
     "id": "RENTV.ru@SD",
-    "order": 112,
+    "order": 15,
     "title": "РЕН ТВ",
     "epg": "rentv"
   },
@@ -1781,7 +1781,7 @@
     "name": "НТВ",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https",
     "group": "Россия",
-    "order": 16,
+    "order": 17,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png",
     "epg": "ntv"
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "id": "mir",
-    "order": 21
+    "order": 22
   },
   {
     "id": "domashnij",
@@ -2320,19 +2320,19 @@
   },
   {
     "id": "ntv-mir",
-    "order": 20
+    "order": 21
   },
   {
     "id": "ntv-pravo",
-    "order": 18
-  },
-  {
-    "id": "ntv-serial",
     "order": 19
   },
   {
-    "id": "ntv-style",
+    "id": "ntv-serial",
     "order": 20
+  },
+  {
+    "id": "ntv-style",
+    "order": 21
   },
   {
     "id": "rtvi",
@@ -2390,7 +2390,7 @@
   },
   {
     "id": "SanktPeterburg.ru@HD",
-    "order": 27,
+    "order": 28,
     "title": "Санкт-Петербург HD",
     "epg": "sankt-peterburg"
   },
@@ -2407,20 +2407,20 @@
   },
   {
     "id": "TVCentr.ru@SD",
-    "order": 23,
+    "order": 24,
     "title": "ТВ Центр",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png",
     "epg": "tvcentr"
   },
   {
     "id": "TVCentrInternational.ru@SD",
-    "order": 24,
+    "order": 25,
     "title": "ТВ Центр Интернешнл",
     "epg": "tvci"
   },
   {
     "id": "ZvezdaPlus.ru@HD",
-    "order": 26,
+    "order": 27,
     "title": "Звезда Плюс HD",
     "epg": "zvezda-plus"
   },
@@ -2453,7 +2453,7 @@
   },
   {
     "id": "zvezda",
-    "order": 25
+    "order": 26
   },
   {
     "id": "OSN.ru@SD",
