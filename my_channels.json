@@ -2802,5 +2802,11 @@
     "group": "Россия",
     "order": 1,
     "logo": ""
+  },
+  {
+    "name": "ЧЕ",
+    "url": "https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=h7U_nE6b2-ZGu95WadoQRg&e=2095272357&scheme=https",
+    "group": "Россия",
+    "logo": ""
   }
 ]
