@@ -243,6 +243,10 @@ http://31.148.5.241/kanal_16/index.m3u8
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="🇷🇺 Россия",Россия Один
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="🇷🇺 Россия",РЕН ТВ
+http://31.148.5.241/kanal_11/index.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="🇷🇺 Россия",Россия-РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png" group-title="🇷🇺 Россия",НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https
 #EXTINF:-1 tvg-id="ch392" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png" group-title="🇷🇺 Россия",НТВ Мир
@@ -267,8 +271,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="🇷🇺 Россия",Санкт-Петербург HD
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="🇷🇺 Россия",РЕН ТВ
-http://31.148.5.241/kanal_11/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" group-title="🇷🇺 Россия",RTVi US
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png" group-title="🇷🇺 Россия",ОТР
@@ -619,8 +621,6 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="🎬 Кино и сериалы",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="🎬 Кино и сериалы",Balabol
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино и сериалы",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино и сериалы",viju TV1000 action
@@ -675,6 +675,8 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино и сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино и сериалы",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="🎬 Кино и сериалы",СТАРТ Air
@@ -701,8 +703,6 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 http://31.148.5.241/kanal_20/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="🎵 Музыка",Muzyka Pervogo
 http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="🎵 Музыка",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="🎵 Музыка",Первый Музыкальный Канал HD
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="🎵 Музыка",Первый Музыкальный Канал Россия HD

@@ -21,8 +21,6 @@ http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Россия",Shanson TV
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="🎵 Россия",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="🎵 Россия",VIVA Russia
 https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="🎵 Россия",Муз союз
@@ -31,12 +29,6 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="🎵 Россия",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenPlay.ru@HD" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="🎵 Россия",Сити Эдем Play Христианский Музыкальный
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru@HD" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="🎵 Россия",Сити Эдем Бирма Play
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="🎵 Россия",Сити Эдем Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="🎵 Россия",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" tvg-logo="https://i.imgur.com/PAw36qJ.png" group-title="🎵 Украина",Happy Radio TV
@@ -491,6 +483,8 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm@SD" tvg-logo="https://i.imgur.com/n3PUxes.png" group-title="🎵 Латинская Америка",Fame95 FM
 https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🎵 Латинская Америка",Farra Play
+http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" group-title="🎵 Латинская Америка",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec@SD" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="🎵 Латинская Америка",FM Mundo
@@ -857,6 +851,8 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="🎵 Чехия",Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerOriginal.cz@SD" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="🎵 Чехия",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="🎵 Чехия",Óčko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoExpres.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="🎵 Чехия",Óčko Expres
