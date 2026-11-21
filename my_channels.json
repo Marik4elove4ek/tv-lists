@@ -2912,5 +2912,12 @@
     "group": "🎵 Музыка",
     "logo": "",
     "order": 4
+  },
+  {
+    "name": "VIVA Russia HD (Rutube)",
+    "url": "https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=ss6MNx8zVIyo2ptZNRc_0Q&e=2095287628&scheme=https",
+    "group": "🎵 Музыка",
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "order": 1
   }
 ]
