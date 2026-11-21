@@ -2622,14 +2622,14 @@
   {
     "name": "Россия К",
     "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
-    "group": "Познавательные",
+    "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia_k.png",
     "epg": "kultura"
   },
   {
     "name": "Россия 24",
     "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8",
-    "group": "Новости",
+    "group": "📰 Новости",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia24.png",
     "order": 5,
     "epg": "rossia-24"
