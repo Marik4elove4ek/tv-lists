@@ -2812,5 +2812,65 @@
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/che.png",
     "order": 11
+  },
+  {
+    "name": "Эхо ТВ",
+    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Первый российский национальный канал",
+    "url": "https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "1 Республиканский",
+    "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8?bw942519931004",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "КВН ТВ",
+    "url": "https://fl1003.bozztv.com/ushba81/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Первый канал Евразия",
+    "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "ЦТВ",
+    "url": "https://tsv.md/stream/hls/tsv-online/index.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Первый информационный",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "СТВ",
+    "url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Ювелирочка",
+    "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
+  },
+  {
+    "name": "Шопинг Лайв",
+    "url": "https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8",
+    "group": "Россия: регионы",
+    "logo": ""
   }
 ]
