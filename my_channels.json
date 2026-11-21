@@ -3060,5 +3060,59 @@
     "url": "https://ritsatv.ru/rutlive/travel#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
     "logo": ""
+  },
+  {
+    "name": "Россия-РТР (HD)",
+    "url": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d",
+    "group": "🇷🇺 Россия",
+    "logo": "https://i.imgur.com/0YEahxs.png"
+  },
+  {
+    "name": "BabyFirst (HD)",
+    "url": "http://168.196.127.137:6001/play/a06j/index.m3u8",
+    "group": "🧸 Детские",
+    "logo": "https://i.imgur.com/WxLHBwu.png"
+  },
+  {
+    "name": "Evrokino (HD)",
+    "url": "http://stream.mcquack.net/385/index.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": "https://i.imgur.com/8LPtPf6.png"
+  },
+  {
+    "name": "Болливуд HD Россия (HD)",
+    "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": "https://i.imgur.com/scDKOLS.png"
+  },
+  {
+    "name": "Дорама (HD)",
+    "url": "http://stream.mcquack.net/412/index.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.36",
+    "group": "🎬 Кино и сериалы",
+    "logo": "https://i.imgur.com/ZH5LuXU.png"
+  },
+  {
+    "name": "Ohotnik i rybolov (HD)",
+    "url": "http://stream.mcquack.net/194/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ohota.png"
+  },
+  {
+    "name": "Приключения (HD)",
+    "url": "http://stream.mcquack.net/198/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": "https://i.imgur.com/qQ6pPPQ.png"
+  },
+  {
+    "name": "Bloomberg TV Europe (HD)",
+    "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Newsmax 2 (HD)",
+    "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
+    "group": "📰 Новости мира",
+    "logo": "https://i.imgur.com/iE1izWq.png"
   }
 ]
