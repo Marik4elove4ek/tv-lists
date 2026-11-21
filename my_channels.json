@@ -2949,5 +2949,109 @@
     "group": "🎵 Музыка",
     "logo": "",
     "order": 5.6
+  },
+  {
+    "name": "ТНТ",
+    "url": "https://ritsatv.ru/stream/000007833/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🇷🇺 Россия",
+    "logo": "",
+    "order": 29
+  },
+  {
+    "name": "7ТВ",
+    "url": "https://v4.proofix.ru/7tv-live/playlist.m3u8",
+    "group": "🇷🇺 Россия",
+    "logo": "",
+    "order": 30
+  },
+  {
+    "name": "ТАСС",
+    "url": "https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8",
+    "group": "📰 Новости",
+    "logo": ""
+  },
+  {
+    "name": "ОНТ",
+    "url": "https://ritsatv.ru/oklive2/ont-belarus/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🇧🇾 Беларусь",
+    "logo": ""
+  },
+  {
+    "name": "НТВ Беларусь",
+    "url": "https://ritsatv.ru/oklive2/ntvbelarus/720#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "🇧🇾 Беларусь",
+    "logo": ""
+  },
+  {
+    "name": "Кинозал 2",
+    "url": "https://s1.iptv-24.net/1232/index.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "Кинозал 3",
+    "url": "https://s1.iptv-24.net/1203/index.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "Кинозал 4",
+    "url": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "Кинозал 5",
+    "url": "https://s7.iptv-24.net/1237/index.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "Animal Planet",
+    "url": "https://iptv.ms2020vv.workers.dev/1043/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Galaxy TV",
+    "url": "https://a787201481-s70378.cdn.ngenix.net/galaxy/2/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Nature",
+    "url": "https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "History",
+    "url": "https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Da Vinci",
+    "url": "https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Discovery Channel",
+    "url": "https://ritsatv.ru/stream/000001496/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Моя планета",
+    "url": "https://ritsatv.ru/stream/000001049/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "group": "📚 Познавательные",
+    "logo": ""
+  },
+  {
+    "name": "Travel + Adventure",
+    "url": "https://stream.mcquack.net/206/index.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
   }
 ]
