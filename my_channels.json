@@ -1060,21 +1060,9 @@
     "order": 120
   },
   {
-    "name": "ТНТ Exclusiv (Молдова)",
-    "url": "http://89.28.25.122/hls/tnt_md.m3u8",
-    "group": "Другие страны",
-    "logo": ""
-  },
-  {
     "name": "RU TV (Молдова)",
     "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
-  },
-  {
-    "name": "КТК (Казахстан)",
-    "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-    "group": "Другие страны",
     "logo": ""
   },
   {
@@ -2880,7 +2868,7 @@
     "name": "Центральное телевидение",
     "url": "https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=9O58f7BCu-qTDo3eMpazdA&e=2095282305&scheme=https",
     "group": "Россия",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ctv.png",
     "order": 28
   },
   {
@@ -2963,14 +2951,14 @@
     "name": "ТНТ",
     "url": "https://ritsatv.ru/stream/000007833/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "Россия",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/tnt.png",
     "order": 12
   },
   {
     "name": "7ТВ",
     "url": "https://v4.proofix.ru/7tv-live/playlist.m3u8",
     "group": "Россия",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/7tv.png",
     "order": 7
   },
   {
@@ -3155,5 +3143,17 @@
     "url": "https://ritsatv.ru/vkplay/myvhs/720#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🧸 Детские",
     "logo": ""
+  },
+  {
+    "id": "ApsuaTV.ge@SD",
+    "deleted": true
+  },
+  {
+    "id": "ETVPlus.ee@SD",
+    "deleted": true
+  },
+  {
+    "id": "OTV.ee@SD",
+    "deleted": true
   }
 ]
