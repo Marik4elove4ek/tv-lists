@@ -279,8 +279,6 @@ https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3f
 http://31.148.5.241/kanal_9/index.m3u8
 #EXTINF:-1 tvg-id="TVRUS.de@SD" tvg-logo="https://i.imgur.com/2mJKi7g.png" group-title="🇷🇺 Россия",ТВ Рус
 http://213.91.179.28:8000/play/a082|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.3
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_2x2.png" group-title="🇷🇺 Россия",2x2
-http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="🇷🇺 Россия",Истоки
 https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🇷🇺 Россия",Москва. Доверие
@@ -313,6 +311,8 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_teledom.png" group-title="🇷🇺 Россия",Теледом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="🇷🇺 Россия",Kongress TV
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 🇷🇺 Радио Россия",Радио Рекорд
@@ -541,6 +541,8 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="evronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 Новости",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia24.png" group-title="📰 Новости",Россия 24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="📰 Новости",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="📰 Новости",Moskva 24
@@ -577,8 +579,6 @@ http://46.53.200.153:7777/play/test_krask1/index.m3u8
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD
 http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="⚽ Спорт",Volleyball
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🧸 Детские",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="🧸 Детские",Cartoon Classics
@@ -669,14 +669,14 @@ https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🎬 Кино и сериалы",Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="🎬 Кино и сериалы",Мужской HD
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино и сериалы",Наш кинопоказ HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬 Кино и сериалы",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино и сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино и сериалы",Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="🎬 Кино и сериалы",СТАРТ Air
@@ -685,8 +685,6 @@ http://176.118.197.101/START_AIR/index.m3u8
 http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="🎬 Кино и сериалы",ТВ1000 Русское кино Глобал
 http://213.91.179.28:8000/play/a0bx
-#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="🎬 Кино и сериалы",Шеф
-https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="🎵 Музыка",City TV (Болгария)
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="🎵 Музыка",VIVA Russia
@@ -847,6 +845,8 @@ https://cdn.ntv.ru/vitrina/index.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="📚 Познавательные",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia_k.png" group-title="📚 Познавательные",Россия К
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="📚 Познавательные",РТГ int.
 http://213.91.179.28:8000/play/a0bw|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.3
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" group-title="📚 Познавательные",Рыбалка и охота
@@ -937,10 +937,6 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia24.png" group-title="Новости",Россия 24
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia_k.png" group-title="Познавательные",Россия К
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",НТН
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="📍 Россия: регионы",ОТВ Приморье
