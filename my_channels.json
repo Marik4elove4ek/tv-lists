@@ -2172,7 +2172,8 @@
   },
   {
     "id": "HitFM.md@SD",
-    "title": "Хит FM"
+    "title": "Хит FM",
+    "order": 0.85
   },
   {
     "id": "ImpactTV2.ro@HD",
