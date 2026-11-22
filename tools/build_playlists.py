@@ -304,7 +304,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
 # Удалено по просьбе Марика (22.11): каналы по названию и целые папки
 DROP_NAMES = {'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'Mir 24', 'Moskva 24', 'Страх HD', 'STARTAir', 'СТАРТ Air',
-              'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci', 'Da Vinci Learning',
+              'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci',
               'Discovery Channel', 'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Телекафе', 'Bloomberg TV Europe (HD)',
               'ABC News Live', 'Al Jazeera English'}
 DROP_GROUPS = {'🌿 Релакс и природа', '📷 Виды и путешествия'}
