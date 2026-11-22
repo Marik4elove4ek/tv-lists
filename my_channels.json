@@ -2916,7 +2916,8 @@
     "name": "VIVA TV Russia",
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/39575.m3u8",
     "group": "🎵 Музыка",
-    "logo": "https://img.catcast.tv/uploads/24022022/logos/39575-62168531144d5.png"
+    "logo": "https://img.catcast.tv/uploads/24022022/logos/39575-62168531144d5.png",
+    "order": 0.92
   },
   {
     "name": "Vantage Music",
@@ -3550,5 +3551,37 @@
     "url": "https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": ""
+  },
+  {
+    "id": "MuzTV.ru@SD",
+    "deleted": true
+  },
+  {
+    "id": "ShansonTV.ru@SD",
+    "order": 0.65
+  },
+  {
+    "id": "RUTV.ru@SD",
+    "order": 0.7
+  },
+  {
+    "id": "BRIDGERock.ru@SD",
+    "order": 0.75
+  },
+  {
+    "id": "StranaFM.ru@SD",
+    "order": 0.8
+  },
+  {
+    "id": "SONGTVRussia.ru@SD",
+    "order": 0.9
+  },
+  {
+    "id": "FirstMusicChannel.by@SD",
+    "order": 0.94
+  },
+  {
+    "id": "FirstMusicChannelRussia.by@SD",
+    "order": 0.96
   }
 ]
