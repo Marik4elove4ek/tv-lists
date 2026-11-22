@@ -3155,5 +3155,35 @@
     "pin": true,
     "order": 0,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/viva_polska.png"
+  },
+  {
+    "name": "Music Box Radio",
+    "url": "https://bl.rutube.ru/livestream/91930b7609f032daa6413f2de94b2daa/index.m3u8?s=VOy9p7E5JOnehl4jhtyq5g&e=2095352887&scheme=https",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": ""
+  },
+  {
+    "name": "Русское FM",
+    "url": "https://bl.rutube.ru/livestream/091626531eebd645dd370b8e152cc0df/index.m3u8?s=w4adC9MUzdUwYZKKX8_z5Q&e=2095352887&scheme=https",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": ""
+  },
+  {
+    "name": "Mega Radio",
+    "url": "https://bl.rutube.ru/livestream/2adfb5bed5b53838f383c237f58a15a5/index.m3u8?s=UtwstnIR7nKSVIpU8NbUgQ&e=2095352887&scheme=https",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": ""
+  },
+  {
+    "name": "Mega Dance",
+    "url": "https://bl.rutube.ru/livestream/c46388369b95918ba963e48144ca0e54/index.m3u8?s=8F3Z6SkkAFb03Ra19G2A4g&e=2095352888&scheme=https",
+    "group": "📻 🇷🇺 Радио Россия",
+    "logo": ""
+  },
+  {
+    "name": "Волейбол",
+    "url": "https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https",
+    "group": "⚽ Спорт",
+    "logo": ""
   }
 ]

@@ -1,0 +1,884 @@
+[
+ {
+  "name": "НТВ",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Первый канал",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "СТС",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "РЕН ТВ",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ТНТ",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Россия 1",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ТВ3",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Че",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "5 канал Петербург",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Россия К",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Домашний",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Звезда",
+  "cat": "obwestvennye",
+  "url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TV1000",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Ю",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TV1000 Русское кино",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1059/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Карусель",
+  "cat": "detskie",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Discovery Channel",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "МИР",
+  "cat": "obwestvennye",
+  "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Россия 24",
+  "cat": "novostnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "2x2",
+  "cat": "detskie",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "РБК",
+  "cat": "novostnye",
+  "url": "https://online-video.rbc.ru/online/rbctv_1080p/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Animal Planet",
+  "cat": "poznavatelnye",
+  "url": "http://stream.mcquack.net/114/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "National Geographic",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TV1000 Action",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Viasat History",
+  "cat": "poznavatelnye",
+  "url": "https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Viasat Explorer",
+  "cat": "poznavatelnye",
+  "url": "https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TV XXI",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Bridge TV",
+  "cat": "muzykalnye",
+  "url": "https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Discovery Science",
+  "cat": "poznavatelnye",
+  "url": "http://77.239.125.42:8070/discovry_discoveryscience/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Мама",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Nickelodeon",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1500/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TLC",
+  "cat": "zhenskie",
+  "url": "http://stream.mcquack.net/168/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Travel+Adventure",
+  "cat": "poznavatelnye",
+  "url": "http://77.232.131.211/TravelAdventureHD/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Viasat Sport",
+  "cat": "sportivnye",
+  "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "ТВ Центр",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Радость моя",
+  "cat": "detskie",
+  "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Ocean TV",
+  "cat": "poznavatelnye",
+  "url": "http://85.192.24.253:8080/AA2126W/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "English Club TV",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "France 24",
+  "cat": "novostnye",
+  "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Deutsche Welle",
+  "cat": "novostnye",
+  "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Russia Today",
+  "cat": "novostnye",
+  "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Eurosport",
+  "cat": "sportivnye",
+  "url": "https://stream3.cinerama.uz/1439/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Eurosport 2",
+  "cat": "sportivnye",
+  "url": "https://stream1.cinerama.uz/1452/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "EuroNews",
+  "cat": "novostnye",
+  "url": "https://stream1.cinerama.uz/1024/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Cartoon Network",
+  "cat": "detskie",
+  "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Детский мир",
+  "cat": "detskie",
+  "url": "https://s7.merlive.am/DetskiMir/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "CNN International",
+  "cat": "novostnye",
+  "url": "https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Mezzo",
+  "cat": "muzykalnye",
+  "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Много ТВ",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Дом кино Премиум HD",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "ВРЕМЯ",
+  "cat": "poznavatelnye",
+  "url": "https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Музыка Первого",
+  "cat": "muzykalnye",
+  "url": "https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "НСТ",
+  "cat": "filmovye",
+  "url": "http://176.118.197.101/HCT/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Sony Sci-Fi",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/180/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Союз",
+  "cat": "religioznye",
+  "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Fox",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/182/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Спас ТВ",
+  "cat": "religioznye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Сарафан ТВ",
+  "cat": "razvlekatelnye",
+  "url": "https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Fashion TV",
+  "cat": "zhenskie",
+  "url": "https://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "RU TV",
+  "cat": "muzykalnye",
+  "url": "https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "JimJam",
+  "cat": "detskie",
+  "url": "http://stream.mcquack.net/150/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Шансон ТВ",
+  "cat": "muzykalnye",
+  "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Fox Life",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/129/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Nat Geo WILD",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Зоопарк",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "SET",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/69/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Russian Travel Guide",
+  "cat": "poznavatelnye",
+  "url": "http://195.26.83.96:7007/play/a00n/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "НТВ+ Кино ПЛЮС",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "TiJi",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Моя Планета",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "BBC World News",
+  "cat": "novostnye",
+  "url": "https://stream1.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ТНТ4",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Телекафе",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Европа Плюс ТВ",
+  "cat": "muzykalnye",
+  "url": "https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "ТБН",
+  "cat": "obwestvennye",
+  "url": "https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Наука 2.0",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Футбол",
+  "cat": "sportivnye",
+  "url": "http://radio.tvs.by:8088/Setanta1/index.m3u8",
+  "st": "http 400"
+ },
+ {
+  "name": "Просвещение",
+  "cat": "poznavatelnye",
+  "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Нано ТВ",
+  "cat": "poznavatelnye",
+  "url": "https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "24 Техно",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "8 канал",
+  "cat": "razvlekatelnye",
+  "url": "https://cdn-01.bonus-tv.ru/8kanal/tracks-v1a1/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Da Vinci Learning",
+  "cat": "poznavatelnye",
+  "url": "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "ID Xtra",
+  "cat": "poznavatelnye",
+  "url": "http://stream.mcquack.net/205/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Viasat Nature",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1228/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Вопросы и Ответы",
+  "cat": "razvlekatelnye",
+  "url": "https://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Домашние животные",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Иллюзион+",
+  "cat": "filmovye",
+  "url": "http://176.118.197.101/Illuzion+/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Охота и рыбалка",
+  "cat": "muzhskie",
+  "url": "https://stream1.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Психология 21",
+  "cat": "poznavatelnye",
+  "url": "https://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Пятница!",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Ретро ТВ",
+  "cat": "obwestvennye",
+  "url": "https://stream1.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "РЖД ТВ",
+  "cat": "poznavatelnye",
+  "url": "https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Русский бестселлер",
+  "cat": "filmovye",
+  "url": "https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Русский иллюзион",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Русский роман",
+  "cat": "filmovye",
+  "url": "https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ТРО Союза",
+  "cat": "regionalnye",
+  "url": "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Усадьба ТВ",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1427/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Мульт",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "История",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Travel Channel",
+  "cat": "poznavatelnye",
+  "url": "http://stream.mcquack.net/231/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Беларусь 24",
+  "cat": "obwestvennye",
+  "url": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Здоровое ТВ",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Драйв ТВ",
+  "cat": "muzhskie",
+  "url": "https://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Рыжий",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "НТВ+ Премьера",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "СТС Love",
+  "cat": "razvlekatelnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Amedia 1",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Amedia 2",
+  "cat": "filmovye",
+  "url": "https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Москва 24",
+  "cat": "novostnye",
+  "url": "https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Телепутешествия",
+  "cat": "poznavatelnye",
+  "url": "http://89.33.29.115:8080/Teleputeshestviya/index.m3u8",
+  "st": "http 403"
+ },
+ {
+  "name": "Nick Jr.",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1501/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Наше любимое кино",
+  "cat": "filmovye",
+  "url": "http://176.118.197.101/LubimoeKino/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ОТР",
+  "cat": "obwestvennye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Мир 24",
+  "cat": "novostnye",
+  "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Sony Turbo",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/263/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Amedia Premium",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Еврокино",
+  "cat": "filmovye",
+  "url": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2",
+  "st": "ok"
+ },
+ {
+  "name": "Shopping Live",
+  "cat": "telemagaziny",
+  "url": "https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Матч ТВ",
+  "cat": "sportivnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "НТВ Мир",
+  "cat": "obwestvennye",
+  "url": "https://streaming.thestream.cyou/live/213.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Кино ТВ",
+  "cat": "filmovye",
+  "url": "http://stream.mcquack.net/221/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Amedia Hit",
+  "cat": "filmovye",
+  "url": "https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Дом кино",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Муз-ТВ",
+  "cat": "muzykalnye",
+  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Авто24",
+  "cat": "muzhskie",
+  "url": "https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Беларусь 5",
+  "cat": "sportivnye",
+  "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Ani",
+  "cat": "detskie",
+  "url": "http://194.152.35.17/ani/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "В гостях у сказки",
+  "cat": "detskie",
+  "url": "https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Мужской",
+  "cat": "muzhskie",
+  "url": "https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "ТНТ-Music",
+  "cat": "muzykalnye",
+  "url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Беларусь 1",
+  "cat": "obwestvennye",
+  "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Загородная жизнь",
+  "cat": "poznavatelnye",
+  "url": "https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Живая планета",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Русский детектив",
+  "cat": "filmovye",
+  "url": "https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Еда ТВ",
+  "cat": "razvlekatelnye",
+  "url": "http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Food Network",
+  "cat": "poznavatelnye",
+  "url": "http://stream.mcquack.net/298/index.m3u8",
+  "st": "cors"
+ },
+ {
+  "name": "Бобер",
+  "cat": "poznavatelnye",
+  "url": "https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Зоо ТВ",
+  "cat": "poznavatelnye",
+  "url": "http://31.148.48.15/Zoo_TV/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Калейдоскоп ТВ",
+  "cat": "razvlekatelnye",
+  "url": "https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Планета HD",
+  "cat": "poznavatelnye",
+  "url": "https://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Театр",
+  "cat": "razvlekatelnye",
+  "url": "http://195.26.83.96:7005/play/16/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Bollywood HD",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Кинопоказ",
+  "cat": "filmovye",
+  "url": "https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "Мир сериала",
+  "cat": "filmovye",
+  "url": "http://176.118.197.101/MirSeriala/index.m3u8",
+  "st": "ok"
+ },
+ {
+  "name": "НТВ Право",
+  "cat": "razvlekatelnye",
+  "url": "http://api.dommir.top/ch/NTV_Pravo_RU/playlist.m3u8?token=7e7e42a7ecc9a2bfaa485fd4c622ab79",
+  "st": "ok"
+ },
+ {
+  "name": "Точка ТВ",
+  "cat": "razvlekatelnye",
+  "url": "http://31.148.48.15/Tochka_TV/index.m3u8",
+  "st": "fail"
+ },
+ {
+  "name": "Galaxy TV",
+  "cat": "poznavatelnye",
+  "url": "https://s7.merlive.am/tainigalaktiki/index.m3u8",
+  "st": "ok"
+ }
+]
