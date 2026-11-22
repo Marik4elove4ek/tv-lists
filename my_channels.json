@@ -3644,7 +3644,7 @@
   },
   {
     "name": "Rustavi 2",
-    "url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+    "url": "https://streaming-hls3.televizia.org/hls/rustavi2.m3u8",
     "group": "Георгия",
     "logo": "https://i.imgur.com/rPqd1Cx.png",
     "order": 4,
