@@ -14,9 +14,9 @@ http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="🎵 Россия",Maidan
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="🎵 Россия",Muz-TV
-http://31.148.5.241/kanal_20/index.m3u8
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="🎵 Россия",Muzyka Pervogo
-http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="🎵 Россия",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Россия",Shanson TV
@@ -433,8 +433,6 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es@SD" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="🎵 Испания",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="🎵 Испания",TVOMIX
-https://cloud.tvomix.com/TVOMIX/index.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es@SD" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="🎵 Испания",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="MuzsikaTV.hu@SD" tvg-logo="https://i.imgur.com/kmQ5vYC.png" group-title="🎵 Венгрия",Muzsika TV
@@ -479,8 +477,6 @@ http://45.171.64.30:6060/play/a010
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CoolFM989.aw@SD" tvg-logo="https://i.imgur.com/uGE6lZ2.png" group-title="🎵 Латинская Америка",Cool FM 98.9
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="🎵 Латинская Америка",Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl@SD" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="🎵 Латинская Америка",Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DismarRadioTV.py@SD" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="🎵 Латинская Америка",Dismar Radio TV
@@ -617,8 +613,6 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://i.imgur.com/zaJhBdj.png" group-title="🎵 Латинская Америка",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-#EXTINF:-1 tvg-id="RadioSuyaiTV.cl@HD" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" group-title="🎵 Латинская Америка",Radio Suyai TV
-https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe@SD" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="🎵 Латинская Америка",Radio Tropical Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht@SD" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="🎵 Латинская Америка",Radio Télé Hit
@@ -779,6 +773,8 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="EskaRockTV.pl@SD" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="🎵 Польша",Eska Rock TV
 http://92.114.85.87:8016/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="EskaTV.pl@SD" tvg-logo="https://i.imgur.com/N0eH0Cg.png" group-title="🎵 Польша",Eska TV
+http://92.114.85.87:8018/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="EskaTVExtra.pl@SD" tvg-logo="https://i.imgur.com/pZAFshQ.png" group-title="🎵 Польша",Eska TV Extra
 http://92.114.85.87:8016/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl@Ukraine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10" group-title="🎵 Польша",Music Box Polska Ukraine
@@ -831,6 +827,8 @@ https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" group-title="🎵 Румыния",Romantic FM (576i)
 https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+#EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="🎵 Румыния",Smart Radio
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="🎵 Румыния",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="🎵 Румыния",Tele7music (576i)

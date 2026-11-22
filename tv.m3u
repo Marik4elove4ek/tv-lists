@@ -16,7 +16,7 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/pla
 #EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://i.imgur.com/n1KusFW.png" group-title="Израиль",Arutz HaYeladim
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel16.il@SD" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="Израиль",Channel 16
-https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="Израиль",Channel 9
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.il@SD" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/" group-title="Израиль",Comedy Channel
@@ -82,9 +82,9 @@ http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="Музыка · Россия",Maidan
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Музыка · Россия",Muz-TV
-http://31.148.5.241/kanal_20/index.m3u8
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Музыка · Россия",Muzyka Pervogo
-http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Музыка · Россия",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="Музыка · Россия",Shanson TV
@@ -198,7 +198,7 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="На русском · Франция",Chasse & Peche
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="На русском · Франция",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="На русском · Франция",Eurosport 1 Russia
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="На русском · Франция",Eurosport 2 Russia
