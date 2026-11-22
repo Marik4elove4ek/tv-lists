@@ -3714,5 +3714,29 @@
     "group": "Грузия",
     "logo": "",
     "order": 14
+  },
+  {
+    "name": "Action Film",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/36517.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "Страх HD",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/34816.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
+  },
+  {
+    "name": "MTV",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/46538.m3u8",
+    "group": "🎵 Музыка",
+    "logo": ""
+  },
+  {
+    "name": "MTV 00s",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/50275.m3u8",
+    "group": "🎵 Музыка",
+    "logo": ""
   }
 ]
