@@ -4,7 +4,7 @@
 import gzip, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
+SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://www.open-epg.com/files/georgia1.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz']  # epg.team: только ערוץ 10 и ערוץ 16
 DAYS = 3
 
 def parse_time(s):
