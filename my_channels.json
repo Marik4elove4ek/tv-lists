@@ -2908,13 +2908,8 @@
     "name": "VIVA TV",
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/49703.m3u8",
     "group": "🎵 Музыка",
-    "logo": "https://img.catcast.tv/uploads/11102025/logos/49703-68ea3e4be5c07.jpg"
-  },
-  {
-    "name": "VIVA Hungary",
-    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/50193.m3u8",
-    "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "https://img.catcast.tv/uploads/11102025/logos/49703-68ea3e4be5c07.jpg",
+    "order": -1
   },
   {
     "name": "VIVA TV Russia",
