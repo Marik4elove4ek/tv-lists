@@ -3,7 +3,7 @@
 Запускается каждый день на GitHub (.github/workflows/playlists.yml).
 Каналы, которые сейчас не отвечают или отвечают дольше 5 секунд, в плейлист не попадают.
 """
-import csv, glob, re, sys, collections, time, urllib.request, urllib.parse, concurrent.futures as cf
+import csv, glob, json, re, sys, collections, time, urllib.request, urllib.parse, concurrent.futures as cf
 
 ST, DB = sys.argv[1], sys.argv[2]   # папки iptv/streams и database/data
 OUT = sys.argv[3] if len(sys.argv) > 3 else '.'
@@ -178,12 +178,16 @@ if sum(ok.values()) < len(urls) // 5:
     sys.exit(0)
 
 def write(name, items, order, keep_always=False, rename=None):
+    # Новые каналы из ночной проверки — всегда в конец папки, не в середину (просьба Марка):
+    # внутри папки каналы идут по дню первого появления (first_seen.json), новички без записи — последними
+    try: fsd = json.load(open(f'{OUT}/first_seen.json', encoding='utf-8'))
+    except Exception: fsd = {}
     # Адрес телепрограммы прямо в плейлисте: приложение само берёт её оттуда (только для all.m3u)
     lines = ['#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/epg.xml.gz"' if name == 'all.m3u' else '#EXTM3U']; n = 0
     groups = collections.defaultdict(list)
     for s in items: groups[s['group']].append(s)
     for g in order + sorted(k for k in groups if k not in order):
-        for s in sorted(groups.get(g, []), key=lambda x: (x.get('order', 500), not x.get('pin'), x['name'].lower())):
+        for s in sorted(groups.get(g, []), key=lambda x: (x.get('order', 500), not x.get('pin'), (fsd.get(x['tid'], '9999-99-99') if x['tid'] else '2026-11-01'), x['name'].lower())):
             # Каналы, которые попросил сам Марк, остаются, даже если сейчас молчат (City TV не круглосуточный)
             if not ok.get(s['url']) and not keep_always and s['group'] != '⭐ Моя музыка' and not s.get('pin') and not s.get('keep'): continue
             nm = re.sub(r'\s*\[(Not 24/7)\]', '', re.sub(r'\s*\(\d+p\)', '', s['name'])).strip()
