@@ -2914,13 +2914,6 @@
     "order": -1
   },
   {
-    "name": "VIVA TV Russia",
-    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/39575.m3u8",
-    "group": "🎵 Музыка",
-    "logo": "https://img.catcast.tv/uploads/24022022/logos/39575-62168531144d5.png",
-    "order": 4.5
-  },
-  {
     "name": "Vantage Music",
     "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
     "group": "🎵 Музыка",
