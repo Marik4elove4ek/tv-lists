@@ -1700,7 +1700,7 @@
   {
     "id": "MuzykaPervogo.ru@SD",
     "name": "Muzyka Pervogo",
-    "url": "https://ritsatv.ru/stream/000000204/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
+    "url": "https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
     "group": "🎵 Музыка",
     "logo": "",
     "order": 16
@@ -3184,6 +3184,18 @@
     "name": "Волейбол",
     "url": "https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https",
     "group": "⚽ Спорт",
+    "logo": ""
+  },
+  {
+    "name": "Bridge TV",
+    "url": "https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
+    "group": "🎵 Музыка",
+    "logo": ""
+  },
+  {
+    "name": "ТНТ Music",
+    "url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8",
+    "group": "🎵 Музыка",
     "logo": ""
   }
 ]
