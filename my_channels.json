@@ -3577,5 +3577,12 @@
   {
     "id": "FirstMusicChannelRussia.by@SD",
     "order": 4.84
+  },
+  {
+    "name": "Музыка Первого 2",
+    "url": "http://stream.mcquack.net/153/index.m3u8",
+    "group": "🎵 Музыка",
+    "logo": "",
+    "order": 4.63
   }
 ]
