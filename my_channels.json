@@ -2183,7 +2183,8 @@
   },
   {
     "id": "MagicTV.bg@SD",
-    "title": "Мэджик ТВ (Болгария)"
+    "title": "Мэджик ТВ (Болгария)",
+    "deleted": true
   },
   {
     "id": "MagicTV.ro@SD",
@@ -2251,7 +2252,8 @@
   },
   {
     "id": "ZweiMusicTelevision.de@SD",
-    "title": "Цвай Мьюзик Телевижн"
+    "title": "Цвай Мьюзик Телевижн",
+    "deleted": true
   },
   {
     "name": "Nano",
