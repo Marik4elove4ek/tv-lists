@@ -1063,7 +1063,7 @@
     "name": "RU TV (Молдова)",
     "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
     "group": "🎵 Музыка",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ru_tv_moldova.jpg",
     "order": 4.6
   },
   {
@@ -1703,7 +1703,7 @@
     "name": "Muzyka Pervogo",
     "url": "https://ritsatv.ru/stream/000000204/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_muzyka_pervogo.jpg",
     "order": 4.62
   },
   {
@@ -3008,13 +3008,13 @@
     "name": "Animal Planet",
     "url": "https://ritsatv.ru/stream/000000216/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_animal_planet.jpg"
   },
   {
     "name": "Galaxy TV",
     "url": "https://ritsatv.ru/stream/000000332/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_galaxy_tv.jpg"
   },
   {
     "name": "Nature",
@@ -3038,19 +3038,19 @@
     "name": "Discovery Channel",
     "url": "https://ritsatv.ru/stream/000001496/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_discovery_channel.jpg"
   },
   {
     "name": "Моя планета",
     "url": "https://ritsatv.ru/stream/000001049/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_moya_planeta.jpg"
   },
   {
     "name": "Travel + Adventure",
     "url": "https://ritsatv.ru/rutlive/travel#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_travel_adventure.jpg"
   },
   {
     "name": "Bloomberg TV Europe (HD)",
@@ -3075,7 +3075,7 @@
     "name": "Nickelodeon",
     "url": "https://ritsatv.ru/stream/000000499/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🧸 Детские",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nickelodeon.jpg",
     "order": 4
   },
   {
@@ -3096,7 +3096,7 @@
     "name": "Cartoon Network",
     "url": "https://ritsatv.ru/rutlive/cartoon/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🧸 Детские",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_cartoon_network.jpg",
     "order": 7
   },
   {
@@ -3110,7 +3110,7 @@
     "name": "Карусель",
     "url": "https://ritsatv.ru/stream/000000781/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🧸 Детские",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_karusel.jpg",
     "order": 9
   },
   {
@@ -3124,7 +3124,7 @@
     "name": "Мульт",
     "url": "https://s1.iptv-24.net/1246/index.m3u8",
     "group": "🧸 Детские",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mult.jpg",
     "order": 11
   },
   {
@@ -3199,352 +3199,352 @@
     "name": "Bridge TV",
     "url": "https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
     "group": "🎵 Музыка",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bridge_tv.jpg",
     "order": 4.64
   },
   {
-    "name": "ТНТ Music",
+    "name": "FON Music",
     "url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8",
     "group": "🎵 Музыка",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/fon_music.jpg",
     "order": 4.66
   },
   {
     "name": "TV1000 Русское кино",
     "url": "https://stream1.cinerama.uz/1059/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_tv1000_russkoe_kino.jpg"
   },
   {
     "name": "National Geographic",
     "url": "https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_national_geographic.jpg"
   },
   {
     "name": "Viasat History",
     "url": "https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_viasat_history.jpg"
   },
   {
     "name": "Viasat Explorer",
     "url": "https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_viasat_explorer.jpg"
   },
   {
     "name": "TV XXI",
     "url": "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_tv_xxi.jpg"
   },
   {
     "name": "Мама",
     "url": "https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mama.jpg"
   },
   {
     "name": "Viasat Sport",
     "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2",
     "group": "⚽ Спорт",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_viasat_sport.jpg"
   },
   {
     "name": "Радость моя",
     "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_radost_moya.jpg"
   },
   {
     "name": "Ocean TV",
     "url": "http://85.192.24.253:8080/AA2126W/video.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ocean_tv.jpg"
   },
   {
     "name": "English Club TV",
     "url": "https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_english_club_tv.jpg"
   },
   {
     "name": "France 24",
     "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
     "group": "📰 Новости мира",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_france_24.jpg"
   },
   {
     "name": "Deutsche Welle",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
     "group": "📰 Новости мира",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_deutsche_welle.jpg"
   },
   {
     "name": "Russia Today",
     "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
     "group": "📰 Новости мира",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russia_today.jpg"
   },
   {
     "name": "Eurosport 2",
     "url": "https://stream1.cinerama.uz/1452/mono.m3u8",
     "group": "⚽ Спорт",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_eurosport_2.jpg"
   },
   {
     "name": "EuroNews",
     "url": "https://stream1.cinerama.uz/1024/index.m3u8",
     "group": "📰 Новости мира",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_euronews.jpg"
   },
   {
     "name": "Детский мир",
     "url": "https://s7.merlive.am/DetskiMir/index.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_detskiy_mir.jpg"
   },
   {
     "name": "Mezzo",
     "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mezzo.jpg"
   },
   {
     "name": "Много ТВ",
     "url": "https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mnogo_tv.jpg"
   },
   {
     "name": "Дом кино Премиум HD",
     "url": "https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_dom_kino_premium_hd.jpg"
   },
   {
     "name": "ВРЕМЯ",
     "url": "https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv2",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_vremya.jpg"
   },
   {
     "name": "Союз",
     "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "group": "Россия",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_soyuz.jpg"
   },
   {
     "name": "Сарафан ТВ",
     "url": "https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8",
     "group": "Россия",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_sarafan_tv.jpg"
   },
   {
     "name": "Шансон ТВ",
     "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8",
     "group": "🎵 Музыка",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_shanson_tv.jpg",
     "order": 4.68
   },
   {
     "name": "Nat Geo WILD",
     "url": "https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nat_geo_wild.jpg"
   },
   {
     "name": "Зоопарк",
     "url": "https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_zoopark.jpg"
   },
   {
     "name": "НТВ+ Кино ПЛЮС",
     "url": "https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ntv_kino_plyus.jpg"
   },
   {
     "name": "TiJi",
     "url": "https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_tiji.jpg"
   },
   {
     "name": "BBC World News",
     "url": "https://stream1.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
     "group": "📰 Новости мира",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bbc_world_news.jpg"
   },
   {
     "name": "Телекафе",
     "url": "https://stream1.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_telekafe.jpg"
   },
   {
     "name": "Просвещение",
     "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_prosveschenie.jpg"
   },
   {
     "name": "24 Техно",
     "url": "https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_24_tehno.jpg"
   },
   {
     "name": "Da Vinci Learning",
     "url": "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_da_vinci_learning.jpg"
   },
   {
     "name": "Вопросы и Ответы",
     "url": "https://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8",
     "group": "Россия",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_voprosy_i_otvety.jpg"
   },
   {
     "name": "Домашние животные",
     "url": "https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_domashnie_zhivotnye.jpg"
   },
   {
     "name": "Русский бестселлер",
     "url": "https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_bestseller.jpg"
   },
   {
     "name": "Русский иллюзион",
     "url": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_illyuzion.jpg"
   },
   {
     "name": "Русский роман",
     "url": "https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_roman.jpg"
   },
   {
     "name": "История",
     "url": "https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_istoriya.jpg"
   },
   {
     "name": "Беларусь 24",
     "url": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist.m3u8",
     "group": "Беларусь",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_belarus_24.jpg"
   },
   {
     "name": "Рыжий",
     "url": "https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ryzhiy.jpg"
   },
   {
     "name": "НТВ+ Премьера",
     "url": "https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ntv_premera.jpg"
   },
   {
     "name": "Amedia 1",
     "url": "https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_amedia_1.jpg"
   },
   {
     "name": "Amedia 2",
     "url": "https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_amedia_2.jpg"
   },
   {
     "name": "Москва 24",
     "url": "https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8",
     "group": "📰 Новости",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_moskva_24.jpg"
   },
   {
     "name": "Amedia Premium",
     "url": "https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_amedia_premium.jpg"
   },
   {
     "name": "Еврокино",
     "url": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_evrokino.jpg"
   },
   {
     "name": "Amedia Hit",
     "url": "https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_amedia_hit.jpg"
   },
   {
     "name": "Дом кино",
     "url": "https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_dom_kino.jpg"
   },
   {
     "name": "Авто24",
     "url": "https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_avto24.jpg"
   },
   {
     "name": "Беларусь 5",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8",
     "group": "Беларусь",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_belarus_5.jpg"
   },
   {
     "name": "В гостях у сказки",
     "url": "https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_v_gostyah_u_skazki.jpg"
   },
   {
     "name": "Беларусь 1",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
     "group": "Беларусь",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_belarus_1.jpg"
   },
   {
     "name": "Русский детектив",
     "url": "https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_detektiv.jpg"
   },
   {
     "name": "Калейдоскоп ТВ",
     "url": "https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8",
     "group": "Россия",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_kaleydoskop_tv.jpg"
   },
   {
     "name": "Планета HD",
     "url": "https://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_planeta_hd.jpg"
   },
   {
     "name": "Bollywood HD",
     "url": "https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bollywood_hd.jpg"
   },
   {
     "id": "MuzTV.ru@SD",
@@ -3577,12 +3577,5 @@
   {
     "id": "FirstMusicChannelRussia.by@SD",
     "order": 4.84
-  },
-  {
-    "name": "Музыка Первого 2",
-    "url": "http://stream.mcquack.net/153/index.m3u8",
-    "group": "🎵 Музыка",
-    "logo": "",
-    "order": 4.63
   }
 ]
