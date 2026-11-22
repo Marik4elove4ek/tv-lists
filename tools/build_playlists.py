@@ -302,10 +302,17 @@ if os.path.exists(f'{OUT}/my_channels.json'):
         if c.get('url') and c['url'] not in have:
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
+# Удалено по просьбе Марика (22.11): каналы по названию и целые папки
+DROP_NAMES = {'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'Mir 24', 'Moskva 24', 'Страх HD', 'STARTAir', 'СТАРТ Air',
+              'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci', 'Da Vinci Learning',
+              'Discovery Channel', 'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Телекафе', 'Bloomberg TV Europe (HD)',
+              'ABC News Live', 'Al Jazeera English'}
+DROP_GROUPS = {'🌿 Релакс и природа', '📷 Виды и путешествия'}
 # Каналы, которые Марик удалил (deleted: true в my_channels.json), не попадают в общий файл
 if os.path.exists(f'{OUT}/my_channels.json'):
     for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
         if c.get('deleted') and c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
+merged = [s for s in merged if s['name'] not in DROP_NAMES and s['group'] not in DROP_GROUPS]
 write('all.m3u', merged, ['Израиль', '📻 🇮🇱 רדיו ישראלי', 'Украина', 'Беларусь', '📻 🇧🇾 Радио Беларусь', 'Россия', '📻 🇷🇺 Радио Россия', 'Россия: регионы', 'Георгия', '📰 Новости', '⚽ Спорт', '🧸 Детские', 'Другие страны', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира'], rename={'Израиль': '🇮🇱 ישראל', 'Россия': '🇷🇺 Россия', 'Беларусь': '🇧🇾 Беларусь', 'Украина': '🇺🇦 Украина', 'Россия: регионы': '📍 Россия: регионы', 'Георгия': '🇬🇪 Георгия', '🎬 Кино': '🎬 Кино и сериалы'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
