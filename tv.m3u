@@ -119,35 +119,33 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Музыка · Болгария",City TV (Болгария)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="Грузия",Apsua TV
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="Георгия",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
-#EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="Грузия",АБАЗА-ТВ
+#EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="Георгия",АБАЗА-ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Грузия",1TV
+#EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Георгия",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-id="2TV.ge@SD" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="Грузия",2TV
+#EXTINF:-1 tvg-id="2TV.ge@SD" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="Георгия",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="Грузия",BMG TV
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="Георгия",BMG TV
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
-#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="Грузия",Ertsulovneba
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="Георгия",Ertsulovneba
 https://stream.sstv.ge/live/sstv/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="Грузия",Euronews Georgia
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="Георгия",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-#EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="Грузия",Formula
+#EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="Георгия",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="Грузия",Imedi TV
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="Георгия",Imedi TV
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="Грузия",Palitra News
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="Георгия",Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="Грузия",Rioni TV
+#EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="Георгия",Rioni TV
 https://video.rionitv.com/hls/live/rioni.m3u8
-#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="Грузия",Rustavi 2
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="Георгия",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="Грузия",Setanta Sports 3
+#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="Георгия",Setanta Sports 3
 http://85.117.61.84/setanta3/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="Грузия",Setanta Sports+ Georgia
-http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="Грузия",TV Pirveli
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="Георгия",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
 #EXTINF:-1 tvg-id="Belarus1.by@SD" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="На русском · Беларусь",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8

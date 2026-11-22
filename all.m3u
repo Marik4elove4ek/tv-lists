@@ -267,8 +267,6 @@ https://cdn.ntv.ru/th_serial/index.m3u8
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_mir.png" group-title="🇷🇺 Россия",Мир (международный эфир)
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_tvc.png" group-title="🇷🇺 Россия",ТВ Центр
-http://31.148.5.241/kanal_10/index.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="🇷🇺 Россия",ТВ Центр Интернешнл
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ctv.png" group-title="🇷🇺 Россия",Центральное телевидение
@@ -327,8 +325,6 @@ https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="🇷🇺 Россия",Kongress TV
 https://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="🇷🇺 Россия",Soyuzny
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 🇷🇺 Радио Россия",Радио Рекорд
@@ -575,35 +571,35 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="📍 Россия: регионы",Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",1TV
+#EXTINF:-1 tvg-id="პირველი არხი.ge" group-title="🇬🇪 Георгия",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",2TV
+#EXTINF:-1 tvg-id="" group-title="🇬🇪 Георгия",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Imedi TV
+#EXTINF:-1 tvg-id="იმედი.ge" group-title="🇬🇪 Георгия",Imedi TV
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Rustavi 2
+#EXTINF:-1 tvg-id="რუსთავი 2.ge" group-title="🇬🇪 Георгия",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",TV Pirveli
+#EXTINF:-1 tvg-id="TV პირველი.ge" group-title="🇬🇪 Георгия",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Formula
+#EXTINF:-1 tvg-id="ფორმულა.ge" group-title="🇬🇪 Георгия",Formula
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Euronews Georgia
+#EXTINF:-1 tvg-id="Euronews Georgia.ge" group-title="🇬🇪 Георгия",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Setanta Sports 3
+#EXTINF:-1 tvg-id="Setanta Sports 3.ge" group-title="🇬🇪 Георгия",Setanta Sports 3
 http://85.117.61.84/setanta3/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Setanta Sports+
+#EXTINF:-1 tvg-id="" group-title="🇬🇪 Георгия",Setanta Sports+
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Apsua TV
+#EXTINF:-1 tvg-id="" group-title="🇬🇪 Георгия",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Ertsulovneba
+#EXTINF:-1 tvg-id="ერთსულოვნება.ge" group-title="🇬🇪 Георгия",Ertsulovneba
 https://stream.sstv.ge/live/sstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",BMG TV
+#EXTINF:-1 tvg-id="BMG.ge" group-title="🇬🇪 Георгия",BMG TV
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Palitra News
+#EXTINF:-1 tvg-id="Palitra News.ge" group-title="🇬🇪 Георгия",Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузия",Rioni TV
+#EXTINF:-1 tvg-id="რიონი.ge" group-title="🇬🇪 Георгия",Rioni TV
 https://video.rionitv.com/hls/live/rioni.m3u8
-#EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="🇬🇪 Грузия",АБАЗА-ТВ
+#EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="🇬🇪 Георгия",АБАЗА-ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://i.imgur.com/MNKkgfa.png" group-title="📰 Новости",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
@@ -647,8 +643,6 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" group-title="⚽ Спорт",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https
-#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
-https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
@@ -659,6 +653,8 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="⚽ Спорт",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -769,14 +765,14 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🎬 Кино и сериалы",Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="🎬 Кино и сериалы",Мужской HD
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино и сериалы",Наш кинопоказ HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬 Кино и сериалы",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино и сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино и сериалы",Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="🎬 Кино и сериалы",СТАРТ Air
@@ -1145,8 +1141,6 @@ https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬 Кино и сериалы",Страх HD
 https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/34816.m3u8
-#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" group-title="📍 Россия: регионы",Россия 1 Вайнах
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8|Referer=https%3A%2F%2Fgtrkvainah.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F146.0.0.0%20Safari%2F537.36%20OPR%2F130.0.0.0%20%28Edition%20std-2%29
 #EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="📍 Россия: регионы",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="📍 Россия: регионы",Сочи 24 HD

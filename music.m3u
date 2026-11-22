@@ -293,6 +293,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="DMF.de@SD" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="🎵 Германия",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de@SD" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="🎵 Германия",Finest TV
+https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="🎵 Германия",Folx Music Television
 https://folxapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="🎵 Германия",Hitradio O3
@@ -421,6 +423,8 @@ https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="Onda15TV.es@SD" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="🎵 Испания",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="🎵 Испания",Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es@SD" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="🎵 Испания",POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="🎵 Испания",Radio Carnaval TV
@@ -627,8 +631,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" group-title="🎵 Латинская Америка",Radio Zona 90.3
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" group-title="🎵 Латинская Америка",Radiola TV
-http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RanchenatoTV.co@SD" tvg-logo="https://i.imgur.com/TCv5NqN.png" group-title="🎵 Латинская Америка",Ranchenato TV
 http://181.78.12.119:16123/play/ch15/index.m3u8
 #EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="🎵 Латинская Америка",Retromusica Television
@@ -647,6 +649,8 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
 #EXTINF:-1 tvg-id="ScorchTV.tt@SD" tvg-logo="https://i.imgur.com/CNszwj1.png" group-title="🎵 Латинская Америка",Scorch TV
 https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SensacionCosta.cl@SD" tvg-logo="https://i.imgur.com/oYQoWAB.png" group-title="🎵 Латинская Америка",Sensacion Costa
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-logo="https://i.imgur.com/AJIN8Dc.png" group-title="🎵 Латинская Америка",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="🎵 Латинская Америка",Siembra TV
@@ -699,6 +703,8 @@ https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoTourChannel.cr@SD" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="🎵 Латинская Америка",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-id="VintageMusic.cr@SD" tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="🎵 Латинская Америка",Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx@SD" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="🎵 Латинская Америка",Visión Televisión
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="🎵 Латинская Америка",VM Latino
@@ -835,8 +841,6 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-logo="https://tequilamusic.net/imagini/tv-logo.png" group-title="🎵 Румыния",Tequila Music TV
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
-#EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="🎵 Румыния",Traditional TV
-http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="TVAS.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="🎵 Румыния",TV AS
 https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" group-title="🎵 Румыния",TVR Folclor
