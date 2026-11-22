@@ -1063,7 +1063,8 @@
     "name": "RU TV (Молдова)",
     "url": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "",
+    "order": 0.2
   },
   {
     "name": "Общественное Независимое Телевидение",
@@ -1703,7 +1704,7 @@
     "url": "https://ritsatv.ru/stream/000000204/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "logo": "",
-    "order": 16
+    "order": 0.3
   },
   {
     "id": "SONGTVRussia.ru@SD",
@@ -2895,7 +2896,7 @@
     "url": "https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=ss6MNx8zVIyo2ptZNRc_0Q&e=2095287628&scheme=https",
     "group": "🎵 Музыка",
     "logo": "https://i.imgur.com/OFhQQCD.png",
-    "order": 1
+    "order": 0.1
   },
   {
     "name": "Viva TV Classics",
@@ -3166,7 +3167,7 @@
     "url": "https://ritsatv.ru/ccastproxy/49015.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "pin": true,
-    "order": 0,
+    "order": 2,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/viva_polska.png"
   },
   {
@@ -3203,13 +3204,15 @@
     "name": "Bridge TV",
     "url": "https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "",
+    "order": 0.4
   },
   {
     "name": "ТНТ Music",
     "url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "",
+    "order": 0.5
   },
   {
     "name": "TV1000 Русское кино",
@@ -3347,7 +3350,8 @@
     "name": "Шансон ТВ",
     "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8",
     "group": "🎵 Музыка",
-    "logo": ""
+    "logo": "",
+    "order": 0.6
   },
   {
     "name": "Nat Geo WILD",
