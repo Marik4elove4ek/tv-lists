@@ -253,8 +253,6 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=20
 http://31.148.5.241/kanal_11/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="🇷🇺 Россия",Россия Один
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="🇷🇺 Россия",Россия-РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_hd.png" group-title="🇷🇺 Россия",НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vVFSaVpN7y5ZeJc7typrFw&e=2094515692&scheme=https
 #EXTINF:-1 tvg-id="ch392" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ntv_mir.png" group-title="🇷🇺 Россия",НТВ Мир
@@ -325,6 +323,8 @@ https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_soyuz.jpg" group-title="🇷🇺 Россия",Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="🇷🇺 Россия",Soyuzny
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 🇷🇺 Радио Россия",Радио Рекорд
@@ -639,12 +639,16 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" group-title="⚽ Спорт",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="⚽ Спорт",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -857,6 +861,8 @@ https://live-3.otcnet.ru/Mezzo/index.m3u8
 https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_animal_planet.jpg" group-title="📚 Познавательные",Animal Planet
 https://ritsatv.ru/stream/000000216/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_da_vinci_learning.jpg" group-title="📚 Познавательные",Da Vinci Learning
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="drive-hd" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="📚 Познавательные",Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_english_club_tv.jpg" group-title="📚 Познавательные",English Club TV
@@ -1043,6 +1049,8 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_roman.jpg" group-title="🎬 Кино и сериалы",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" group-title="📍 Россия: регионы",Россия 1 Вайнах
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8|Referer=https%3A%2F%2Fgtrkvainah.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F146.0.0.0%20Safari%2F537.36%20OPR%2F130.0.0.0%20%28Edition%20std-2%29
 #EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="📍 Россия: регионы",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="📍 Россия: регионы",Сочи 24 HD
