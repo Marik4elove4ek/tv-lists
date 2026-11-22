@@ -3616,5 +3616,103 @@
   {
     "id": "HappyRadioTV.ua@HD",
     "deleted": true
+  },
+  {
+    "name": "1TV",
+    "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 1
+  },
+  {
+    "name": "2TV",
+    "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 2
+  },
+  {
+    "name": "Imedi TV",
+    "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 3
+  },
+  {
+    "name": "Rustavi 2",
+    "url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+    "group": "Грузия",
+    "logo": "",
+    "order": 4
+  },
+  {
+    "name": "TV Pirveli",
+    "url": "http://nue01-edge01.itdc.ge/pirvelitv/mpegts",
+    "group": "Грузия",
+    "logo": "",
+    "order": 5
+  },
+  {
+    "name": "Formula",
+    "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 6
+  },
+  {
+    "name": "Euronews Georgia",
+    "url": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts",
+    "group": "Грузия",
+    "logo": "",
+    "order": 7
+  },
+  {
+    "name": "Setanta Sports 3",
+    "url": "http://85.117.61.84/setanta3/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 8
+  },
+  {
+    "name": "Setanta Sports+",
+    "url": "http://85.117.61.84/setanta2/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 9
+  },
+  {
+    "name": "Apsua TV",
+    "url": "https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null",
+    "group": "Грузия",
+    "logo": "",
+    "order": 10
+  },
+  {
+    "name": "Ertsulovneba",
+    "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 11
+  },
+  {
+    "name": "BMG TV",
+    "url": "https://tv.nucast.tv/lb/ge/bmg/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 12
+  },
+  {
+    "name": "Palitra News",
+    "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 13
+  },
+  {
+    "name": "Rioni TV",
+    "url": "https://video.rionitv.com/hls/live/rioni.m3u8",
+    "group": "Грузия",
+    "logo": "",
+    "order": 14
   }
 ]
