@@ -1675,10 +1675,6 @@
     "order": 20
   },
   {
-    "id": "BRIDGERock.ru@SD",
-    "order": 4.74
-  },
-  {
     "id": "BRIDGEClassic.ru@SD",
     "order": 11
   },
@@ -1716,7 +1712,8 @@
   },
   {
     "id": "FirstMusicChannelRussia.by@SD",
-    "order": 4.84
+    "order": 4.84,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/1mus.png"
   },
   {
     "id": "MusicBoxClassic.cz@SD",
@@ -2879,13 +2876,6 @@
     "logo": ""
   },
   {
-    "name": "Ritsa TV",
-    "url": "https://ritsatv.ru/oklive2/ritsatv/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "🎵 Музыка",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ritsa.png",
-    "order": 5
-  },
-  {
     "name": "VIVA Hits",
     "url": "https://viva2.kmdr7vk424.workers.dev/vivatv.m3u8?token=vivatv77|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
@@ -3196,13 +3186,6 @@
     "logo": ""
   },
   {
-    "name": "Bridge TV",
-    "url": "https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
-    "group": "🎵 Музыка",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bridge_tv.jpg",
-    "order": 4.64
-  },
-  {
     "name": "FON Music",
     "url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8",
     "group": "🎵 Музыка",
@@ -3309,7 +3292,8 @@
     "name": "Mezzo",
     "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
     "group": "🎵 Музыка",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mezzo.jpg"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mezzo.jpg",
+    "order": 999
   },
   {
     "name": "Много ТВ",
@@ -3340,13 +3324,6 @@
     "url": "https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_sarafan_tv.jpg"
-  },
-  {
-    "name": "Шансон ТВ",
-    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8",
-    "group": "🎵 Музыка",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_shanson_tv.jpg",
-    "order": 4.68
   },
   {
     "name": "Nat Geo WILD",
@@ -3559,10 +3536,6 @@
     "order": 4.72
   },
   {
-    "id": "BRIDGERock.ru@SD",
-    "order": 4.74
-  },
-  {
     "id": "StranaFM.ru@SD",
     "order": 4.76
   },
@@ -3576,6 +3549,79 @@
   },
   {
     "id": "FirstMusicChannelRussia.by@SD",
-    "order": 4.84
+    "order": 4.84,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/1mus.png"
+  },
+  {
+    "id": "BRIDGERock.ru@SD",
+    "deleted": true
+  },
+  {
+    "id": "MTVClassic.us@BR",
+    "deleted": true
+  },
+  {
+    "id": "MTVBiggestPop.us@BR",
+    "deleted": true
+  },
+  {
+    "id": "MTVSpankinNew.us@CA",
+    "deleted": true
+  },
+  {
+    "id": "MTVFlowLatino.us@LatAm",
+    "deleted": true
+  },
+  {
+    "id": "CEACOMTV.bo@SD",
+    "deleted": true
+  },
+  {
+    "id": "RTL1025BroSis.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "RTL1025Disco.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "RTL1025Caliente.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "TraceUK.uk@HD",
+    "deleted": true
+  },
+  {
+    "id": "OneMusicTelevision.de@SD",
+    "deleted": true
+  },
+  {
+    "id": "CompanyTV.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "RadioFxNet.ro@HD",
+    "deleted": true
+  },
+  {
+    "id": "RadioBrunoTV.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "RadioPiterPanTV.it@SD",
+    "deleted": true
+  },
+  {
+    "id": "Thats70s.uk@HD",
+    "deleted": true
+  },
+  {
+    "id": "Thats80s.uk@SD",
+    "deleted": true
+  },
+  {
+    "id": "HappyRadioTV.ua@HD",
+    "deleted": true
   }
 ]
