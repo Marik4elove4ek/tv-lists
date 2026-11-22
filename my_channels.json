@@ -3160,6 +3160,7 @@
     "url": "https://ritsatv.ru/ccastproxy/49015.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🎵 Музыка",
     "pin": true,
-    "order": 0
+    "order": 0,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/viva_polska.png"
   }
 ]
