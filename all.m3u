@@ -328,7 +328,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="🇷🇺 Россия",Kongress TV
 https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="📻 🇷🇺 Радио Россия",Новое Радио
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+https://stream.newradio.ru/novoe96.aacp
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorecord.ru/icons/logo300-300.jpg" group-title="📻 🇷🇺 Радио Россия",Радио Рекорд
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://marus.fm/icons/android-chrome-192x192.png" group-title="📻 🇷🇺 Радио Россия",Маруся FM
