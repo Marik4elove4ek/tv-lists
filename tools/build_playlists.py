@@ -307,7 +307,7 @@ DROP_NAMES = {'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'M
               'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci',
               'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Bloomberg TV Europe (HD)',
               'ABC News Live', 'Al Jazeera English',
-              'Drive (576i)', 'Союз', 'Сарафан ТВ', 'Вопросы и Ответы', 'Ретро', 'ТВ Центр Интернешнл'}  # удалено по просьбе Марика 23.11
+              'Drive (576i)', 'Союз', 'Сарафан ТВ', 'Вопросы и Ответы', 'Ретро', 'ТВ Центр Интернешнл', 'Kongress TV'}  # удалено по просьбе Марика 23.11
 DROP_GROUPS = {'🌿 Релакс и природа', '📷 Виды и путешествия'}
 # Каналы, которые Марик удалил (deleted: true в my_channels.json), не попадают в общий файл
 if os.path.exists(f'{OUT}/my_channels.json'):
