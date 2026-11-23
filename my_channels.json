@@ -1310,7 +1310,7 @@
     "id": "Domashniy.ru@SD",
     "epg": "domashnij",
     "group": "Россия",
-    "order": 11,
+    "order": 4,
     "title": "Домашний"
   },
   {
@@ -1572,7 +1572,7 @@
   },
   {
     "id": "Channel5.ru@SD",
-    "order": 4,
+    "order": 5,
     "title": "Пятый канал",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ch5.png",
     "epg": "5kanal-ru"
