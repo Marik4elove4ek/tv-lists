@@ -3070,7 +3070,7 @@
   },
   {
     "name": "СТС Kids",
-    "url": "https://stream1.cinerama.uz/1437/playlist.m3u8",
+    "url": "https://stream3.cinerama.uz/1437/playlist.m3u8",
     "group": "🧸 Детские",
     "logo": "",
     "order": 10
@@ -3147,13 +3147,13 @@
   },
   {
     "name": "TV1000 Русское кино",
-    "url": "https://stream1.cinerama.uz/1059/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1059/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_tv1000_russkoe_kino.jpg"
   },
   {
     "name": "National Geographic",
-    "url": "https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1041/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_national_geographic.jpg"
   },
@@ -3177,7 +3177,7 @@
   },
   {
     "name": "Мама",
-    "url": "https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1244/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mama.jpg"
   },
@@ -3201,7 +3201,7 @@
   },
   {
     "name": "English Club TV",
-    "url": "https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1442/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_english_club_tv.jpg"
   },
@@ -3225,13 +3225,13 @@
   },
   {
     "name": "Eurosport 2",
-    "url": "https://stream1.cinerama.uz/1452/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1452/mono.m3u8",
     "group": "⚽ Спорт",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_eurosport_2.jpg"
   },
   {
     "name": "EuroNews",
-    "url": "https://stream1.cinerama.uz/1024/index.m3u8",
+    "url": "https://stream3.cinerama.uz/1024/index.m3u8",
     "group": "📰 Новости мира",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_euronews.jpg"
   },
@@ -3250,7 +3250,7 @@
   },
   {
     "name": "Много ТВ",
-    "url": "https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1235/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mnogo_tv.jpg"
   },
@@ -3274,43 +3274,43 @@
   },
   {
     "name": "Сарафан ТВ",
-    "url": "https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1249/tracks-v1a1/mono.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_sarafan_tv.jpg"
   },
   {
     "name": "Nat Geo WILD",
-    "url": "https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1042/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nat_geo_wild.jpg"
   },
   {
     "name": "Зоопарк",
-    "url": "https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_zoopark.jpg"
   },
   {
     "name": "НТВ+ Кино ПЛЮС",
-    "url": "https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1233/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ntv_kino_plyus.jpg"
   },
   {
     "name": "TiJi",
-    "url": "https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_tiji.jpg"
   },
   {
     "name": "BBC World News",
-    "url": "https://stream1.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
     "group": "📰 Новости мира",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bbc_world_news.jpg"
   },
   {
     "name": "Телекафе",
-    "url": "https://stream1.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_telekafe.jpg"
   },
@@ -3322,7 +3322,7 @@
   },
   {
     "name": "24 Техно",
-    "url": "https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_24_tehno.jpg"
   },
@@ -3334,13 +3334,13 @@
   },
   {
     "name": "Вопросы и Ответы",
-    "url": "https://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1429/tracks-v1a1/mono.m3u8",
     "group": "Россия",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_voprosy_i_otvety.jpg"
   },
   {
     "name": "Домашние животные",
-    "url": "https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_domashnie_zhivotnye.jpg"
   },
@@ -3364,7 +3364,7 @@
   },
   {
     "name": "История",
-    "url": "https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1266/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_istoriya.jpg"
   },
@@ -3376,13 +3376,13 @@
   },
   {
     "name": "Рыжий",
-    "url": "https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ryzhiy.jpg"
   },
   {
     "name": "НТВ+ Премьера",
-    "url": "https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1207/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_ntv_premera.jpg"
   },
@@ -3424,13 +3424,13 @@
   },
   {
     "name": "Дом кино",
-    "url": "https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_dom_kino.jpg"
   },
   {
     "name": "Авто24",
-    "url": "https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1430/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_avto24.jpg"
   },
@@ -3442,7 +3442,7 @@
   },
   {
     "name": "В гостях у сказки",
-    "url": "https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_v_gostyah_u_skazki.jpg"
   },
@@ -3466,13 +3466,13 @@
   },
   {
     "name": "Планета HD",
-    "url": "https://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1247/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_planeta_hd.jpg"
   },
   {
     "name": "Bollywood HD",
-    "url": "https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
+    "url": "https://stream3.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bollywood_hd.jpg"
   },
