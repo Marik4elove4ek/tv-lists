@@ -3969,12 +3969,14 @@
     "name": "Доктор",
     "url": "http://185.46.16.239:8000/Doktor",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://epg.iptvx.one/picons/doktor.png",
+    "epg": "doktor"
   },
   {
     "name": "Живая планета",
     "url": "http://185.46.16.239:8000/Zhivaya_Planeta",
     "group": "📚 Познавательные",
-    "logo": ""
+    "logo": "https://epg.iptvx.one/picons/zhivaya-planeta.png",
+    "epg": "zhivaya-planeta"
   }
 ]
