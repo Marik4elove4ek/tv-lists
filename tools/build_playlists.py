@@ -313,6 +313,16 @@ DROP_GROUPS = {'🌿 Релакс и природа', '📷 Виды и путе
 if os.path.exists(f'{OUT}/my_channels.json'):
     for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
         if c.get('deleted') and c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
+# «Новости мира» (Марк, 23.11): часть убрана, остальные — в «Новости» с пятого места, папка удалена
+WORLD_DROP = {'BBC World News', 'CNN International', 'EuroNews', 'France 24', 'i24NEWS English', 'Newsmax 2'}
+_k = 0
+for s in sorted([x for x in merged if x['group'] == '📰 Новости мира'], key=lambda x: x.get('order', 500)):
+    pass
+_world = [x for x in merged if x['group'] == '📰 Новости мира']
+merged = [x for x in merged if x['group'] != '📰 Новости мира' or x['name'] not in WORLD_DROP]
+for x in merged:
+    if x['group'] == '📰 Новости мира':
+        _k += 1; x['group'] = '📰 Новости'; x['order'] = round(4 + 0.01 * _k, 2)
 merged = [s for s in merged if re.sub(r'\s*\(\d+p\)|\s*\[(Not 24/7)\]', '', s['name']).strip() not in DROP_NAMES and s['group'] not in DROP_GROUPS]
 # «Мои добавки» (my_extra.m3u): каналы, которые Марк вставляет сам, в обычном виде плейлиста —
 # строка #EXTINF с названием (и, если есть, group-title="папка") и под ней адрес. Ошибочные строки пропускаются.
