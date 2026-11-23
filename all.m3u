@@ -599,8 +599,6 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="📍 Россия: регионы",НВК Саха
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="tavria" tvg-logo="https://i.imgur.com/gqung6i.png" group-title="📍 Россия: регионы",Таврия
-https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-id="86-surgut" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="📍 Россия: регионы",Телеканал 86 (Сургут)
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="📍 Россия: регионы",Телеканал Краснодар
@@ -643,6 +641,30 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="evronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 Новости",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="📰 Новости",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="📰 Новости",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="📰 Новости",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" group-title="📰 Новости",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" group-title="📰 Новости",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="📰 Новости",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="📰 Новости",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="📰 Новости",i24NEWS French
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости",NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="📰 Новости",Newsmax 2 (HD)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_deutsche_welle.jpg" group-title="📰 Новости",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russia_today.jpg" group-title="📰 Новости",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russia24.png" group-title="📰 Новости",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_izvestia.png" group-title="📰 Новости",Известия
@@ -675,12 +697,16 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" group-title="⚽ Спорт",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -749,8 +775,6 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="🎬 Кино и сериалы",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="🎬 Кино и сериалы",Balabol
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино и сериалы",viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино и сериалы",viju TV1000 action
@@ -1005,42 +1029,6 @@ https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=kdjDysD4w5TiC7z9ygP8LA&e=2094515307&scheme=https
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="📚 Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bbc_world_news.jpg" group-title="📰 Новости мира",BBC World News
-https://stream3.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="📰 Новости мира",CNN International
-https://stream3.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_deutsche_welle.jpg" group-title="📰 Новости мира",Deutsche Welle
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_euronews.jpg" group-title="📰 Новости мира",EuroNews
-https://stream3.cinerama.uz/1024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_france_24.jpg" group-title="📰 Новости мира",France 24
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="📰 Новости мира",i24NEWS English
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="📰 Новости мира",i24NEWS French
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="📰 Новости мира",Newsmax 2 (HD)
-https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russia_today.jpg" group-title="📰 Новости мира",Russia Today
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="📰 Новости мира",Bloomberg TV Europe
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="📰 Новости мира",Bloomberg TV US
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="📰 Новости мира",CBS News 24/7
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" group-title="📰 Новости мира",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" group-title="📰 Новости мира",Euronews English
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="📰 Новости мира",France 24 English
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="📰 Новости мира",France 24 French
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="📰 Новости мира",Newsmax 2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости мира",NHK World-Japan
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="" group-title="♥18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇧🇾 Беларусь",НТВ Беларусь
@@ -1115,8 +1103,6 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_russkiy_roman.jpg" group-title="🎬 Кино и сериалы",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" group-title="📍 Россия: регионы",Россия 1 Вайнах
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8|Referer=https%3A%2F%2Fgtrkvainah.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F146.0.0.0%20Safari%2F537.36%20OPR%2F130.0.0.0%20%28Edition%20std-2%29
 #EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="📍 Россия: регионы",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="📍 Россия: регионы",Сочи 24 HD

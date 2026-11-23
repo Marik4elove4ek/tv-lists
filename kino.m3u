@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="🎬 Россия",5 minut tishiny
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="🎬 Россия",Balabol
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="🎬 Россия",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="🎬 Россия",Cinema
@@ -91,8 +89,6 @@ https://cityeden.catcast.tv/content/34393/index.m3u8
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru@HD" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="🎬 Россия",Сити Эдем КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="🎬 Россия",Сити Эдем КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDrama.ru@HD" tvg-logo="https://i.imgur.com/29ddffh.png" group-title="🎬 Россия",Сити Эдем КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru@HD" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="🎬 Россия",Сити Эдем КиноКлассика
