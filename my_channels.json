@@ -3813,143 +3813,90 @@
     "epg": "priamyj"
   },
   {
-    "name": "Перший (UA:Перший)",
+    "name": "Перший",
     "url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Перший HD (ipnet)",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Перший (tva.in.ua)",
-    "url": "https://tva.in.ua/live/first.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
+    "order": 0.9
   },
   {
     "name": "5 канал",
     "url": "https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.91
   },
   {
-    "name": "5 канал HD (ipnet)",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Прямий (nashnet)",
+    "name": "Прямий",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.81
   },
   {
-    "name": "Рада (nashnet)",
+    "name": "Рада",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.95
   },
   {
     "name": "Суспільне Київ",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.92
   },
   {
     "name": "Суспільне Крим",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.94
   },
   {
     "name": "Суспільне Культура",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.93
   },
   {
     "name": "8 канал",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
+    "group": "Украина",
+    "logo": ""
   },
   {
-    "name": "24 канал (nashnet)",
+    "name": "24 канал",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.96
   },
   {
-    "name": "Еспресо TV HD (nashnet)",
+    "name": "Еспресо TV HD",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
+    "group": "Украина",
     "logo": "",
-    "order": 500
+    "order": 0.71
   },
   {
     "name": "ATR",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Обозреватель",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
+    "group": "Украина",
+    "logo": ""
   },
   {
     "name": "Апостроф ТВ",
     "url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8|User-Agent=curl%2F8.16.0",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Армія ТБ",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "Ми-Україна+ (ipnet)",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
-  },
-  {
-    "name": "FREEДОМ",
-    "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
+    "group": "Украина",
+    "logo": ""
   },
   {
     "name": "Сварожичі HD",
     "url": "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
-    "group": "Украина (проверка)",
-    "logo": "",
-    "order": 500
+    "group": "Украина",
+    "logo": ""
   }
 ]
