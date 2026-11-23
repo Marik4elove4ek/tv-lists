@@ -3703,5 +3703,11 @@
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/50275.m3u8",
     "group": "🎵 Музыка",
     "logo": ""
+  },
+  {
+    "name": "Discovery Channel",
+    "url": "https://stream3.cinerama.uz/1039/tracks-v1a1/mono.m3u8",
+    "group": "📚 Познавательные",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_discovery_channel.jpg"
   }
 ]
