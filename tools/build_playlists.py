@@ -305,7 +305,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
 # Удалено по просьбе Марика (22.11): каналы по названию и целые папки
 DROP_NAMES = {'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'Mir 24', 'Moskva 24', 'Страх HD', 'STARTAir', 'СТАРТ Air',
               'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci',
-              'Discovery Channel', 'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Телекафе', 'Bloomberg TV Europe (HD)',
+              'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Bloomberg TV Europe (HD)',
               'ABC News Live', 'Al Jazeera English'}
 DROP_GROUPS = {'🌿 Релакс и природа', '📷 Виды и путешествия'}
 # Каналы, которые Марик удалил (deleted: true в my_channels.json), не попадают в общий файл
