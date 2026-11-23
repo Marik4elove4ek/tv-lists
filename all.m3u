@@ -167,8 +167,26 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="espreso-tv" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="🇺🇦 Украина",Espreso TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/espreso-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Еспресо TV HD
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="priamyj" tvg-logo="https://i.imgur.com/sEdzw80.png" group-title="🇺🇦 Украина",Прямой
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pryamyi-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Прямий
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Перший
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",5 канал
+https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Суспільне Київ
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Суспільне Культура
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Суспільне Крим
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Рада
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",24 канал
+https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_raz3.png" group-title="🇺🇦 Украина",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="🇺🇦 Украина",100% News
@@ -177,6 +195,10 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_7kanal.png" group-title="🇺🇦 Украина",7 канал (Одесса)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",8 канал
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8|User-Agent=curl%2F8.16.0
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",ATR
+https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="🇺🇦 Украина",Black Sea TV
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="dacha" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="🇺🇦 Украина",Dacha
@@ -187,6 +209,8 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="avers" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_avers.png" group-title="🇺🇦 Украина",Аверс (Луцк)
 https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Апостроф ТВ
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_izmail.png" group-title="🇺🇦 Украина",Измаил ТВ
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_island.png" group-title="🇺🇦 Украина",Исландия
@@ -203,6 +227,8 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="rivne1" group-title="🇺🇦 Украина",Ровно 1
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Сварожичі HD
+http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украина",Симон (Харьков)
 https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_tva.png" group-title="🇺🇦 Украина",ТВА (Черновцы)
@@ -649,12 +675,16 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" group-title="⚽ Спорт",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -701,8 +731,6 @@ https://stream3.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png" group-title="🧸 Детские",Detskiy
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="🧸 Детские",Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="🧸 Детские",Kapitan Fantastika
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="🧸 Детские",O! International
@@ -765,8 +793,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🎬 Кино и сериалы",Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="🎬 Кино и сериалы",Мужской HD
-https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино и сериалы",Наш кинопоказ HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬 Кино и сериалы",НТВ Сериал
@@ -781,6 +807,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="🎬 Кино и сериалы",ТВ1000 Русское кино Глобал
 http://213.91.179.28:8000/play/a0bx
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="🎬 Кино и сериалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="🎬 Кино и сериалы",viju+ Comedy HD
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" group-title="🎬 Кино и сериалы",Комедия
@@ -891,8 +919,6 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="📚 Познавательные",Nano HD
 http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://i.imgur.com/67ZVDKW.png" group-title="📚 Познавательные",Nasha Tema
-https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nat_geo_wild.jpg" group-title="📚 Познавательные",Nat Geo WILD
 https://stream3.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_national_geographic.jpg" group-title="📚 Познавательные",National Geographic
@@ -1015,46 +1041,6 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="📰 Новости мира",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",24 канал (nashnet)
-https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",5 канал
-https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",5 канал HD (ipnet)
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",8 канал
-https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",ATR
-https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",FREEДОМ
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Апостроф ТВ
-https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Армія ТБ
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Еспресо TV HD (nashnet)
-https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Ми-Україна+ (ipnet)
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Обозреватель
-https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Перший (tva.in.ua)
-https://tva.in.ua/live/first.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Перший (UA:Перший)
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Перший HD (ipnet)
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Прямий (nashnet)
-https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Рада (nashnet)
-https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Сварожичі HD
-http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Суспільне Київ
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Суспільне Крим
-https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8|User-Agent=curl%2F8.16.0
-#EXTINF:-1 tvg-id="" group-title="Украина (проверка)",Суспільне Культура
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8|User-Agent=curl%2F8.16.0
 #EXTINF:-1 tvg-id="" group-title="🇧🇾 Беларусь",НТВ Беларусь
 https://ritsatv.ru/oklive2/ntvbelarus/720#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="" group-title="🇧🇾 Беларусь",ОНТ
