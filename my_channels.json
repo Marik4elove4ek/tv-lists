@@ -3753,55 +3753,63 @@
     "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/smQKa2G.png",
-    "order": 0.1
+    "order": 0.1,
+    "epg": "1plus1"
   },
   {
     "name": "1+1 International",
     "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/LOY0rtp.png",
-    "order": 0.2
+    "order": 0.2,
+    "epg": "1plus1-int"
   },
   {
     "name": "Интер+",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/Y392Hh4.png",
-    "order": 0.30000000000000004
+    "order": 0.30000000000000004,
+    "epg": "inter-plus-ua"
   },
   {
     "name": "К2",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/NMhydr5.png",
-    "order": 0.4
+    "order": 0.4,
+    "epg": "k2-ua"
   },
   {
     "name": "Мега",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/Hsr0EvO.png",
-    "order": 0.5
+    "order": 0.5,
+    "epg": "mega-ua"
   },
   {
     "name": "Pixel TV",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/ECro8Ah.png",
-    "order": 0.6000000000000001
+    "order": 0.6000000000000001,
+    "epg": "pixel"
   },
   {
     "name": "Espreso TV",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/espreso-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/xNatV8K.png",
-    "order": 0.7000000000000001
+    "order": 0.7000000000000001,
+    "epg": "espreso-tv"
   },
   {
     "name": "Прямой",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pryamyi-abr/playlist.m3u8",
     "group": "Украина",
     "logo": "https://i.imgur.com/sEdzw80.png",
-    "order": 0.8
+    "order": 0.8,
+    "epg": "priamyj"
   }
 ]
