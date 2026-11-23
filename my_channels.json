@@ -3747,5 +3747,61 @@
     "url": "https://stream3.cinerama.uz/1248/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": ""
+  },
+  {
+    "name": "1+1 Марафон",
+    "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.1
+  },
+  {
+    "name": "1+1 International",
+    "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.2
+  },
+  {
+    "name": "Интер+",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.30000000000000004
+  },
+  {
+    "name": "К2",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.4
+  },
+  {
+    "name": "Мега",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.5
+  },
+  {
+    "name": "Pixel TV",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.6000000000000001
+  },
+  {
+    "name": "Espreso TV",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/espreso-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.7000000000000001
+  },
+  {
+    "name": "Прямой",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pryamyi-abr/playlist.m3u8",
+    "group": "Украина",
+    "logo": "",
+    "order": 0.8
   }
 ]
