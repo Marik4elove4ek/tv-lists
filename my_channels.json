@@ -3034,6 +3034,12 @@
     "order": 4
   },
   {
+    "name": "Nickelodeon",
+    "url": "https://stream3.cinerama.uz/1500/playlist.m3u8",
+    "group": "🧸 Детские",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nickelodeon.jpg"
+  },
+  {
     "name": "Nicktoons",
     "url": "https://ritsatv.ru/stream/000004365/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "🧸 Детские",
@@ -3081,6 +3087,12 @@
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mult.jpg",
     "order": 11
+  },
+  {
+    "name": "Мульт",
+    "url": "https://stream3.cinerama.uz/1246/tracks-v1a1/mono.m3u8",
+    "group": "🧸 Детские",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mult.jpg"
   },
   {
     "name": "Cartoons VHS-ka",
@@ -3230,6 +3242,12 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_eurosport_2.jpg"
   },
   {
+    "name": "Eurosport",
+    "url": "https://stream3.cinerama.uz/1439/mono.m3u8",
+    "group": "⚽ Спорт",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_eurosport_2.jpg"
+  },
+  {
     "name": "EuroNews",
     "url": "https://stream3.cinerama.uz/1024/index.m3u8",
     "group": "📰 Новости мира",
@@ -3307,6 +3325,12 @@
     "url": "https://stream3.cinerama.uz/1251/tracks-v1a1/mono.m3u8",
     "group": "📰 Новости мира",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_bbc_world_news.jpg"
+  },
+  {
+    "name": "CNN International",
+    "url": "https://stream3.cinerama.uz/1259/tracks-v1a1/mono.m3u8",
+    "group": "📰 Новости мира",
+    "logo": ""
   },
   {
     "name": "Телекафе",
@@ -3427,6 +3451,12 @@
     "url": "https://stream3.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_dom_kino.jpg"
+  },
+  {
+    "name": "Кинопоказ",
+    "url": "https://stream3.cinerama.uz/1057/tracks-v1a1/mono.m3u8",
+    "group": "🎬 Кино и сериалы",
+    "logo": ""
   },
   {
     "name": "Авто24",
@@ -3709,5 +3739,11 @@
     "url": "https://stream3.cinerama.uz/1039/tracks-v1a1/mono.m3u8",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_discovery_channel.jpg"
+  },
+  {
+    "name": "Наука 2.0",
+    "url": "https://stream3.cinerama.uz/1248/tracks-v1a1/mono.m3u8",
+    "group": "📚 Познавательные",
+    "logo": ""
   }
 ]
