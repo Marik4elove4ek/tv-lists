@@ -3954,18 +3954,6 @@
     "logo": ""
   },
   {
-    "name": "PBS KET",
-    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8",
-    "group": "🇺🇸 США",
-    "logo": ""
-  },
-  {
-    "name": "WCCA-TV (Worcester)",
-    "url": "https://worcester.vod.castus.tv/live/ch1.m3u8",
-    "group": "🇺🇸 США",
-    "logo": ""
-  },
-  {
     "name": "Доктор",
     "url": "http://185.46.16.239:8000/Doktor",
     "group": "📚 Познавательные",
