@@ -314,6 +314,35 @@ if os.path.exists(f'{OUT}/my_channels.json'):
     for c in json.load(open(f'{OUT}/my_channels.json', encoding='utf-8')):
         if c.get('deleted') and c.get('id'): merged = [s for s in merged if s['tid'] != c['id']]
 merged = [s for s in merged if re.sub(r'\s*\(\d+p\)|\s*\[(Not 24/7)\]', '', s['name']).strip() not in DROP_NAMES and s['group'] not in DROP_GROUPS]
+# «Мои добавки» (my_extra.m3u): каналы, которые Марк вставляет сам, в обычном виде плейлиста —
+# строка #EXTINF с названием (и, если есть, group-title="папка") и под ней адрес. Ошибочные строки пропускаются.
+def read_extra(path):
+    res = []; info = None; ua = ref = ''
+    try: text = open(path, encoding='utf-8-sig', errors='replace').read()
+    except Exception: return res
+    for line in text.splitlines():
+        line = line.strip()
+        try:
+            if line.startswith('#EXTINF'):
+                g = re.search(r'group-title="([^"]*)"', line); lg = re.search(r'tvg-logo="([^"]*)"', line); e = re.search(r'tvg-id="([^"]*)"', line)
+                info = dict(name=(re.sub(r'\S+="[^"]*"', '', line).split(',', 1) + [''])[1].strip(), group=(g.group(1).strip() if g else '') or 'Мои добавки',
+                            logo=lg.group(1) if lg else '', epg=e.group(1) if e else ''); ua = ref = ''
+            elif line.startswith('#EXTVLCOPT:http-user-agent='): ua = line.split('=', 1)[1]
+            elif line.startswith('#EXTVLCOPT:http-referrer='): ref = line.split('=', 1)[1]
+            elif line.startswith('#EXTGRP:') and info: info['group'] = line.split(':', 1)[1].strip() or info['group']
+            elif re.match(r'(https?|rtmp|rtsp|udp)://', line) and info and info['name']:
+                url = line
+                if '|' not in url and (ua or ref):
+                    url += '|' + '&'.join(k + '=' + urllib.parse.quote(v, safe='') for k, v in (('Referer', ref), ('User-Agent', ua)) if v)
+                res.append(dict(tid='', cid='', feed='', name=info['name'], url=url, opts=[], file='', group=info['group'],
+                                keep=True, pin=False, order=500, logo=info['logo'], epg=info['epg']))
+                info = None
+        except Exception:
+            info = None
+    return res
+_have = {s['url'] for s in merged}
+for s in read_extra(f'{OUT}/my_extra.m3u'):
+    if s['url'] not in _have: merged.append(s); _have.add(s['url'])
 write('all.m3u', merged, ['Израиль', '📻 🇮🇱 רדיו ישראלי', 'Украина', 'Беларусь', '📻 🇧🇾 Радио Беларусь', 'Россия', '📻 🇷🇺 Радио Россия', 'Россия: регионы', 'Георгия', '📰 Новости', '⚽ Спорт', '🧸 Детские', 'Другие страны', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира'], rename={'Израиль': '🇮🇱 ישראל', 'Россия': '🇷🇺 Россия', 'Беларусь': '🇧🇾 Беларусь', 'Украина': '🇺🇦 Украина', 'Россия: регионы': '📍 Россия: регионы', 'Георгия': '🇬🇪 Георгия', '🎬 Кино': '🎬 Кино и сериалы'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
