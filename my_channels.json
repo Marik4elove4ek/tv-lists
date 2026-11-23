@@ -3002,40 +3002,10 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_galaxy_tv.jpg"
   },
   {
-    "name": "Nature",
-    "url": "https://ritsatv.ru/stream/000006482/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "📚 Познавательные",
-    "logo": ""
-  },
-  {
-    "name": "History",
-    "url": "https://ritsatv.ru/stream/000005528/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "📚 Познавательные",
-    "logo": ""
-  },
-  {
-    "name": "Da Vinci",
-    "url": "https://ritsatv.ru/stream/000000333/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "📚 Познавательные",
-    "logo": ""
-  },
-  {
-    "name": "Discovery Channel",
-    "url": "https://ritsatv.ru/stream/000001496/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "📚 Познавательные",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_discovery_channel.jpg"
-  },
-  {
     "name": "Моя планета",
     "url": "https://ritsatv.ru/stream/000001049/tve/index.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
     "group": "📚 Познавательные",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_moya_planeta.jpg"
-  },
-  {
-    "name": "Travel + Adventure",
-    "url": "https://ritsatv.ru/rutlive/travel#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "📚 Познавательные",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_travel_adventure.jpg"
   },
   {
     "name": "Bloomberg TV Europe (HD)",
@@ -3111,18 +3081,6 @@
     "group": "🧸 Детские",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_mult.jpg",
     "order": 11
-  },
-  {
-    "name": "Том и Джерри",
-    "url": "https://ritsatv.ru/ccast/43075#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "🧸 Детские",
-    "logo": ""
-  },
-  {
-    "name": "Star Wars",
-    "url": "https://ritsatv.ru/rutlive/starwars/1080#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36",
-    "group": "🧸 Детские",
-    "logo": ""
   },
   {
     "name": "Cartoons VHS-ka",
@@ -3731,12 +3689,6 @@
   {
     "name": "Action Film",
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/36517.m3u8",
-    "group": "🎬 Кино и сериалы",
-    "logo": ""
-  },
-  {
-    "name": "Страх HD",
-    "url": "https://lupo-ritsa.kobozevmark.workers.dev/ccastproxy/34816.m3u8",
     "group": "🎬 Кино и сериалы",
     "logo": ""
   },
