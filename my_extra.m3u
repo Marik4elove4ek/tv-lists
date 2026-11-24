@@ -7,8 +7,6 @@
 # https://example.com/stream.m3u8
 #EXTINF:-1 group-title="♥18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+", Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="♥18+",Hustler
 http://193.33.39.108:9009/play/a02a
 #EXTINF:-1 group-title="♥18+",Private TV
@@ -19,29 +17,17 @@ http://185.23.80.23:8080/BrazzersTV/index.m3u8
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
 #EXTINF:-1 group-title="♥18+",Blue Hustler
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1 group-title="♥18+",Russkaya Noch
+#EXTINF:-1 group-title="♥18+" order="2",Russkaya Noch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
 #EXTINF:-1 group-title="♥18+",PassionXXX
 http://151.237.83.99:5500/PassionXXX
 #EXTINF:-1 group-title="♥18+",REDLIGHT HD
 http://92.114.85.87:8012/play/a004/index.m3u8
-#EXTINF:-1 group-title="♥18+",DORCEL HD
-http://142.132.200.37:9000/DORCELTVHD
-#EXTINF:-1 group-title="♥18+",Brazzers
-http://142.132.200.37:9000/Brazzers
-#EXTINF:-1 group-title="♥18+",passion
-http://142.132.200.37:9000/passion
-#EXTINF:-1 group-title="♥18+",BARELY LEGAL
-http://142.132.200.37:9000/BARELYLEGAL
-#EXTINF:-1 group-title="♥18+",EROX HD
-http://142.132.200.37:9000/EROXHD
-#EXTINF:-1 group-title="♥18+",EROXXX HD
-http://142.132.200.37:9000/EROXXXHD
-#EXTINF:-1 group-title="♥18+",PLAYBOY 
+#EXTINF:-1 group-title="♥18+" order="1",PLAYBOY 
 http://91.205.196.7:8000/play/a031
 #EXTINF:-1 group-title="♥18+",EROX
 http://91.205.196.7:8000/play/a032
-#EXTINF:-1 group-title="♥18+",Р ночь 
+#EXTINF:-1 group-title="♥18+" order="3",Р ночь 
 http://91.205.196.7:8000/play/a033
 #EXTINF:-1 group-title="♥18+",Exxxotika
 http://91.205.196.7:8000/play/a03m
@@ -59,8 +45,6 @@ http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Dorcel TV
-http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Eroxxx
 http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Erox

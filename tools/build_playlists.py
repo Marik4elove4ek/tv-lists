@@ -334,9 +334,9 @@ def read_extra(path):
         line = line.strip()
         try:
             if line.startswith('#EXTINF'):
-                g = re.search(r'group-title="([^"]*)"', line); lg = re.search(r'tvg-logo="([^"]*)"', line); e = re.search(r'tvg-id="([^"]*)"', line)
+                g = re.search(r'group-title="([^"]*)"', line); lg = re.search(r'tvg-logo="([^"]*)"', line); e = re.search(r'tvg-id="([^"]*)"', line); o = re.search(r'\border="(\d+)"', line)
                 info = dict(name=(re.sub(r'\S+="[^"]*"', '', line).split(',', 1) + [''])[1].strip(), group=(g.group(1).strip() if g else '') or 'Мои добавки',
-                            logo=lg.group(1) if lg else '', epg=e.group(1) if e else ''); ua = ref = ''
+                            logo=lg.group(1) if lg else '', epg=e.group(1) if e else '', order=(int(o.group(1)) if o else 500)); ua = ref = ''
             elif line.startswith('#EXTVLCOPT:http-user-agent='): ua = line.split('=', 1)[1]
             elif line.startswith('#EXTVLCOPT:http-referrer='): ref = line.split('=', 1)[1]
             elif line.startswith('#EXTGRP:') and info: info['group'] = line.split(':', 1)[1].strip() or info['group']
@@ -345,7 +345,7 @@ def read_extra(path):
                 if '|' not in url and (ua or ref):
                     url += '|' + '&'.join(k + '=' + urllib.parse.quote(v, safe='') for k, v in (('Referer', ref), ('User-Agent', ua)) if v)
                 res.append(dict(tid='', cid='', feed='', name=info['name'], url=url, opts=[], file='', group=info['group'],
-                                keep=True, pin=False, order=500, logo=info['logo'], epg=info['epg']))
+                                keep=True, pin=False, order=info['order'], logo=info['logo'], epg=info['epg']))
                 info = None
         except Exception:
             info = None
