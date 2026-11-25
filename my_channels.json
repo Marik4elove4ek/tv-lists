@@ -3959,40 +3959,5 @@
     "group": "📚 Познавательные",
     "logo": "https://epg.iptvx.one/picons/zhivaya-planeta.png",
     "epg": "zhivaya-planeta"
-  },
-  {
-    "name": "СТС (новый)",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
-    "group": "🧪 Проверка",
-    "epg": "sts",
-    "order": 1
-  },
-  {
-    "name": "ТВ-3 (новый)",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
-    "group": "🧪 Проверка",
-    "epg": "tv3-ru",
-    "order": 1
-  },
-  {
-    "name": "Домашний (новый)",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
-    "group": "🧪 Проверка",
-    "epg": "domashnij",
-    "order": 1
-  },
-  {
-    "name": "Пятый канал (новый)",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
-    "group": "🧪 Проверка",
-    "epg": "5kanal-ru",
-    "order": 1
-  },
-  {
-    "name": "ТНТ (новый)",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-    "group": "🧪 Проверка",
-    "epg": "tnt",
-    "order": 1
   }
 ]
