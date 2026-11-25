@@ -236,6 +236,29 @@ if os.path.exists(f'{OUT}/picks.json'):
             json.dump(picks_all, open(f'{OUT}/picks.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
             print('new Israeli channels:', ', '.join(fresh_il))
         json.dump(sorted(seen_il | il_now), open(seen_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+        # Новые украинские, белорусские и российские каналы (познавательные, кино, музыка, новости) тоже сами попадают в список (Марк, 25.11).
+        # Российские общие, развлекательные, детские и региональные сами не добавляются. seen_auto.json — каналы, которые уже были в списке.
+        def _auto(s):
+            _t = (s['tid'] or '').split('@')[0]
+            _cc = _t.rsplit('.', 1)[-1] if '.' in _t else ''
+            _g = s['group']
+            if _cc not in ('ru', 'ua', 'by') or _g == '⭐ Моя музыка': return False
+            if _g in ('📚 Познавательные', 'Россия · Новости', 'Музыка · Россия', 'Музыка · Украина') or _g.startswith('🎬'): return True
+            return _cc in ('ua', 'by') and not _g.startswith(('📷', '🌿'))
+        auto_now = {cid_of(s) for s in everything if _auto(s)}
+        auto_file = f'{OUT}/seen_auto.json'
+        if os.path.exists(auto_file):
+            seen_auto = set(json.load(open(auto_file, encoding='utf-8')))
+        else:
+            _fs0 = json.load(open(f'{OUT}/first_seen.json', encoding='utf-8')) if os.path.exists(f'{OUT}/first_seen.json') else {}
+            seen_auto = {c for c in auto_now if _fs0.get(c, '0') < '2026-11-18'}  # первый запуск: новыми считаем появившиеся с 18.11
+        fresh_auto = sorted((auto_now - seen_auto) - picked)
+        if fresh_auto:
+            picked |= set(fresh_auto)
+            picks_all['ids'] = list(picks_all.get('ids', [])) + fresh_auto
+            json.dump(picks_all, open(f'{OUT}/picks.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+            print('new UA/BY/RU channels:', ', '.join(fresh_auto))
+        json.dump(sorted(seen_auto | auto_now), open(auto_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
         everything = [s for s in everything if s['group'] == '⭐ Моя музыка' or cid_of(s) in picked]
 # Папки в общем файле — крупные: Израиль, На русском, Кино, Музыка (Марк попросил собрать всё вместе).
 # «Моя музыка» (VIVA Russia, City TV) — первой в папке «Музыка»
