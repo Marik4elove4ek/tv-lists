@@ -306,7 +306,7 @@ if os.path.exists(f'{OUT}/my_channels.json'):
             merged.append(dict(tid=c.get('id', ''), cid=c.get('id', '').split('@')[0], feed='', name=c['name'], url=c['url'], opts=[], file='',
                                group=c.get('group') or 'Мои каналы', keep=True, pin=bool(c.get('pin')), order=c.get('order', 500), logo=c.get('logo', ''), epg=c.get('epg', '')))  # pin: первым в своей папке
 # Удалено по просьбе Марика (22.11): каналы по названию и целые папки
-DROP_NAMES = {'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'Mir 24', 'Moskva 24', 'Страх HD', 'STARTAir', 'СТАРТ Air',
+DROP_NAMES = {'OTR', 'Star Wars', 'Том и Джерри', 'Russian Extreme Ultra', 'Mir 24', 'Moskva 24', 'Страх HD', 'STARTAir', 'СТАРТ Air',
               'Kino TV HD', 'Кино ТВ HD', 'НТВ-Хит', 'NTV Hit', 'Тайна ТВ', 'Универ ТВ', 'Драйв (576i)', 'Вкус', 'Da Vinci',
               'Travel + Adventure', 'Nature', 'History', 'Arsenal', 'Bloomberg TV Europe (HD)',
               'ABC News Live', 'Al Jazeera English',

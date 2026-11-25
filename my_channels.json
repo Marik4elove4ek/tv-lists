@@ -1825,12 +1825,6 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_ohota.png"
   },
   {
-    "id": "OTR.ru@SD",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ru_otr.png",
-    "order": 129,
-    "epg": "otr"
-  },
-  {
     "id": "RENTVInternational.ru@SD",
     "order": 11
   },
