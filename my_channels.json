@@ -3996,31 +3996,36 @@
     "name": "רדיו קול הצפון",
     "url": "https://live.ecast.co.il/stream/khz",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 793
+    "order": 793,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/424.png"
   },
   {
     "name": "רדיו המזרח 106FM",
     "url": "https://liveradio.co.il:9089/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 794
+    "order": 794,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/209.png"
   },
   {
     "name": "רדיו 103.6FM רמת השרון",
     "url": "https://radio.streamgates.net/stream/1036",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795
+    "order": 795,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/303.png"
   },
   {
     "name": "קול הגליל 105.3FM",
     "url": "https://radio.streamgates.net/stream/galil",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.01
+    "order": 795.01,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/48.png"
   },
   {
     "name": "קול הכנרת 106FM",
     "url": "https://radio.streamgates.net/stream/kinneret",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.02
+    "order": 795.02,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/53.png"
   },
   {
     "name": "רדיו קסם 106FM",
@@ -4032,13 +4037,15 @@
     "name": "רדיו הבינתחומי 106.2FM",
     "url": "https://1062onair.runi.ac.il/idc123.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.04
+    "order": 795.04,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/55.png"
   },
   {
     "name": "רדיו מאניה",
     "url": "https://cast.ereznet.co.il//radio//8030//radio.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.05
+    "order": 795.05,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/250.png"
   },
   {
     "name": "רדיו מציאות",
@@ -4050,37 +4057,43 @@
     "name": "קול יזרעאל",
     "url": "https://radio.streamgates.net/stream/yezreel/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.07
+    "order": 795.07,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/51.png"
   },
   {
     "name": "מוסיכיף 69FM",
     "url": "https://a2.asurahosting.com:6290/radio.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.08
+    "order": 795.08,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/246.png"
   },
   {
     "name": "הרדיו החברתי",
     "url": "https://live.ecast.co.il/stream/hevrati",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.09
+    "order": 795.09,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/271.png"
   },
   {
     "name": "רדיו סהר",
     "url": "https://live.ecast.co.il/stream/sahar",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.1
+    "order": 795.1,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/344.png"
   },
   {
     "name": "רדיו 69FM",
     "url": "https://live.ecast.co.il/stream/69fm",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.11
+    "order": 795.11,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/429.png"
   },
   {
     "name": "רדיו אלי ניסמן",
     "url": "https://listen6.myradio24.com/25715",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.12
+    "order": 795.12,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/435.png"
   },
   {
     "name": "ברדוגו לייב",
@@ -4098,13 +4111,15 @@
     "name": "מהות החיים",
     "url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.15
+    "order": 795.15,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/241.png"
   },
   {
     "name": "רדיו Hits IL",
     "url": "https://icecast.live/proxy/livegreece/hitsil",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.16
+    "order": 795.16,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/385.png"
   },
   {
     "name": "רדיו שירי דיכאון",
@@ -4116,19 +4131,22 @@
     "name": "גלגלצ מזרחית",
     "url": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.18
+    "order": 795.18,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/386.png"
   },
   {
     "name": "רדיו קול ערים",
     "url": "https://radio.kolnesher.co.il:7777/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.19
+    "order": 795.19,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/406.png"
   },
   {
     "name": "רדיו בריזר",
     "url": "https://sweb.co.il:8004/listen.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.2
+    "order": 795.2,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/215.jpg"
   },
   {
     "name": "רדיו מנטה",
@@ -4146,37 +4164,43 @@
     "name": "רדיו קול המרכז",
     "url": "https://liveradio.co.il:9070/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.23
+    "order": 795.23,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/251.png"
   },
   {
     "name": "רדיו קצב ים תיכוני",
     "url": "https://liveradio.co.il:1040/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.24
+    "order": 795.24,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/213.png"
   },
   {
     "name": "רדיו 5",
     "url": "https://liveradio.co.il:8070/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.25
+    "order": 795.25,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/211.png"
   },
   {
     "name": "רדיו נטו",
     "url": "https://live.ecast.co.il/stream/radioneto1",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.26
+    "order": 795.26,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/216.png"
   },
   {
     "name": "רדיו מרטיט בלב",
     "url": "https://liveradio.co.il:9030/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.27
+    "order": 795.27,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/258.png"
   },
   {
     "name": "רדיו כחול לבן",
     "url": "https://ams-pioneer02.dedicateware.com/live",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.28
+    "order": 795.28,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/343.png"
   },
   {
     "name": "המזרחית",
@@ -4188,7 +4212,8 @@
     "name": "רדיו לב העיר",
     "url": "https://liveradio.co.il:7050/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.3
+    "order": 795.3,
+    "logo": "https://radio.media.2net.co.il/storage/item_icons/308.png"
   },
   {
     "name": "רדיו חדש על הגל",
