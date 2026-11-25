@@ -141,71 +141,71 @@ https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="🇮🇱 ישראל",הקצה
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קול הצפון
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/424.png" group-title="🇮🇱 ישראל",רדיו קול הצפון
 https://live.ecast.co.il/stream/khz
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/209.png" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/303.png" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
 https://radio.streamgates.net/stream/1036
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/48.png" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
 https://radio.streamgates.net/stream/galil
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול הכנרת 106FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/53.png" group-title="🇮🇱 ישראל",קול הכנרת 106FM
 https://radio.streamgates.net/stream/kinneret
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קסם 106FM
 https://cdn.streamgates.net/Kessem_Radio/live/icecast.audio
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו הבינתחומי 106.2FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/55.png" group-title="🇮🇱 ישראל",רדיו הבינתחומי 106.2FM
 https://1062onair.runi.ac.il/idc123.mp3
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מאניה
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/250.png" group-title="🇮🇱 ישראל",רדיו מאניה
 https://cast.ereznet.co.il//radio//8030//radio.mp3
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מציאות
 https://carina.streamerr.co/stream/metsiot1
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול יזרעאל
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/51.png" group-title="🇮🇱 ישראל",קול יזרעאל
 https://radio.streamgates.net/stream/yezreel/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",מוסיכיף 69FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/246.png" group-title="🇮🇱 ישראל",מוסיכיף 69FM
 https://a2.asurahosting.com:6290/radio.mp3
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",הרדיו החברתי
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/271.png" group-title="🇮🇱 ישראל",הרדיו החברתי
 https://live.ecast.co.il/stream/hevrati
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו סהר
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/344.png" group-title="🇮🇱 ישראל",רדיו סהר
 https://live.ecast.co.il/stream/sahar
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 69FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/429.png" group-title="🇮🇱 ישראל",רדיו 69FM
 https://live.ecast.co.il/stream/69fm
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו אלי ניסמן
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/435.png" group-title="🇮🇱 ישראל",רדיו אלי ניסמן
 https://listen6.myradio24.com/25715
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",ברדוגו לייב
 https://securestreams.autopo.st:2572/;&type=mp3
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו להיט
 https://liveradio.co.il:8828/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",מהות החיים
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/241.png" group-title="🇮🇱 ישראל",מהות החיים
 https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו Hits IL
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/385.png" group-title="🇮🇱 ישראל",רדיו Hits IL
 https://icecast.live/proxy/livegreece/hitsil
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו שירי דיכאון
 https://radio.diki-mizrahit.co.il/
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",גלגלצ מזרחית
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/386.png" group-title="🇮🇱 ישראל",גלגלצ מזרחית
 https://glzwizzlv.bynetcdn.com/glglz_med_mp3
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קול ערים
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/406.png" group-title="🇮🇱 ישראל",רדיו קול ערים
 https://radio.kolnesher.co.il:7777/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו בריזר
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/215.jpg" group-title="🇮🇱 ישראל",רדיו בריזר
 https://sweb.co.il:8004/listen.mp3
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מנטה
 https://menta-fm.co.il/radio/;
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קצב מזרחית
 https://liveradio.co.il:9040/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קול המרכז
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/251.png" group-title="🇮🇱 ישראל",רדיו קול המרכז
 https://liveradio.co.il:9070/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קצב ים תיכוני
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/213.png" group-title="🇮🇱 ישראל",רדיו קצב ים תיכוני
 https://liveradio.co.il:1040/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/211.png" group-title="🇮🇱 ישראל",רדיו 5
 https://liveradio.co.il:8070/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו נטו
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/216.png" group-title="🇮🇱 ישראל",רדיו נטו
 https://live.ecast.co.il/stream/radioneto1
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מרטיט בלב
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/258.png" group-title="🇮🇱 ישראל",רדיו מרטיט בלב
 https://liveradio.co.il:9030/;
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו כחול לבן
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/343.png" group-title="🇮🇱 ישראל",רדיו כחול לבן
 https://ams-pioneer02.dedicateware.com/live
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",המזרחית
 https://live.ecast.co.il/stream/mizrahit
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו לב העיר
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/308.png" group-title="🇮🇱 ישראל",רדיו לב העיר
 https://liveradio.co.il:7050/;
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו חדש על הגל
 https://liveradio.co.il:8020/;
@@ -799,6 +799,10 @@ http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="⚽ Спорт",Volleyball
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -915,6 +919,8 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎬 Кино и сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎬 Кино и сериалы",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://i.imgur.com/nSmSnH6.png" group-title="🎬 Кино и сериалы",ТВ 21
@@ -1208,7 +1214,7 @@ http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/adult_18.png.png" group-title="♥18+",MILF
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/adult_18.png.png" group-title="♥18+",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
+http://live.redtraffic.net/pornstar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/adult_18.png.png" group-title="♥18+",POV
 http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/adult_18.png.png" group-title="♥18+",Rough
