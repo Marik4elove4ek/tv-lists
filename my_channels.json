@@ -3966,5 +3966,9 @@
   {
     "id": "InterPlus.ua@HD",
     "order": 0.06
+  },
+  {
+    "id": "STV.by@SD",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_stv.png"
   }
 ]
