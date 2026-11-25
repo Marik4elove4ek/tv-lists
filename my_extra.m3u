@@ -5,7 +5,7 @@
 # Пример (решётка и пробел в начале выключают строчку):
 # #EXTINF:-1 group-title="Моя папка",Название канала
 # https://example.com/stream.m3u8
-#EXTINF:-1 group-title="♥18+",Extasy 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/extasy4k.png" group-title="♥18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/960px-HustlerTV.svg.png" group-title="♥18+",Hustler
 http://193.33.39.108:9009/play/a02a
@@ -17,7 +17,7 @@ http://185.23.80.23:8080/BrazzersTV/index.m3u8
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="♥18+",Blue Hustler
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1 group-title="♥18+" order="2",Russkaya Noch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/russkaya_noch.png" group-title="♥18+" order="2",Russkaya Noch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.passionxxx.net/img/logo@2x.png" group-title="♥18+",PassionXXX
 http://151.237.83.99:5500/PassionXXX
@@ -27,7 +27,7 @@ http://92.114.85.87:8012/play/a004/index.m3u8
 http://91.205.196.7:8000/play/a031
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="♥18+",EROX
 http://91.205.196.7:8000/play/a032
-#EXTINF:-1 group-title="♥18+",Exxxotika
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/exxxotica.png" group-title="♥18+",Exxxotika
 http://91.205.196.7:8000/play/a03m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="♥18+",Dorcel_HD
 http://31.148.5.241:80/Dorcel_HD/index.m3u8
@@ -41,7 +41,7 @@ http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YYSsMP8.png" group-title="♥18+",Desire
 http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Extasy 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/extasy4k.png" group-title="♥18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="♥18+",Eroxxx
 http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
@@ -49,7 +49,7 @@ http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XK19a9v.png" group-title="♥18+",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Porn Classic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/porn_classic.png" group-title="♥18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ran_tv_israel.png" group-title="🇮🇱 ישראל",Ran TV Israel 
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
