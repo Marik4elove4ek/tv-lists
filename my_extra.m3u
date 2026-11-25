@@ -51,7 +51,7 @@ http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="adult-porn-classic" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/porn_classic.png" group-title="♥18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ran_tv_israel.png" group-title="🇮🇱 ישראל",Ran TV Israel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ran_tv_israel.png" group-title="Израиль" order="901",Ran TV Israel 
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV Live Cams" group-title="♥18+",AdultIPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
