@@ -3966,35 +3966,5 @@
     "group": "📚 Познавательные",
     "logo": "https://epg.iptvx.one/picons/zhivaya-planeta.png",
     "epg": "zhivaya-planeta"
-  },
-  {
-    "name": "Babes TV · тест A (другое имя)",
-    "url": "http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2013%3B%20Pixel%207%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Mobile%20Safari%2F537.36",
-    "group": "🧪 Тест"
-  },
-  {
-    "name": "Babes TV · тест B (без проверки)",
-    "url": "http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8|Referer=http%3A%2F%2F212.102.38.45%2F",
-    "group": "🧪 Тест"
-  },
-  {
-    "name": "Brazzers · тест A (другое имя)",
-    "url": "http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2013%3B%20Pixel%207%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Mobile%20Safari%2F537.36",
-    "group": "🧪 Тест"
-  },
-  {
-    "name": "Brazzers · тест B (без проверки)",
-    "url": "http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8|Referer=http%3A%2F%2F212.102.38.45%2F",
-    "group": "🧪 Тест"
-  },
-  {
-    "name": "PLAYBOY · тест A (другое имя)",
-    "url": "http://91.205.196.7:8000/play/a031|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2013%3B%20Pixel%207%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Mobile%20Safari%2F537.36",
-    "group": "🧪 Тест"
-  },
-  {
-    "name": "PLAYBOY · тест B (без проверки)",
-    "url": "http://91.205.196.7:8000/play/a031|Referer=http%3A%2F%2F91.205.196.7%3A8000%2F",
-    "group": "🧪 Тест"
   }
 ]
