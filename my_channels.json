@@ -3997,5 +3997,11 @@
     "url": "https://live.ecast.co.il/stream/khz",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 793
+  },
+  {
+    "name": "רדיו המזרח 106FM",
+    "url": "https://liveradio.co.il:9089/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 794
   }
 ]
