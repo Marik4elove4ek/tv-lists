@@ -3970,5 +3970,32 @@
   {
     "id": "STV.by@SD",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/by_stv.png"
+  },
+  {
+    "name": "קול פליי",
+    "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png",
+    "order": 790
+  },
+  {
+    "name": "רדיוס נוסטלגי 96.3FM",
+    "url": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://www.963fm.co.il/wp-content/uploads/2025/11/cropped-F-270x270.png",
+    "order": 791
+  },
+  {
+    "name": "הקצה",
+    "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+    "order": 792
+  },
+  {
+    "name": "רדיו קול הצפון",
+    "url": "https://live.ecast.co.il/stream/khz",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 793
   }
 ]
