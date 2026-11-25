@@ -276,7 +276,7 @@
     "url": "https://1075.livecdn.biz/radiohaifa",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_haifa.png",
-    "order": 300
+    "order": 103.6
   },
   {
     "name": "רדיו חם אש 99.5FM",
@@ -2643,7 +2643,7 @@
     "name": "רדיו ספורט 5",
     "url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 899,
+    "order": 103.3,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_sport5.jpg"
   },
   {
