@@ -378,6 +378,7 @@ if _adult:
     for s in _adult:
         if s['url'] in _have: continue
         s['group'] = '♥18+'; s['order'] = 900; s['keep'] = False
+        s['logo'] = 'https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/adult_18.png.png'  # один общий логотип (сердечко 18+)
         s['name'] = s['name'].replace('AdultIPTV.net', 'AdultIPTV')  # без точки в названии (просьба Марка)
         ok[s['url']] = alive(s['url'])
         if not ok[s['url']]:  # основной адрес молчит — пробуем запасной того же канала (RedTraffic, те же потоки)
