@@ -4,7 +4,7 @@
 import gzip, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://www.open-epg.com/files/georgia1.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz', 'https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz', 'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz', 'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz']  # epgshare01: только каналы 18+ по названию  # epg.team: только ערוץ 10 и ערוץ 16
+SOURCES = ['https://www.open-epg.com/files/israel.xml.gz', 'https://www.open-epg.com/files/georgia1.xml.gz', 'https://iptvx.one/EPG', 'https://epg.team/1.1.xml.gz']  # каналы 18+ находятся по названию (ADULT ниже)  # epg.team: только ערוץ 10 и ערוץ 16
 DAYS = 3
 
 # Каналы 18+ в источниках называются по-разному и без общего кода — находим их по названию
