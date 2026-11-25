@@ -4003,5 +4003,221 @@
     "url": "https://liveradio.co.il:9089/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 794
+  },
+  {
+    "name": "רדיו 103.6FM רמת השרון",
+    "url": "https://radio.streamgates.net/stream/1036",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795
+  },
+  {
+    "name": "קול הגליל 105.3FM",
+    "url": "https://radio.streamgates.net/stream/galil",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.01
+  },
+  {
+    "name": "קול הכנרת 106FM",
+    "url": "https://radio.streamgates.net/stream/kinneret",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.02
+  },
+  {
+    "name": "רדיו קסם 106FM",
+    "url": "https://cdn.streamgates.net/Kessem_Radio/live/icecast.audio",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.03
+  },
+  {
+    "name": "רדיו הבינתחומי 106.2FM",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.04
+  },
+  {
+    "name": "רדיו מאניה",
+    "url": "https://cast.ereznet.co.il//radio//8030//radio.mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.05
+  },
+  {
+    "name": "רדיו מציאות",
+    "url": "https://carina.streamerr.co/stream/metsiot1",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.06
+  },
+  {
+    "name": "קול יזרעאל",
+    "url": "https://radio.streamgates.net/stream/yezreel/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.07
+  },
+  {
+    "name": "מוסיכיף 69FM",
+    "url": "https://a2.asurahosting.com:6290/radio.mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.08
+  },
+  {
+    "name": "הרדיו החברתי",
+    "url": "https://live.ecast.co.il/stream/hevrati",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.09
+  },
+  {
+    "name": "רדיו סהר",
+    "url": "https://live.ecast.co.il/stream/sahar",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.1
+  },
+  {
+    "name": "רדיו 69FM",
+    "url": "https://live.ecast.co.il/stream/69fm",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.11
+  },
+  {
+    "name": "רדיו אלי ניסמן",
+    "url": "https://listen6.myradio24.com/25715",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.12
+  },
+  {
+    "name": "ברדוגו לייב",
+    "url": "https://securestreams.autopo.st:2572/;&type=mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.13
+  },
+  {
+    "name": "רדיו להיט",
+    "url": "https://liveradio.co.il:8828/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.14
+  },
+  {
+    "name": "מהות החיים",
+    "url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.15
+  },
+  {
+    "name": "רדיו Hits IL",
+    "url": "https://icecast.live/proxy/livegreece/hitsil",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.16
+  },
+  {
+    "name": "רדיו שירי דיכאון",
+    "url": "https://radio.diki-mizrahit.co.il/",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.17
+  },
+  {
+    "name": "גלגלצ מזרחית",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.18
+  },
+  {
+    "name": "רדיו קול ערים",
+    "url": "https://radio.kolnesher.co.il:7777/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.19
+  },
+  {
+    "name": "רדיו בריזר",
+    "url": "https://sweb.co.il:8004/listen.mp3",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.2
+  },
+  {
+    "name": "רדיו מנטה",
+    "url": "https://menta-fm.co.il/radio/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.21
+  },
+  {
+    "name": "רדיו קצב מזרחית",
+    "url": "https://liveradio.co.il:9040/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.22
+  },
+  {
+    "name": "רדיו קול המרכז",
+    "url": "https://liveradio.co.il:9070/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.23
+  },
+  {
+    "name": "רדיו קצב ים תיכוני",
+    "url": "https://liveradio.co.il:1040/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.24
+  },
+  {
+    "name": "רדיו 5",
+    "url": "https://liveradio.co.il:8070/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.25
+  },
+  {
+    "name": "רדיו נטו",
+    "url": "https://live.ecast.co.il/stream/radioneto1",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.26
+  },
+  {
+    "name": "רדיו מרטיט בלב",
+    "url": "https://liveradio.co.il:9030/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.27
+  },
+  {
+    "name": "רדיו כחול לבן",
+    "url": "https://ams-pioneer02.dedicateware.com/live",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.28
+  },
+  {
+    "name": "המזרחית",
+    "url": "https://live.ecast.co.il/stream/mizrahit",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.29
+  },
+  {
+    "name": "רדיו לב העיר",
+    "url": "https://liveradio.co.il:7050/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.3
+  },
+  {
+    "name": "רדיו חדש על הגל",
+    "url": "https://liveradio.co.il:8020/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.31
+  },
+  {
+    "name": "רדיו חולמים ים תיכוני",
+    "url": "https://liveradio.co.il:8110/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.32
+  },
+  {
+    "name": "רדיו מרוקו",
+    "url": "https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.33
+  },
+  {
+    "name": "רדיו נט",
+    "url": "http://liveradio.co.il:9910/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.34
+  },
+  {
+    "name": "רדיו מזרח ישן",
+    "url": "https://cast5.asurahosting.com/proxy/idan/stream",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "order": 795.35
   }
 ]
