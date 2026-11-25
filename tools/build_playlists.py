@@ -356,6 +356,30 @@ def read_extra(path):
 _have = {s['url'] for s in merged}
 for s in read_extra(f'{OUT}/my_extra.m3u'):
     if s['url'] not in _have: merged.append(s); _have.add(s['url'])
+# Автоподгрузка 18+ (Марк, 25.11): плейлист adultiptv.net/chs.m3u. Сайт сам убирает умершие каналы и добавляет новые.
+# Берём только его собственные каналы (cdn.adultiptv.net), кладём в «♥18+» после своих (order=900), мёртвые не показываем.
+# Если сайт не ответил — берём то, что было в all.m3u в прошлый раз. Свои каналы Марка в «♥18+» не трогаются.
+def adult_remote():
+    res = []
+    try:
+        req = urllib.request.Request('http://adultiptv.net/chs.m3u', headers={'User-Agent': UA})
+        with urllib.request.urlopen(req, timeout=20) as r: open('/tmp/adult_chs.m3u', 'wb').write(r.read(500000))
+        res = [s for s in read_extra('/tmp/adult_chs.m3u') if 'cdn.adultiptv.net' in s['url']]
+    except Exception:
+        pass
+    if not res:
+        try: res = [s for s in read_extra(f'{OUT}/all.m3u') if 'cdn.adultiptv.net' in s['url'] and s['group'] == '♥18+']
+        except Exception: pass
+    return res
+_adult = adult_remote()
+if _adult:
+    merged = [s for s in merged if 'cdn.adultiptv.net' not in s['url']]
+    _have = {s['url'] for s in merged}
+    for s in _adult:
+        if s['url'] in _have: continue
+        s['group'] = '♥18+'; s['order'] = 900; s['keep'] = False
+        ok[s['url']] = alive(s['url'])
+        merged.append(s); _have.add(s['url'])
 write('all.m3u', merged, ['Израиль', '📻 🇮🇱 רדיו ישראלי', 'Украина', 'Беларусь', '📻 🇧🇾 Радио Беларусь', 'Россия', '📻 🇷🇺 Радио Россия', 'Россия: регионы', 'Георгия', '📰 Новости', '⚽ Спорт', '🧸 Детские', 'Другие страны', '🎬 Кино', '🎵 Музыка', '📚 Познавательные', '🌿 Релакс и природа', '📷 Виды и путешествия', '📰 Новости мира'], rename={'Израиль': '🇮🇱 ישראל', 'Россия': '🇷🇺 Россия', 'Беларусь': '🇧🇾 Беларусь', 'Украина': '🇺🇦 Украина', 'Россия: регионы': '📍 Россия: регионы', 'Георгия': '🇬🇪 Георгия', '🎬 Кино': '🎬 Кино и сериалы'})
 
 # Каталог для страницы выбора каналов: все проверенные каналы с папкой, логотипом и «работает ли сейчас»
