@@ -39,15 +39,17 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/play
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="sport5stars.il" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="🇮🇱 ישראל",ספורט 5 סטארס
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5sport-max-il" tvg-logo="https://i.postimg.cc/XNmh01pH/5sport-max-il.png" group-title="🇮🇱 ישראל",ספורט 5 מקס
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="🇮🇱 ישראל",ספורט 5 פלוס
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="foody.il" tvg-logo="https://images.open-epg.com/18748363.png" group-title="🇮🇱 ישראל",Foody
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="one2.il" tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="🇮🇱 ישראל",וואן 2
+#EXTINF:-1 tvg-id="one2.il" tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="🇮🇱 ישראל",One 2
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="oneedge.il" tvg-logo="https://images.open-epg.com/x1761.png" group-title="🇮🇱 ישראל",וואן אדג'
+#EXTINF:-1 tvg-id="oneedge.il" tvg-logo="https://images.open-epg.com/x1761.png" group-title="🇮🇱 ישראל",One Edge
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="onedoco.il" tvg-logo="https://images.open-epg.com/18748370.png" group-title="🇮🇱 ישראל",וואן דוקו
+#EXTINF:-1 tvg-id="onedoco.il" tvg-logo="https://images.open-epg.com/18748370.png" group-title="🇮🇱 ישראל",One Doco
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="vivainstanbul.il" tvg-logo="https://cdn.epg.one/img2/88006.png" group-title="🇮🇱 ישראל",ויוה איסטנבול
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
@@ -55,8 +57,6 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlis
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="music.il" tvg-logo="https://i.imgur.com/tTVOc31.png" group-title="🇮🇱 ישראל",מיוזיק ישראל
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5sport-max-il" tvg-logo="https://i.postimg.cc/XNmh01pH/5sport-max-il.png" group-title="🇮🇱 ישראל",ספורט 5 מקס
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-logo="https://i.imgur.com/VxAHOgr.png" group-title="🇮🇱 ישראל",קבלה לעם
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="hidabrot.il" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="🇮🇱 ישראל",הידברות

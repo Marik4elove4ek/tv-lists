@@ -2620,32 +2620,38 @@
   {
     "id": "5Gold.il@SD",
     "epg": "sport5gold.il",
-    "title": "ספורט 5 גולד"
+    "title": "ספורט 5 גולד",
+    "order": 450.3
   },
   {
     "id": "5Live.il@SD",
     "epg": "sport5live.il",
-    "title": "ספורט 5 לייב"
+    "title": "ספורט 5 לייב",
+    "order": 450.4
   },
   {
     "id": "5Plus.il@SD",
     "epg": "sport5plus.il",
-    "title": "ספורט 5 פלוס"
+    "title": "ספורט 5 פלוס",
+    "order": 450.7
   },
   {
     "id": "5Sport.il@SD",
     "epg": "sport5hd.il",
-    "title": "ספורט 5"
+    "title": "ספורט 5",
+    "order": 450.1
   },
   {
     "id": "5Sport4K.il@SD",
     "epg": "sport54k.il",
-    "title": "ספורט 5 4K"
+    "title": "ספורט 5 4K",
+    "order": 450.2
   },
   {
     "id": "5Stars.il@SD",
     "epg": "sport5stars.il",
-    "title": "ספורט 5 סטארס"
+    "title": "ספורט 5 סטארס",
+    "order": 450.5
   },
   {
     "name": "רדיו ספורט 5",
@@ -2743,17 +2749,17 @@
   {
     "id": "One2.il@SD",
     "epg": "one2.il",
-    "title": "וואן 2"
+    "title": "One 2"
   },
   {
     "id": "OneDoco.il@SD",
     "epg": "onedoco.il",
-    "title": "וואן דוקו"
+    "title": "One Doco"
   },
   {
     "id": "OneEdge.il@SD",
     "epg": "oneedge.il",
-    "title": "וואן אדג'"
+    "title": "One Edge"
   },
   {
     "id": "VivaIstanbul.il@SD",
@@ -2768,7 +2774,8 @@
   {
     "id": "5Max.il@SD",
     "title": "ספורט 5 מקס",
-    "epg": "5sport-max-il"
+    "epg": "5sport-max-il",
+    "order": 450.6
   },
   {
     "name": "Радио Свобода",
