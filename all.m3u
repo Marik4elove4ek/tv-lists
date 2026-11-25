@@ -145,6 +145,78 @@ http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 https://live.ecast.co.il/stream/khz
 #EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
+https://radio.streamgates.net/stream/1036
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
+https://radio.streamgates.net/stream/galil
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול הכנרת 106FM
+https://radio.streamgates.net/stream/kinneret
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קסם 106FM
+https://cdn.streamgates.net/Kessem_Radio/live/icecast.audio
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו הבינתחומי 106.2FM
+https://1062onair.runi.ac.il/idc123.mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מאניה
+https://cast.ereznet.co.il//radio//8030//radio.mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מציאות
+https://carina.streamerr.co/stream/metsiot1
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",קול יזרעאל
+https://radio.streamgates.net/stream/yezreel/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",מוסיכיף 69FM
+https://a2.asurahosting.com:6290/radio.mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",הרדיו החברתי
+https://live.ecast.co.il/stream/hevrati
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו סהר
+https://live.ecast.co.il/stream/sahar
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 69FM
+https://live.ecast.co.il/stream/69fm
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו אלי ניסמן
+https://listen6.myradio24.com/25715
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",ברדוגו לייב
+https://securestreams.autopo.st:2572/;&type=mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו להיט
+https://liveradio.co.il:8828/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",מהות החיים
+https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו Hits IL
+https://icecast.live/proxy/livegreece/hitsil
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו שירי דיכאון
+https://radio.diki-mizrahit.co.il/
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",גלגלצ מזרחית
+https://glzwizzlv.bynetcdn.com/glglz_med_mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קול ערים
+https://radio.kolnesher.co.il:7777/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו בריזר
+https://sweb.co.il:8004/listen.mp3
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מנטה
+https://menta-fm.co.il/radio/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קצב מזרחית
+https://liveradio.co.il:9040/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קול המרכז
+https://liveradio.co.il:9070/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קצב ים תיכוני
+https://liveradio.co.il:1040/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו 5
+https://liveradio.co.il:8070/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו נטו
+https://live.ecast.co.il/stream/radioneto1
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מרטיט בלב
+https://liveradio.co.il:9030/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו כחול לבן
+https://ams-pioneer02.dedicateware.com/live
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",המזרחית
+https://live.ecast.co.il/stream/mizrahit
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו לב העיר
+https://liveradio.co.il:7050/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו חדש על הגל
+https://liveradio.co.il:8020/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו חולמים ים תיכוני
+https://liveradio.co.il:8110/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מרוקו
+https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו נט
+http://liveradio.co.il:9910/;
+#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו מזרח ישן
+https://cast5.asurahosting.com/proxy/idan/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_bet.png" group-title="🇮🇱 ישראל",כאן רשת ב
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_gimel.png" group-title="🇮🇱 ישראל",כאן גימל
@@ -721,16 +793,12 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="" group-title="⚽ Спорт",Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Dl_imWli7-5cH-RyjmV9hQ&e=2095352888&scheme=https
-#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV
-https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="⚽ Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="⚽ Спорт",Volleyball
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧸 Детские",Disney Junior
 https://ritsatv.ru/rutlive/multachachki#.m3u8|Referer=https%3A%2F%2Fritsatv.ru%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F156.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🧸 Детские",Nick Jr.
@@ -781,8 +849,6 @@ https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="🧸 Детские",Kapitan Fantastika
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="🧸 Детские",O! International
-http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru@SD" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" group-title="🧸 Детские",Smile TV
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="🧸 Детские",Smotrim 100% Detskoe
@@ -855,6 +921,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="🎬 Кино и сериалы",ТВ1000 Русское кино Глобал
 http://213.91.179.28:8000/play/a0bx
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="🎬 Кино и сериалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="🎬 Кино и сериалы",viju+ Comedy HD
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" group-title="🎬 Кино и сериалы",Комедия
@@ -1041,8 +1109,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 https://webtvstream.bhtelecom.ba/funbox.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.3
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📚 Познавательные",TV BRICS Russian
 http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="📚 Познавательные",Бобёр
-http://88.212.15.50/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="📚 Познавательные",Загородная жизнь
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="📚 Познавательные",Приключения
