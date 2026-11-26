@@ -235,6 +235,8 @@ https://live.kol-barama.co.il/hls/mystreambini.m3u8
 https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_chai.png" group-title="🇮🇱 ישראל",רדיו קול חי 93FM
 https://media2.93fm.co.il/live-new
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_chai.png" group-title="🇮🇱 ישראל",קול חי מיוזיק
+https://media2.93fm.co.il/livemusic
 #EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://i.imgur.com/Y392Hh4.png" group-title="🇺🇦 Украина",Интер+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/INTER%2B_HD_%282021%29.webp" group-title="🇺🇦 Украина",Inter+ HD

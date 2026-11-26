@@ -251,6 +251,13 @@
     "order": 910
   },
   {
+    "name": "קול חי מיוזיק",
+    "url": "https://media2.93fm.co.il/livemusic",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_chai.png",
+    "order": 911
+  },
+  {
     "name": "רדיו אילת 102FM",
     "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/playlist.m3u8",
     "group": "📻 🇮🇱 רדיו ישראלי",
