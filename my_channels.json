@@ -4473,27 +4473,6 @@
     "order": 127
   },
   {
-    "name": "Прямий FM",
-    "url": "https://cast.mediaonline.net.ua/prmfm",
-    "group": "📻 🇺🇦 Радио Украина",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_pryamyj.jpg",
-    "order": 128
-  },
-  {
-    "name": "Яскраве радіо",
-    "url": "http://vobu.com.ua:8000/yaskrave-192",
-    "group": "📻 🇺🇦 Радио Украина",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_yaskrave.png",
-    "order": 129
-  },
-  {
-    "name": "Radio Miami",
-    "url": "http://62.80.190.247:8001/NRK128",
-    "group": "📻 🇺🇦 Радио Украина",
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_miami.jpg",
-    "order": 130
-  },
-  {
     "name": "Просто Ради.О",
     "url": "http://85.238.113.60:8000/PRK128",
     "group": "📻 🇺🇦 Радио Украина",
