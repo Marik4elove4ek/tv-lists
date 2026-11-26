@@ -137,18 +137,18 @@ https://listen.radioking.com/radio/345145/stream/393862
 https://us1.streamingpulse.com/ssl/KolHalev
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_rega.png" group-title="🇮🇱 ישראל",רדיו קול רגע 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius_nostalgi.png" group-title="🇮🇱 ישראל",רדיוס נוסטלגי 96.3FM
-https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hakatze.jpg" group-title="🇮🇱 ישראל",הקצה
-http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg" group-title="🇮🇱 ישראל",רדיו קול הצפון
-https://live.ecast.co.il/stream/khz
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_joint_radio_beat.jpg" group-title="🇮🇱 ישראל",Joint Radio Beat
 https://jointil.com/stream-beat
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_plus.png" group-title="🇮🇱 ישראל",רדיו פלוס
 https://s3.yesstreaming.net:17049/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiolove.co.il/wp-content/uploads/2020/03/cropped-Love-Radio-logo-2012-192x192.png" group-title="🇮🇱 ישראל",רדיו שירי אהבה
 https://liveradio.co.il:9000/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius_nostalgi.png" group-title="🇮🇱 ישראל",רדיוס נוסטלגי 96.3FM
+https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hakatze.jpg" group-title="🇮🇱 ישראל",הקצה
+http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg" group-title="🇮🇱 ישראל",רדיו קול הצפון
+https://live.ecast.co.il/stream/khz
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrah.jpg" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_ramat_hasharon.jpg" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
@@ -433,6 +433,8 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🇷🇺 Россия",Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="🇷🇺 Россия",Продвижение
+https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://i.imgur.com/KuL21f9.png" group-title="🇷🇺 Россия",Русь
 http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🇷🇺 Россия",Смотрим 100% Праздник
@@ -449,6 +451,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="🇷🇺 Россия",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="🇷🇺 Россия",Soyuzny
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleDom.ru@SD" tvg-logo="https://i.imgur.com/071JRrb.png" group-title="🇷🇺 Россия",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fnewradio.ru%2Fimages%2FLogo.svg&output=png&w=512&h=512&fit=contain&cbg=00000000" group-title="🇷🇺 Россия",Новое Радио
@@ -1021,6 +1025,8 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="📚 Познавательные",Nano HD
 http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://i.imgur.com/67ZVDKW.png" group-title="📚 Познавательные",Nasha Tema
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_nat_geo_wild.jpg" group-title="📚 Познавательные",Nat Geo WILD
 https://stream3.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_national_geographic.jpg" group-title="📚 Познавательные",National Geographic
