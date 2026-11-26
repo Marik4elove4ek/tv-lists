@@ -4281,21 +4281,21 @@
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio.ukr.radio%2Fur1-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_ur1.png",
-    "order": 100
+    "order": 840
   },
   {
     "name": "Радіо Промінь",
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio2.ukr.radio%2Fur2-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_promin.jpg",
-    "order": 101
+    "order": 841
   },
   {
     "name": "Радіо Культура",
     "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio3.ukr.radio%2Fur3-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kultura.png",
-    "order": 102
+    "order": 842
   },
   {
     "name": "Хіт FM",
@@ -4309,7 +4309,7 @@
     "url": "https://online.kissfm.ua/KissFM_HD",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kissfm.png",
-    "order": 104
+    "order": 101
   },
   {
     "name": "Люкс FM",
@@ -4379,7 +4379,7 @@
     "url": "https://cast.fex.net/djfm_x",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_djfm.png",
-    "order": 114
+    "order": 100
   },
   {
     "name": "Шлягер FM",
