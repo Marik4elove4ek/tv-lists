@@ -4088,48 +4088,49 @@
     "url": "https://live.ecast.co.il/stream/69fm",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.11,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/429.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio69.png"
   },
   {
     "name": "רדיו אלי ניסמן",
     "url": "https://listen6.myradio24.com/25715",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.12,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fniceman087.wixsite.com"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_eli_nisman.jpg"
   },
   {
     "name": "ברדוגו לייב",
     "url": "https://securestreams.autopo.st:2572/;&type=mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.13,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fbardugogroup-live.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_bardugo.png"
   },
   {
     "name": "רדיו להיט",
     "url": "https://liveradio.co.il:8828/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.14
+    "order": 795.14,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lehit.jpg"
   },
   {
     "name": "מהות החיים",
     "url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.15,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fwww.eol.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mahut_hachaim.png"
   },
   {
     "name": "רדיו Hits IL",
     "url": "https://icecast.live/proxy/livegreece/hitsil",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.16,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fhitsil.com"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hits_il.png"
   },
   {
     "name": "רדיו שירי דיכאון",
     "url": "https://radio.diki-mizrahit.co.il/",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.17,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdiki-mizrahit.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_shirei_dikaon.jpg"
   },
   {
     "name": "גלגלצ מזרחית",
@@ -4143,63 +4144,63 @@
     "url": "https://radio.kolnesher.co.il:7777/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.19,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fkol-arim.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_arim.jpg"
   },
   {
     "name": "רדיו בריזר",
     "url": "https://sweb.co.il:8004/listen.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.2,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/215.jpg"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_brizer.jpg"
   },
   {
     "name": "רדיו מנטה",
     "url": "https://menta-fm.co.il/radio/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.21,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmenta-fm.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_menta.jpg"
   },
   {
     "name": "רדיו קצב מזרחית",
     "url": "https://liveradio.co.il:9040/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.22,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fketzev-mizrahit.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_mizrahit.jpg"
   },
   {
     "name": "רדיו קול המרכז",
     "url": "https://liveradio.co.il:9070/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.23,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/251.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hamerkaz.jpg"
   },
   {
     "name": "רדיו קצב ים תיכוני",
     "url": "https://liveradio.co.il:1040/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.24,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/213.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_yam.png"
   },
   {
     "name": "רדיו 5",
     "url": "https://liveradio.co.il:8070/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.25,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradio5.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio5.jpg"
   },
   {
     "name": "רדיו נטו",
     "url": "https://live.ecast.co.il/stream/radioneto1",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.26,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fradio-idan.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_neto.png"
   },
   {
     "name": "רדיו מרטיט בלב",
     "url": "https://liveradio.co.il:9030/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.27,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradio-martit-m-b.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_martit.png"
   },
   {
     "name": "רדיו כחול לבן",
@@ -4212,46 +4213,49 @@
     "name": "המזרחית",
     "url": "https://live.ecast.co.il/stream/mizrahit",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.29
+    "order": 795.29,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrahit.jpg"
   },
   {
     "name": "רדיו לב העיר",
     "url": "https://liveradio.co.il:7050/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.3,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/308.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lev_hair.jpg"
   },
   {
     "name": "רדיו חדש על הגל",
     "url": "https://liveradio.co.il:8020/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.31,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradio-martit-m-b.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hadash_al_hagal.png"
   },
   {
     "name": "רדיו חולמים ים תיכוני",
     "url": "https://liveradio.co.il:8110/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.32
+    "order": 795.32,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_holmim.jpg"
   },
   {
     "name": "רדיו מרוקו",
     "url": "https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.33
+    "order": 795.33,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_morocco.jpg"
   },
   {
     "name": "רדיו נט",
     "url": "http://liveradio.co.il:9910/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.34,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradio-net.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_net.jpg"
   },
   {
     "name": "רדיו מזרח ישן",
     "url": "https://cast5.asurahosting.com/proxy/idan/stream",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.35,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmizrah-yashan.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrah_yashan.jpg"
   }
 ]
