@@ -4275,5 +4275,264 @@
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 794.001,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrah_yashan.jpg"
+  },
+  {
+    "name": "Українське радіо",
+    "url": "https://radio.ukr.radio/ur1-mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_ur1.png",
+    "order": 100
+  },
+  {
+    "name": "Радіо Промінь",
+    "url": "https://radio.ukr.radio/ur2-mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_promin.jpg",
+    "order": 101
+  },
+  {
+    "name": "Радіо Культура",
+    "url": "https://radio.ukr.radio/ur3-mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kultura.png",
+    "order": 102
+  },
+  {
+    "name": "Хіт FM",
+    "url": "https://online.hitfm.ua/HitFM_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_hitfm.png",
+    "order": 103
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://online.kissfm.ua/KissFM_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kissfm.png",
+    "order": 104
+  },
+  {
+    "name": "Люкс FM",
+    "url": "https://icecastlv.luxnet.ua/lux_hd",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_luxfm.png",
+    "order": 105
+  },
+  {
+    "name": "Радіо Максимум",
+    "url": "https://icecastlv.luxnet.ua/maximum_hd",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_maximum.png",
+    "order": 106
+  },
+  {
+    "name": "Radio ROKS",
+    "url": "https://online.radioroks.ua/RadioROKS_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_roks.png",
+    "order": 107
+  },
+  {
+    "name": "Мелодія FM",
+    "url": "https://online.melodiafm.ua/MelodiaFM_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_melodiafm.png",
+    "order": 108
+  },
+  {
+    "name": "Наше радіо",
+    "url": "https://online.nasheradio.ua/NasheRadio_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_nashe.jpg",
+    "order": 109
+  },
+  {
+    "name": "Relax FM",
+    "url": "https://online.radiorelax.ua/RadioRelax_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_relax.png",
+    "order": 110
+  },
+  {
+    "name": "Radio Jazz",
+    "url": "https://online.radiojazz.ua/RadioJazz_HD",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_jazz.png",
+    "order": 111
+  },
+  {
+    "name": "Nostalgie 99",
+    "url": "https://icecastlv.luxnet.ua/nostalgie_hd",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_nostalgie.png",
+    "order": 112
+  },
+  {
+    "name": "Power FM",
+    "url": "https://cast.fex.net/power_x",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_powerfm.png",
+    "order": 113
+  },
+  {
+    "name": "DJ FM",
+    "url": "https://cast.fex.net/djfm_x",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_djfm.png",
+    "order": 114
+  },
+  {
+    "name": "Шлягер FM",
+    "url": "https://cast.fex.net/shanson_x",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_shlager.png",
+    "order": 115
+  },
+  {
+    "name": "Країна FM",
+    "url": "https://live2.radioec.com.ua/kiev128s.mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kraina.png",
+    "order": 116
+  },
+  {
+    "name": "Перець FM",
+    "url": "https://radio.urg.ua/radio-stilnoe",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_perec.jpg",
+    "order": 117
+  },
+  {
+    "name": "Європа Плюс Україна",
+    "url": "https://s5.radioforge.com:7908/live",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_europaplus.jpg",
+    "order": 118
+  },
+  {
+    "name": "Best FM",
+    "url": "https://radio.bestfm.ua/bestfm",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_bestfm.png",
+    "order": 119
+  },
+  {
+    "name": "Радіо П'ятниця",
+    "url": "https://cast.mediaonline.net.ua/radiopyatnica320",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_pyatnica.jpg",
+    "order": 120
+  },
+  {
+    "name": "Lounge FM",
+    "url": "https://cast.mediaonline.net.ua/loungefm320",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_lounge.png",
+    "order": 121
+  },
+  {
+    "name": "Classic Radio",
+    "url": "https://online.classicradio.ua/ClassicRadio",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_classic.png",
+    "order": 122
+  },
+  {
+    "name": "Київ 98 FM",
+    "url": "https://cdn.vsnw.net:8943/kyiv_fm_320k",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kyiv98.png",
+    "order": 123
+  },
+  {
+    "name": "Армія FM",
+    "url": "https://icecast.armyfm.com.ua:8443/ArmyFM_320",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_armyfm.png",
+    "order": 124
+  },
+  {
+    "name": "Байрактар",
+    "url": "https://online.radiobayraktar.ua/RadioBayraktar",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_bayraktar.jpg",
+    "order": 125
+  },
+  {
+    "name": "Радіо М",
+    "url": "https://live.radiom.ua/stream_mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_radiom.jpg",
+    "order": 126
+  },
+  {
+    "name": "ChampionRadio",
+    "url": "https://stream.radio.co/sb2e65a7e8/listen",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_champion.png",
+    "order": 127
+  },
+  {
+    "name": "Прямий FM",
+    "url": "https://cast.mediaonline.net.ua/prmfm",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_pryamyj.jpg",
+    "order": 128
+  },
+  {
+    "name": "Яскраве радіо",
+    "url": "https://vofile.ru/ukraine/iaskrave-radio-ua/icecast.audio",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_yaskrave.png",
+    "order": 129
+  },
+  {
+    "name": "Radio Miami",
+    "url": "https://stream04.pcradio.ru/miamibeach_radio-med",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_miami.jpg",
+    "order": 130
+  },
+  {
+    "name": "Просто Ради.О",
+    "url": "http://62.80.190.246:8000/PRK128",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_prosto.jpg",
+    "order": 131
+  },
+  {
+    "name": "Радіо Місто над Бугом (Вінниця)",
+    "url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_mistonadbugom.jpg",
+    "order": 132
+  },
+  {
+    "name": "Радіо Такт (Вінниця)",
+    "url": "https://play.radiotakt.com.ua:8443/takt",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_takt.png",
+    "order": 133
+  },
+  {
+    "name": "Громадське радіо",
+    "url": "https://hromadske.radio/radio_https_upstream",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_hromadske.jpg",
+    "order": 900
+  },
+  {
+    "name": "Radio NV",
+    "url": "https://online-radio.nv.ua/radionv.mp3",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_nv.jpg",
+    "order": 901
+  },
+  {
+    "name": "Бізнес Радіо",
+    "url": "https://cast.fex.net/bfm_x",
+    "group": "📻 🇺🇦 Радио Украина",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_bfm.jpg",
+    "order": 902
   }
 ]
