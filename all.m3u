@@ -137,35 +137,35 @@ https://listen.radioking.com/radio/345145/stream/393862
 https://us1.streamingpulse.com/ssl/KolHalev
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_rega.png" group-title="🇮🇱 ישראל",רדיו קול רגע 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.963fm.co.il/wp-content/uploads/2025/11/cropped-F-270x270.png" group-title="🇮🇱 ישראל",רדיוס נוסטלגי 96.3FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius_nostalgi.png" group-title="🇮🇱 ישראל",רדיוס נוסטלגי 96.3FM
 https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="🇮🇱 ישראל",הקצה
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/424.png" group-title="🇮🇱 ישראל",רדיו קול הצפון
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg" group-title="🇮🇱 ישראל",רדיו קול הצפון
 https://live.ecast.co.il/stream/khz
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradiohamizrah.co.il" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrah.jpg" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/303.png" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_ramat_hasharon.jpg" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
 https://radio.streamgates.net/stream/1036
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/48.png" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hagalil.png" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
 https://radio.streamgates.net/stream/galil
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.kinneret.ac.il" group-title="🇮🇱 ישראל",קול הכנרת 106FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_kinneret.jpg" group-title="🇮🇱 ישראל",קול הכנרת 106FM
 https://radio.streamgates.net/stream/kinneret
-#EXTINF:-1 tvg-id="" group-title="🇮🇱 ישראל",רדיו קסם 106FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kesem.png" group-title="🇮🇱 ישראל",רדיו קסם 106FM
 https://cdn.streamgates.net/Kessem_Radio/live/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2F1062fm.co.il" group-title="🇮🇱 ישראל",רדיו הבינתחומי 106.2FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_bein_tchumi.jpg" group-title="🇮🇱 ישראל",רדיו הבינתחומי 106.2FM
 https://1062onair.runi.ac.il/idc123.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fwww.radio-mania.co.il" group-title="🇮🇱 ישראל",רדיו מאניה
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mania.png" group-title="🇮🇱 ישראל",רדיו מאניה
 https://cast.ereznet.co.il//radio//8030//radio.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmetsiot.com" group-title="🇮🇱 ישראל",רדיו מציאות
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_metsiyut.jpg" group-title="🇮🇱 ישראל",רדיו מציאות
 https://carina.streamerr.co/stream/metsiot1
-#EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/51.png" group-title="🇮🇱 ישראל",קול יזרעאל
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_yizrael.jpg" group-title="🇮🇱 ישראל",קול יזרעאל
 https://radio.streamgates.net/stream/yezreel/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.radio69fm.com" group-title="🇮🇱 ישראל",מוסיכיף 69FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_music69.png" group-title="🇮🇱 ישראל",מוסיכיף 69FM
 https://a2.asurahosting.com:6290/radio.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fradiohevrati.co.il" group-title="🇮🇱 ישראל",הרדיו החברתי
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hahevrati.jpg" group-title="🇮🇱 ישראל",הרדיו החברתי
 https://live.ecast.co.il/stream/hevrati
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradiosahar.co.il" group-title="🇮🇱 ישראל",רדיו סהר
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_sahar.png" group-title="🇮🇱 ישראל",רדיו סהר
 https://live.ecast.co.il/stream/sahar
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.media.2net.co.il/storage/item_icons/429.png" group-title="🇮🇱 ישראל",רדיו 69FM
 https://live.ecast.co.il/stream/69fm
@@ -233,7 +233,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_barama.png" group-title="🇮🇱 ישראל",רדיו קול ברמה
 https://live.kol-barama.co.il/hls/mystreambini.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png" group-title="🇮🇱 ישראל",קול פליי
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_play.jpg" group-title="🇮🇱 ישראל",קול פליי
 https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_chai.png" group-title="🇮🇱 ישראל",רדיו קול חי 93FM
 https://media2.93fm.co.il/live-new

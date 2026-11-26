@@ -3975,14 +3975,14 @@
     "name": "קול פליי",
     "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "logo": "https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_play.jpg",
     "order": 900.5
   },
   {
     "name": "רדיוס נוסטלגי 96.3FM",
     "url": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "logo": "https://www.963fm.co.il/wp-content/uploads/2025/11/cropped-F-270x270.png",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius_nostalgi.png",
     "order": 791
   },
   {
@@ -3997,90 +3997,91 @@
     "url": "https://live.ecast.co.il/stream/khz",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 793,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/424.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg"
   },
   {
     "name": "רדיו המזרח 106FM",
     "url": "https://liveradio.co.il:9089/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 794,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradiohamizrah.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrah.jpg"
   },
   {
     "name": "רדיו 103.6FM רמת השרון",
     "url": "https://radio.streamgates.net/stream/1036",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/303.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_ramat_hasharon.jpg"
   },
   {
     "name": "קול הגליל 105.3FM",
     "url": "https://radio.streamgates.net/stream/galil",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.01,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/48.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hagalil.png"
   },
   {
     "name": "קול הכנרת 106FM",
     "url": "https://radio.streamgates.net/stream/kinneret",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.02,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.kinneret.ac.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_kinneret.jpg"
   },
   {
     "name": "רדיו קסם 106FM",
     "url": "https://cdn.streamgates.net/Kessem_Radio/live/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.03
+    "order": 795.03,
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kesem.png"
   },
   {
     "name": "רדיו הבינתחומי 106.2FM",
     "url": "https://1062onair.runi.ac.il/idc123.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.04,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2F1062fm.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_bein_tchumi.jpg"
   },
   {
     "name": "רדיו מאניה",
     "url": "https://cast.ereznet.co.il//radio//8030//radio.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.05,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fwww.radio-mania.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mania.png"
   },
   {
     "name": "רדיו מציאות",
     "url": "https://carina.streamerr.co/stream/metsiot1",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.06,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmetsiot.com"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_metsiyut.jpg"
   },
   {
     "name": "קול יזרעאל",
     "url": "https://radio.streamgates.net/stream/yezreel/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.07,
-    "logo": "https://radio.media.2net.co.il/storage/item_icons/51.png"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_yizrael.jpg"
   },
   {
     "name": "מוסיכיף 69FM",
     "url": "https://a2.asurahosting.com:6290/radio.mp3",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.08,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.radio69fm.com"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_music69.png"
   },
   {
     "name": "הרדיו החברתי",
     "url": "https://live.ecast.co.il/stream/hevrati",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.09,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=http%3A%2F%2Fradiohevrati.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hahevrati.jpg"
   },
   {
     "name": "רדיו סהר",
     "url": "https://live.ecast.co.il/stream/sahar",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.1,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fradiosahar.co.il"
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_sahar.png"
   },
   {
     "name": "רדיו 69FM",
