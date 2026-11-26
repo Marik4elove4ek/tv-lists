@@ -4007,6 +4007,24 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg"
   },
   {
+    "name": "Joint Radio Beat",
+    "url": "https://jointil.com/stream-beat",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://www.jointil.com/broadcast/images/logo-joint-radio-beat-03.png"
+  },
+  {
+    "name": "רדיו פלוס",
+    "url": "https://s3.yesstreaming.net:17049/stream",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_plus.png"
+  },
+  {
+    "name": "רדיו שירי אהבה",
+    "url": "https://liveradio.co.il:9000/;",
+    "group": "📻 🇮🇱 רדיו ישראלי",
+    "logo": "https://radiolove.co.il/wp-content/uploads/2020/03/cropped-Love-Radio-logo-2012-192x192.png"
+  },
+  {
     "name": "רדיו המזרח 106FM",
     "url": "https://liveradio.co.il:9089/;",
     "group": "📻 🇮🇱 רדיו ישראלי",

@@ -143,6 +143,12 @@ https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg" group-title="🇮🇱 ישראל",רדיו קול הצפון
 https://live.ecast.co.il/stream/khz
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jointil.com/broadcast/images/logo-joint-radio-beat-03.png" group-title="🇮🇱 ישראל",Joint Radio Beat
+https://jointil.com/stream-beat
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_plus.png" group-title="🇮🇱 ישראל",רדיו פלוס
+https://s3.yesstreaming.net:17049/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiolove.co.il/wp-content/uploads/2020/03/cropped-Love-Radio-logo-2012-192x192.png" group-title="🇮🇱 ישראל",רדיו שירי אהבה
+https://liveradio.co.il:9000/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrah.jpg" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_ramat_hasharon.jpg" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
