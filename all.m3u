@@ -85,8 +85,6 @@ https://995.livecdn.biz/995fm
 https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_sport5.jpg" group-title="🇮🇱 ישראל",רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hatahana.png" group-title="🇮🇱 ישראל",התחנה 101.5FM
-https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio1.png" group-title="🇮🇱 ישראל",רדיו 1
 https://radio.streamgates.net/stream/radio1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_r90.png" group-title="🇮🇱 ישראל",רדיו 90FM
@@ -151,6 +149,12 @@ http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 https://live.ecast.co.il/stream/khz
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrah.jpg" group-title="🇮🇱 ישראל",רדיו המזרח 106FM
 https://liveradio.co.il:9089/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrah_yashan.jpg" group-title="🇮🇱 ישראל",רדיו מזרח ישן
+https://cast5.asurahosting.com/proxy/idan/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_yam.png" group-title="🇮🇱 ישראל",רדיו קצב ים תיכוני
+https://liveradio.co.il:1040/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hatahana.png" group-title="🇮🇱 ישראל",התחנה 101.5FM
+https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_ramat_hasharon.jpg" group-title="🇮🇱 ישראל",רדיו 103.6FM רמת השרון
 https://radio.streamgates.net/stream/1036
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hagalil.png" group-title="🇮🇱 ישראל",קול הגליל 105.3FM
@@ -199,8 +203,6 @@ https://menta-fm.co.il/radio/;
 https://liveradio.co.il:9040/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hamerkaz.jpg" group-title="🇮🇱 ישראל",רדיו קול המרכז
 https://liveradio.co.il:9070/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_yam.png" group-title="🇮🇱 ישראל",רדיו קצב ים תיכוני
-https://liveradio.co.il:1040/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio5.jpg" group-title="🇮🇱 ישראל",רדיו 5
 https://liveradio.co.il:8070/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_neto.png" group-title="🇮🇱 ישראל",רדיו נטו
@@ -219,8 +221,6 @@ https://liveradio.co.il:8110/;
 https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_net.jpg" group-title="🇮🇱 ישראל",רדיו נט
 http://liveradio.co.il:9910/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrah_yashan.jpg" group-title="🇮🇱 ישראל",רדיו מזרח ישן
-https://cast5.asurahosting.com/proxy/idan/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_bet.png" group-title="🇮🇱 ישראל",כאן רשת ב
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_gimel.png" group-title="🇮🇱 ישראל",כאן גימל

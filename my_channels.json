@@ -276,7 +276,7 @@
     "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/playlist.m3u8",
     "group": "📻 🇮🇱 רדיו ישראלי",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hatahana.png",
-    "order": 105
+    "order": 794.003
   },
   {
     "name": "רדיו חיפה 107.5FM",
@@ -4203,7 +4203,7 @@
     "name": "רדיו קצב ים תיכוני",
     "url": "https://liveradio.co.il:1040/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.24,
+    "order": 794.002,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_yam.png"
   },
   {
@@ -4273,7 +4273,7 @@
     "name": "רדיו מזרח ישן",
     "url": "https://cast5.asurahosting.com/proxy/idan/stream",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.35,
+    "order": 794.001,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_mizrah_yashan.jpg"
   }
 ]
