@@ -4278,21 +4278,21 @@
   },
   {
     "name": "Українське радіо",
-    "url": "https://radio.ukr.radio/ur1-mp3",
+    "url": "https://radio1.ukr.radio/ur1-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_ur1.png",
     "order": 100
   },
   {
     "name": "Радіо Промінь",
-    "url": "https://radio.ukr.radio/ur2-mp3",
+    "url": "https://radio2.ukr.radio/ur2-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_promin.jpg",
     "order": 101
   },
   {
     "name": "Радіо Культура",
-    "url": "https://radio.ukr.radio/ur3-mp3",
+    "url": "https://radio3.ukr.radio/ur3-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kultura.png",
     "order": 102
@@ -4481,21 +4481,21 @@
   },
   {
     "name": "Яскраве радіо",
-    "url": "https://vofile.ru/ukraine/iaskrave-radio-ua/icecast.audio",
+    "url": "http://vobu.com.ua:8000/yaskrave-192",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_yaskrave.png",
     "order": 129
   },
   {
     "name": "Radio Miami",
-    "url": "https://stream04.pcradio.ru/miamibeach_radio-med",
+    "url": "http://62.80.190.247:8001/NRK128",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_miami.jpg",
     "order": 130
   },
   {
     "name": "Просто Ради.О",
-    "url": "http://62.80.190.246:8000/PRK128",
+    "url": "http://85.238.113.60:8000/PRK128",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_prosto.jpg",
     "order": 131
