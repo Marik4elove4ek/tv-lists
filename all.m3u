@@ -181,7 +181,7 @@ https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
 https://icecast.live/proxy/livegreece/hitsil
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_shirei_dikaon.jpg" group-title="🇮🇱 ישראל",רדיו שירי דיכאון
 https://radio.diki-mizrahit.co.il/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galgalatz.png" group-title="🇮🇱 ישראל",גלגלצ מזרחית
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galgalatz_yam.png" group-title="🇮🇱 ישראל",גלגלצ מזרחית
 https://glzwizzlv.bynetcdn.com/glglz_med_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_arim.jpg" group-title="🇮🇱 ישראל",רדיו קול ערים
 https://radio.kolnesher.co.il:7777/;
