@@ -3989,7 +3989,7 @@
     "name": "הקצה",
     "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
-    "logo": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hakatze.jpg",
     "order": 792
   },
   {
@@ -4201,13 +4201,6 @@
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.27,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_martit.png"
-  },
-  {
-    "name": "רדיו כחול לבן",
-    "url": "https://ams-pioneer02.dedicateware.com/live",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.28,
-    "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.radiokahollavan.co.il"
   },
   {
     "name": "המזרחית",

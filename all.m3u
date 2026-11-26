@@ -139,7 +139,7 @@ https://us1.streamingpulse.com/ssl/KolHalev
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radius_nostalgi.png" group-title="🇮🇱 ישראל",רדיוס נוסטלגי 96.3FM
 https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="🇮🇱 ישראל",הקצה
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hakatze.jpg" group-title="🇮🇱 ישראל",הקצה
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hatzafon.jpg" group-title="🇮🇱 ישראל",רדיו קול הצפון
 https://live.ecast.co.il/stream/khz
@@ -201,8 +201,6 @@ https://liveradio.co.il:8070/;
 https://live.ecast.co.il/stream/radioneto1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_martit.png" group-title="🇮🇱 ישראל",רדיו מרטיט בלב
 https://liveradio.co.il:9030/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.radiokahollavan.co.il" group-title="🇮🇱 ישראל",רדיו כחול לבן
-https://ams-pioneer02.dedicateware.com/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_hamizrahit.jpg" group-title="🇮🇱 ישראל",המזרחית
 https://live.ecast.co.il/stream/mizrahit
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lev_hair.jpg" group-title="🇮🇱 ישראל",רדיו לב העיר
