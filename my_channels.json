@@ -4278,21 +4278,21 @@
   },
   {
     "name": "Українське радіо",
-    "url": "https://radio1.ukr.radio/ur1-mp3",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio.ukr.radio%2Fur1-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_ur1.png",
     "order": 100
   },
   {
     "name": "Радіо Промінь",
-    "url": "https://radio2.ukr.radio/ur2-mp3",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio2.ukr.radio%2Fur2-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_promin.jpg",
     "order": 101
   },
   {
     "name": "Радіо Культура",
-    "url": "https://radio3.ukr.radio/ur3-mp3",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fradio3.ukr.radio%2Fur3-mp3",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kultura.png",
     "order": 102
@@ -4418,14 +4418,14 @@
   },
   {
     "name": "Радіо П'ятниця",
-    "url": "https://cast.mediaonline.net.ua/radiopyatnica320",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fcast.mediaonline.net.ua%2Fradiopyatnica320",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_pyatnica.jpg",
     "order": 120
   },
   {
     "name": "Lounge FM",
-    "url": "https://cast.mediaonline.net.ua/loungefm320",
+    "url": "https://lupo-ritsa.kobozevmark.workers.dev/s?u=https%3A%2F%2Fcast.mediaonline.net.ua%2Floungefm320",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_lounge.png",
     "order": 121
