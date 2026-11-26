@@ -4330,7 +4330,7 @@
     "url": "https://online.radioroks.ua/RadioROKS_HD",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_roks.png",
-    "order": 107
+    "order": 850
   },
   {
     "name": "Мелодія FM",
@@ -4435,14 +4435,14 @@
     "url": "https://online.classicradio.ua/ClassicRadio",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_classic.png",
-    "order": 122
+    "order": 851
   },
   {
     "name": "Київ 98 FM",
     "url": "https://cdn.vsnw.net:8943/kyiv_fm_320k",
     "group": "📻 🇺🇦 Радио Украина",
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/ua_radio_kyiv98.png",
-    "order": 123
+    "order": 852
   },
   {
     "name": "Армія FM",
