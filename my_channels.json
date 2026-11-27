@@ -1695,6 +1695,14 @@
     "order": 4.62
   },
   {
+    "name": "Muzyka Pervogo 2",
+    "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
+    "group": "🎵 Музыка",
+    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/myru_muzyka_pervogo.jpg",
+    "epg": "MuzykaPervogo.ru@SD",
+    "order": 4.63
+  },
+  {
     "id": "SONGTVRussia.ru@SD",
     "order": 4.8
   },
