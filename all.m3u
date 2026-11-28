@@ -135,8 +135,6 @@ https://listen.radioking.com/radio/345145/stream/393862
 https://us1.streamingpulse.com/ssl/KolHalev
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_rega.png" group-title="🇮🇱 ישראל",רדיו קול רגע 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_joint_radio_beat.jpg" group-title="🇮🇱 ישראל",Joint Radio Beat
-https://jointil.com/stream-beat
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_plus.png" group-title="🇮🇱 ישראל",רדיו פלוס
 https://s3.yesstreaming.net:17049/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiolove.co.il/wp-content/uploads/2020/03/cropped-Love-Radio-logo-2012-192x192.png" group-title="🇮🇱 ישראל",רדיו שירי אהבה
