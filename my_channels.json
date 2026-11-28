@@ -4166,13 +4166,6 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_shirei_dikaon.jpg"
   },
   {
-    "name": "גלגלצ מזרחית",
-    "url": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.18,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galgalatz_yam.png"
-  },
-  {
     "name": "רדיו קול ערים",
     "url": "https://radio.kolnesher.co.il:7777/;",
     "group": "📻 🇮🇱 רדיו ישראלי",
@@ -4199,13 +4192,6 @@
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.22,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_mizrahit.jpg"
-  },
-  {
-    "name": "רדיו קול המרכז",
-    "url": "https://liveradio.co.il:9070/;",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.23,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hamerkaz.jpg"
   },
   {
     "name": "רדיו קצב ים תיכוני",
@@ -4262,20 +4248,6 @@
     "group": "📻 🇮🇱 רדיו ישראלי",
     "order": 795.32,
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_holmim.jpg"
-  },
-  {
-    "name": "רדיו מרוקו",
-    "url": "https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.33,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_morocco.jpg"
-  },
-  {
-    "name": "רדיו נט",
-    "url": "http://liveradio.co.il:9910/;",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.34,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_net.jpg"
   },
   {
     "name": "רדיו מזרח ישן",

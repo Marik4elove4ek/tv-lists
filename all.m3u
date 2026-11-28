@@ -191,8 +191,6 @@ https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
 https://icecast.live/proxy/livegreece/hitsil
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_shirei_dikaon.jpg" group-title="🇮🇱 ישראל",רדיו שירי דיכאון
 https://radio.diki-mizrahit.co.il/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_galgalatz_yam.png" group-title="🇮🇱 ישראל",גלגלצ מזרחית
-https://glzwizzlv.bynetcdn.com/glglz_med_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_arim.jpg" group-title="🇮🇱 ישראל",רדיו קול ערים
 https://radio.kolnesher.co.il:7777/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_brizer.jpg" group-title="🇮🇱 ישראל",רדיו בריזר
@@ -201,8 +199,6 @@ https://sweb.co.il:8004/listen.mp3
 https://menta-fm.co.il/radio/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_katzav_mizrahit.jpg" group-title="🇮🇱 ישראל",רדיו קצב מזרחית
 https://liveradio.co.il:9040/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kol_hamerkaz.jpg" group-title="🇮🇱 ישראל",רדיו קול המרכז
-https://liveradio.co.il:9070/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio5.jpg" group-title="🇮🇱 ישראל",רדיו 5
 https://liveradio.co.il:8070/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_neto.png" group-title="🇮🇱 ישראל",רדיו נטו
@@ -217,10 +213,6 @@ https://liveradio.co.il:7050/;
 https://liveradio.co.il:8020/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_holmim.jpg" group-title="🇮🇱 ישראל",רדיו חולמים ים תיכוני
 https://liveradio.co.il:8110/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_morocco.jpg" group-title="🇮🇱 ישראל",רדיו מרוקו
-https://usa16.fastcast4u.com/proxy/radiomarocco?mp=/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_radio_net.jpg" group-title="🇮🇱 ישראל",רדיו נט
-http://liveradio.co.il:9910/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_bet.png" group-title="🇮🇱 ישראל",כאן רשת ב
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_kan_gimel.png" group-title="🇮🇱 ישראל",כאן גימל
