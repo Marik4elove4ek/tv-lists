@@ -4138,13 +4138,6 @@
     "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_bardugo.png"
   },
   {
-    "name": "רדיו להיט",
-    "url": "https://liveradio.co.il:8828/;",
-    "group": "📻 🇮🇱 רדיו ישראלי",
-    "order": 795.14,
-    "logo": "https://raw.githubusercontent.com/Marik4elove4ek/tv-lists/main/logos/il_lehit.jpg"
-  },
-  {
     "name": "מהות החיים",
     "url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
     "group": "📻 🇮🇱 רדיו ישראלי",
